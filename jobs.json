@@ -1,0 +1,173 @@
+{
+ "generatedAt": null,
+ "sources": [
+  {
+   "id": "duolingo",
+   "name": "Duolingo",
+   "kind": "company",
+   "method": "greenhouse",
+   "url": "https://careers.duolingo.com/",
+   "color": "#58A700",
+   "fg": "#FFFFFF",
+   "note": "Waiting for the first refresh",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "mindbody",
+   "name": "Mindbody (Playlist)",
+   "kind": "company",
+   "method": "greenhouse",
+   "url": "https://www.playlist.com/careers",
+   "color": "#0A7EA4",
+   "fg": "#FFFFFF",
+   "note": "Waiting for the first refresh",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "watershed",
+   "name": "Watershed",
+   "kind": "company",
+   "method": "ashby",
+   "url": "https://jobs.ashbyhq.com/watershed",
+   "color": "#1B5E8C",
+   "fg": "#FFFFFF",
+   "note": "Waiting for the first refresh",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "rmi",
+   "name": "Rocky Mountain Institute",
+   "kind": "company",
+   "method": "workday",
+   "url": "https://rockymountain.wd1.myworkdayjobs.com/RMI",
+   "color": "#B8860B",
+   "fg": "#FFFFFF",
+   "note": "Waiting for the first refresh",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "prh",
+   "name": "Penguin Random House",
+   "kind": "company",
+   "method": "link",
+   "url": "https://careers.penguinrandomhouse.com/",
+   "color": "#E8590C",
+   "fg": "#FFFFFF",
+   "note": "Jobs are on separate search pages with no public feed found",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "hinge",
+   "name": "Hinge",
+   "kind": "company",
+   "method": "link",
+   "url": "https://hinge.co/careers",
+   "color": "#2B2B2B",
+   "fg": "#FFFFFF",
+   "note": "No feed found yet. Try scripts/probe.mjs to look for one",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "patreon",
+   "name": "Patreon",
+   "kind": "company",
+   "method": "link",
+   "url": "https://www.patreon.com/careers",
+   "color": "#E85B46",
+   "fg": "#FFFFFF",
+   "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "nyt",
+   "name": "The New York Times",
+   "kind": "company",
+   "method": "link",
+   "url": "https://www.nytco.com/careers/",
+   "color": "#111111",
+   "fg": "#FFFFFF",
+   "note": "No feed found yet",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "liquiddeath",
+   "name": "Liquid Death",
+   "kind": "company",
+   "method": "link",
+   "url": "https://liquiddeath.com/pages/careers",
+   "color": "#C9A100",
+   "fg": "#111111",
+   "note": "No feed found yet. Try scripts/probe.mjs",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "tnc",
+   "name": "The Nature Conservancy",
+   "kind": "company",
+   "method": "link",
+   "url": "https://www.nature.org/en-us/about-tnc/careers/",
+   "color": "#2E7D32",
+   "fg": "#FFFFFF",
+   "note": "No feed found yet",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "greenriver",
+   "name": "Green River Data Group",
+   "kind": "company",
+   "method": "link",
+   "color": "#00838F",
+   "fg": "#FFFFFF",
+   "note": "Careers page not found yet. Add its address as \"url\" in sources.json",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "builtinnyc",
+   "name": "Built In NYC",
+   "kind": "board",
+   "method": "link",
+   "url": "https://builtin.com/jobs/new-york-city",
+   "color": "#6D4AFF",
+   "fg": "#FFFFFF",
+   "note": "Tech job board for New York. No public feed, so search it directly",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "wellfound",
+   "name": "Wellfound",
+   "kind": "board",
+   "method": "link",
+   "url": "https://wellfound.com/jobs",
+   "color": "#D6336C",
+   "fg": "#FFFFFF",
+   "note": "Startup job board. No public feed, so search it directly",
+   "status": "link",
+   "count": 0
+  },
+  {
+   "id": "techjobsforgood",
+   "name": "Tech Jobs for Good",
+   "kind": "board",
+   "method": "link",
+   "url": "https://techjobsforgood.com/",
+   "color": "#2F9E44",
+   "fg": "#FFFFFF",
+   "note": "Mission-driven tech jobs. No public feed, so search it directly",
+   "status": "link",
+   "count": 0
+  }
+ ],
+ "jobs": []
+}
