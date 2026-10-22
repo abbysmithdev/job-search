@@ -1,0 +1,529 @@
+{
+ "updatedAt": "2026-10-22T17:32:09.774Z",
+ "entries": [
+  {
+   "name": "Anthology",
+   "key": "anthology",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Atlassian",
+   "key": "atlassian",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Bank of America",
+   "key": "bankofamerica",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "BlackRock",
+   "key": "blackrock",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Capital Group",
+   "key": "capitalgroup",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Capital One",
+   "key": "capitalone",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Celonis",
+   "key": "celonis",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "greenhouse",
+   "slug": "celonis",
+   "boardName": "Celonis",
+   "jobCount": 217,
+   "reason": "Board name matches exactly (\"Celonis\")",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "CrowdStrike",
+   "key": "crowdstrike",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Cummins",
+   "key": "cummins",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Deloitte",
+   "key": "deloitte",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Disney",
+   "key": "disney",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "EPAM Systems",
+   "key": "epamsystems",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Equinix, Inc",
+   "key": "equinix",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Exadel",
+   "key": "exadel",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "greenhouse",
+   "slug": "exadelinc",
+   "boardName": "Exadel Inc (Website)",
+   "jobCount": 39,
+   "reason": "Board name matches exactly (\"Exadel Inc (Website)\")",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Fannie Mae",
+   "key": "fanniemae",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Flexport",
+   "key": "flexport",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "greenhouse",
+   "slug": "flexport",
+   "boardName": "Flexport",
+   "jobCount": 193,
+   "reason": "Board name matches exactly (\"Flexport\")",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "General Motors",
+   "key": "generalmotors",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "GitLab",
+   "key": "gitlab",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "greenhouse",
+   "slug": "gitlab",
+   "boardName": "GitLab",
+   "jobCount": 231,
+   "reason": "Board name matches exactly (\"GitLab\")",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "GlossGenius",
+   "key": "glossgenius",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "hims & hers",
+   "key": "himsandhers",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "ashby",
+   "slug": "hims-and-hers",
+   "boardName": "",
+   "jobCount": 150,
+   "reason": "Company is named in 8 of 8 sampled postings",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Hudson River Trading",
+   "key": "hudsonrivertrading",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "JPMorgan Chase",
+   "key": "jpmorganchase",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "KinderCare Learning Companies",
+   "key": "kindercarelearningcompanies",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Kyndryl",
+   "key": "kyndryl",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Labcorp",
+   "key": "labcorp",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Leidos",
+   "key": "leidos",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Liberty Mutual Insurance",
+   "key": "libertymutualinsurance",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Mars Incorporated",
+   "key": "mars",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Maven Clinic",
+   "key": "mavenclinic",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "greenhouse",
+   "slug": "mavenclinic",
+   "boardName": "Maven Clinic",
+   "jobCount": 33,
+   "reason": "Board name matches exactly (\"Maven Clinic\")",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Merrill",
+   "key": "merrill",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Meta",
+   "key": "meta",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Morgan Stanley",
+   "key": "morganstanley",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Oscar Health",
+   "key": "oscarhealth",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "PwC",
+   "key": "pwc",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Rent the Runway",
+   "key": "renttherunway",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "greenhouse",
+   "slug": "renttherunway",
+   "boardName": "Rent the Runway",
+   "jobCount": 28,
+   "reason": "Board name matches exactly (\"Rent the Runway\")",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Salesforce",
+   "key": "salesforce",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Soho House",
+   "key": "sohohouse",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Sonatype",
+   "key": "sonatype",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "lever",
+   "slug": "sonatype",
+   "boardName": "",
+   "jobCount": null,
+   "reason": "Company is named in 8 of 8 sampled postings",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "TELUS Digital",
+   "key": "telusdigital",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "ashby",
+   "slug": "telus-digital",
+   "boardName": "",
+   "jobCount": 62,
+   "reason": "Company is named in 8 of 8 sampled postings",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "TikTok",
+   "key": "tiktok",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Uber",
+   "key": "uber",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Via",
+   "key": "via",
+   "status": "unsure",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "method": "greenhouse",
+   "slug": "via",
+   "boardName": "Via",
+   "jobCount": 179,
+   "reason": "Board name matches exactly (\"Via\")",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Walmart",
+   "key": "walmart",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Zillow",
+   "key": "zillow",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-22T17:32:09.774Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-22T17:32:09.774Z"
+  }
+ ]
+}
