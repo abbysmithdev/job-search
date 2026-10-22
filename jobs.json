@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T04:19:50.311Z",
+ "generatedAt": "2026-10-22T04:27:59.470Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "live",
    "count": 61
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "live",
    "count": 24
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "live",
    "count": 39
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "live",
    "count": 2
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -98,7 +98,7 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -136,7 +136,7 @@
    "color": "#00838F",
    "fg": "#FFFFFF",
    "note": "Careers page not found yet. Add its address as \"url\" in sources.json",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -149,7 +149,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -162,7 +162,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   },
@@ -175,7 +175,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-22T04:19:50.311Z",
+   "lastChecked": "2026-10-22T04:27:59.470Z",
    "status": "link",
    "count": 0
   }
@@ -194,12 +194,12 @@
    "salaryMin": 152000,
    "salaryMax": 228000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.628Z",
    "match": {
     "score": 1,
     "why": "This is a sales role requiring 8+ years in digital advertising and programmatic selling, and the candidate's background is data analytics and engineering with no ad sales experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.628Z"
   },
   {
    "id": "duolingo-8705196002",
@@ -214,12 +214,12 @@
    "salaryMin": 152000,
    "salaryMax": 228000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.648Z",
    "match": {
     "score": 1,
     "why": "This is a sales leadership role requiring 8+ years of digital ad sales, a different field from the candidate's data, BI, and engineering background, with no matching sales experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.648Z"
   },
   {
    "id": "duolingo-8881612002",
@@ -234,12 +234,12 @@
    "salaryMin": 137700,
    "salaryMax": 186300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.693Z",
    "match": {
     "score": 2,
     "why": "Strong match on AI-powered tools and RAG/vector search work, but the role requires a PhD in CS or a related field, which she lacks, and it centers on research publications she doesn't have.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.693Z"
   },
   {
    "id": "duolingo-8625579002",
@@ -251,14 +251,14 @@
    "postedAt": "2026-07-08T20:07:38-04:00",
    "firstSeen": "2026-07-08T20:07:38-04:00",
    "active": true,
-   "salaryCurrency": "JPY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.718Z",
+   "salaryCurrency": "JPY",
    "match": {
     "score": 1,
     "why": "This is a merchandising and e-commerce P&L role in Tokyo requiring 10+ years of consumer retail and business-level Japanese; the candidate's data and BI background is a different field with no stated merch or Japanese skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.718Z"
   },
   {
    "id": "duolingo-8576434002",
@@ -273,12 +273,12 @@
    "salaryMin": 153000,
    "salaryMax": 207000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.754Z",
    "match": {
     "score": 1,
     "why": "This is a corporate legal role requiring a J.D. and bar membership, which the candidate lacks; her data, BI and engineering background does not match at all.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.754Z"
   },
   {
    "id": "duolingo-8888721002",
@@ -290,7 +290,12 @@
    "postedAt": "2026-10-15T16:00:01-04:00",
    "firstSeen": "2026-10-15T16:00:01-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:50.662Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.729Z",
+   "match": {
+    "score": 2,
+    "why": "Strong SQL, Python, and dashboard experience match, but the internship requires current enrollment with graduation in 2027 or 2028, which the candidate does not meet.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8888848002",
@@ -302,12 +307,12 @@
    "postedAt": "2026-10-15T16:00:01-04:00",
    "firstSeen": "2026-10-15T16:00:01-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:50.717Z",
    "match": {
     "score": 2,
     "why": "Strong SQL and Python overlap, but the posting requires a PhD in at least the third year, which the candidate doesn't have. That's a hard credential gap, and the internship's experience-level expectations also differ from hers.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.717Z"
   },
   {
    "id": "duolingo-8761234002",
@@ -322,12 +327,12 @@
    "salaryMin": 183200,
    "salaryMax": 274800,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.696Z",
    "match": {
     "score": 1,
     "why": "This is a sales leadership role requiring 8+ years of direct ad sales, while the candidate's background is data analysis and engineering with no sales experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.696Z"
   },
   {
    "id": "duolingo-8691257002",
@@ -342,12 +347,12 @@
    "salaryMin": 163200,
    "salaryMax": 244800,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.729Z",
    "match": {
     "score": 1,
     "why": "This is a talent acquisition sourcing leadership role requiring 10+ years of recruiting experience and 3+ years managing people, which is a different field from the candidate's data analytics and engineering background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.729Z"
   },
   {
    "id": "duolingo-8602840002",
@@ -362,12 +367,12 @@
    "salaryMin": 152000,
    "salaryMax": 228000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.727Z",
    "match": {
     "score": 1,
     "why": "This is an executive assistant role, a different field from the candidate's data analyst and engineering background, and it requires 10+ years of EA experience she does not have.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.727Z"
   },
   {
    "id": "duolingo-8883563002",
@@ -379,14 +384,14 @@
    "postedAt": "2026-10-12T12:20:24-04:00",
    "firstSeen": "2026-10-12T12:20:24-04:00",
    "active": true,
-   "salaryCurrency": "INR",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.751Z",
+   "salaryCurrency": "INR",
    "match": {
     "score": 1,
     "why": "This is a senior general management role requiring 15+ years of product or market leadership, while the candidate is a data analyst with about 4 years in tech and no leadership or product-leadership background; the only overlap is analytics",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.751Z"
   },
   {
    "id": "duolingo-8548793002",
@@ -401,12 +406,12 @@
    "salaryMin": 196000,
    "salaryMax": 294000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.750Z",
    "match": {
     "score": 1,
     "why": "Her analytics and measurement background partly overlaps, but this is a senior influencer and creator marketing leadership role with no marketing, influencer, or people-management experience in her profile.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.750Z"
   },
   {
    "id": "duolingo-8590178002",
@@ -421,12 +426,12 @@
    "salaryMin": 183200,
    "salaryMax": 274800,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.761Z",
    "match": {
     "score": 1,
     "why": "Strength: Power BI dashboard work matches the data-fluency ask. Biggest gap: no talent management, HR, or PMO experience, and this is a senior leadership role asking for 8+ years in that field.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.761Z"
   },
   {
    "id": "duolingo-8863967002",
@@ -438,12 +443,12 @@
    "postedAt": "2026-10-05T17:00:00-04:00",
    "firstSeen": "2026-10-05T17:00:00-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:50.785Z",
    "match": {
     "score": 1,
     "why": "This is an illustration internship requiring a creative portfolio and an illustration degree, a different field from the candidate's data and BI background, with no overlapping skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.785Z"
   },
   {
    "id": "duolingo-8637185002",
@@ -455,14 +460,14 @@
    "postedAt": "2026-07-16T14:53:04-04:00",
    "firstSeen": "2026-07-16T14:53:04-04:00",
    "active": true,
-   "salaryCurrency": "JPY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.788Z",
+   "salaryCurrency": "JPY",
    "match": {
     "score": 1,
     "why": "This is a manga and anime editorial role in Tokyo requiring hands-on publishing, plot writing and TV network relationships, which the candidate lacks entirely; her data and BI background does not match, and she is not based in Japan.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.788Z"
   },
   {
    "id": "duolingo-8658654002",
@@ -477,7 +482,12 @@
    "salaryMin": 119000,
    "salaryMax": 161000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.785Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.742Z",
+   "match": {
+    "score": 1,
+    "why": "Recruiting sourcer for marketing and product design is a different field from her data and BI work; her only overlap is a loose data-driven approach, with no sourcing or recruiting experience.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8891322002",
@@ -492,12 +502,12 @@
    "salaryMin": 163200,
    "salaryMax": 244800,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.787Z",
    "match": {
     "score": 1,
     "why": "This is an HR employee relations and leave-management role, a different field from the candidate's data analytics and engineering background, with no matching required skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.787Z"
   },
   {
    "id": "duolingo-8778700002",
@@ -512,12 +522,12 @@
    "salaryMin": 153000,
    "salaryMax": 207000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.791Z",
    "match": {
     "score": 2,
     "why": "Her Python, REST API, and OCI automation work is a partial match, but the posting requires Kubernetes, GitOps, Terraform, CI/CD tools, and SLO/on-call platform work that her profile does not show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.791Z"
   },
   {
    "id": "duolingo-8858333002",
@@ -531,7 +541,12 @@
    "active": true,
    "salaryCurrency": "GBP",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.817Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.752Z",
+   "match": {
+    "score": 2,
+    "why": "Her analytics and AI-tool work overlaps with the AI-assisted quality validation the role asks for, but she has no assessment, rater calibration, or proctoring experience, and the role is in London, not NYC or remote.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8858331002",
@@ -546,7 +561,12 @@
    "salaryMin": 142800,
    "salaryMax": 193200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.822Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.736Z",
+   "match": {
+    "score": 2,
+    "why": "Her analytics, SQL, and documentation/training work partly match, but the role centers on assessment quality, rater calibration, and proctoring, which her profile doesn't show, and it asks for 5+ years in that domain.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8888045002",
@@ -558,7 +578,12 @@
    "postedAt": "2026-10-15T15:00:01-04:00",
    "firstSeen": "2026-10-15T15:00:01-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:50.820Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.739Z",
+   "match": {
+    "score": 1,
+    "why": "This is a product management internship that requires current MBA enrollment, which the candidate lacks, and it is based in Pittsburgh rather than NYC or remote. Her data analysis background is the only overlap.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8442932002",
@@ -573,12 +598,12 @@
    "salaryMin": 236800,
    "salaryMax": 355200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.823Z",
    "match": {
     "score": 1,
     "why": "This is a senior creative marketing leadership role, a different field from the candidate's data analyst and engineering background, with no overlap in required skills like creative direction or brand campaigns.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.823Z"
   },
   {
    "id": "duolingo-8442934002",
@@ -590,14 +615,14 @@
    "postedAt": "2026-02-27T15:40:50-05:00",
    "firstSeen": "2026-02-27T15:40:50-05:00",
    "active": true,
-   "salaryCurrency": "GBP",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.825Z",
+   "salaryCurrency": "GBP",
    "match": {
     "score": 1,
     "why": "This is a creative marketing leadership role requiring brand and creative direction experience, which is a different field from the candidate's data analytics and engineering background, with no matching skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.825Z"
   },
   {
    "id": "duolingo-8810661002",
@@ -612,12 +637,12 @@
    "salaryMin": 142800,
    "salaryMax": 193200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.850Z",
    "match": {
     "score": 1,
     "why": "This is a creative social-media role requiring 7+ years of culturally driven content, portfolio work, and short-form video direction, while the candidate's background is data analytics and engineering with no creative or social experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.850Z"
   },
   {
    "id": "duolingo-8750636002",
@@ -632,12 +657,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.853Z",
    "match": {
     "score": 2,
     "why": "Strong SQL and reporting background matches, but the role needs applied forecasting and statistical modeling experience, a graduate degree or equivalent, and senior-level Python, none of which the profile shows.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.853Z"
   },
   {
    "id": "duolingo-8750527002",
@@ -652,12 +677,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.851Z",
    "match": {
     "score": 2,
     "why": "Strong SQL and stakeholder-reporting experience match, but the role is senior data science needing ML and predictive modeling, which the profile doesn't show, plus no graduate degree or experimentation background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.851Z"
   },
   {
    "id": "duolingo-8584465002",
@@ -672,12 +697,12 @@
    "salaryMin": 296000,
    "salaryMax": 444000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.858Z",
    "match": {
     "score": 1,
     "why": "This is a Senior Director role leading 100+ engineers and multiple directors, far beyond the candidate's ~4-5 years of IC-level experience in data analysis and BI; it is not a fit.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.858Z"
   },
   {
    "id": "duolingo-8895215002",
@@ -692,12 +717,12 @@
    "salaryMin": 236800,
    "salaryMax": 355200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.857Z",
    "match": {
     "score": 1,
     "why": "Senior marketing leadership role requiring 12+ years of paid UA and managing managers; the candidate's analytics and BI background has only a loose overlap, with no performance marketing experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.857Z"
   },
   {
    "id": "duolingo-8764849002",
@@ -712,12 +737,12 @@
    "salaryMin": 204000,
    "salaryMax": 306000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.879Z",
    "match": {
     "score": 2,
     "why": "Her AI tooling work (chatbot, RAG pipeline, FastAPI retrieval) matches the AI infrastructure ask, but the role requires leading and hiring a 5-6 engineer team, and her profile shows no people management.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.879Z"
   },
   {
    "id": "duolingo-8900546002",
@@ -732,12 +757,12 @@
    "salaryMin": 204000,
    "salaryMax": 306000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.880Z",
    "match": {
     "score": 2,
     "why": "Strong data and reporting background, but the role requires leading and hiring a software engineering team and building experimentation platforms, and the profile shows no people management or A/B testing work.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.880Z"
   },
   {
    "id": "duolingo-8725638002",
@@ -752,12 +777,12 @@
    "salaryMin": 204000,
    "salaryMax": 306000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.890Z",
    "match": {
     "score": 2,
     "why": "Strong data and engineering background, but the role requires leading and hiring engineering teams, which the profile never shows, and it needs a CS or related degree the candidate lacks.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.890Z"
   },
   {
    "id": "duolingo-8761428002",
@@ -772,7 +797,12 @@
    "salaryMin": 162400,
    "salaryMax": 219700,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.887Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.766Z",
+   "match": {
+    "score": 2,
+    "why": "Strong on Python/PowerShell automation and REST APIs, but the role requires IAM/SCIM/SSO, Terraform and CI/CD, and Okta or Google Workspace integrations, none of which the profile shows.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8393272002",
@@ -787,12 +817,12 @@
    "salaryMin": 177700,
    "salaryMax": 240400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.889Z",
    "match": {
     "score": 1,
     "why": "This is a native iOS engineering role requiring Swift and CS fundamentals; the candidate is a data analyst and data engineer with no Swift or mobile development experience listed.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.889Z"
   },
   {
    "id": "duolingo-8722385002",
@@ -807,12 +837,12 @@
    "salaryMin": 142800,
    "salaryMax": 193200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.912Z",
    "match": {
     "score": 1,
     "why": "This is a language-education and curriculum role requiring deep Hindi proficiency, linguistics training, and a graduate degree, with a Pittsburgh-only location. The candidate's data and BI background does not match any of these, and the one",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.912Z"
   },
   {
    "id": "duolingo-8733672002",
@@ -827,12 +857,12 @@
    "salaryMin": 142800,
    "salaryMax": 193200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.915Z",
    "match": {
     "score": 2,
     "why": "Strong overlap in cross-functional stakeholder work and workflow automation, but the role requires leading localization programs and strategy, which the profile doesn't show, and it's a senior program management role.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.915Z"
   },
   {
    "id": "duolingo-8759720002",
@@ -847,7 +877,12 @@
    "salaryMin": 154700,
    "salaryMax": 209300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.920Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.774Z",
+   "match": {
+    "score": 2,
+    "why": "Strong SQL and BI dashboard experience match, but the biggest gaps are no marketing or digital campaign analytics background, a non-STEM degree, and no stated people management for a Senior Manager role.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8778318002",
@@ -862,12 +897,12 @@
    "salaryMin": 142800,
    "salaryMax": 193200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.922Z",
    "match": {
     "score": 2,
     "why": "Strong analytics and reporting background (Power BI, SQL, data validation) matches the analytical side, but the role needs hands-on mobile user acquisition, large ad budgets, and agency management, which the profile does not show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.922Z"
   },
   {
    "id": "duolingo-8489189002",
@@ -882,12 +917,12 @@
    "salaryMin": 150000,
    "salaryMax": 200000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.917Z",
    "match": {
     "score": 1,
     "why": "This is a product design role needing a design portfolio, prototyping and visual craft, which the candidate's data, BI and engineering background does not cover. The biggest gap is the lack of any design experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.917Z"
   },
   {
    "id": "duolingo-8675713002",
@@ -899,14 +934,14 @@
    "postedAt": "2026-08-04T09:42:33-04:00",
    "firstSeen": "2026-08-04T09:42:33-04:00",
    "active": true,
-   "salaryCurrency": "CNY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.945Z",
+   "salaryCurrency": "CNY",
    "match": {
     "score": 1,
     "why": "This is a product design role requiring a visual design portfolio and high-fidelity prototyping, a different field from the candidate's data analyst and engineering background, and based in Beijing rather than NYC or remote.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.945Z"
   },
   {
    "id": "duolingo-8675670002",
@@ -918,14 +953,14 @@
    "postedAt": "2026-08-04T09:18:27-04:00",
    "firstSeen": "2026-08-04T09:18:27-04:00",
    "active": true,
-   "salaryCurrency": "CNY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.946Z",
+   "salaryCurrency": "CNY",
    "match": {
     "score": 1,
     "why": "This is a consumer product management role, not a data or analytics role, and it is based in Beijing, outside the candidate's NYC or remote targets. Her analytics work gives little match.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.946Z"
   },
   {
    "id": "duolingo-8530395002",
@@ -940,12 +975,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.953Z",
    "match": {
     "score": 2,
     "why": "Her dashboard-building and stakeholder work at Oracle Health are adjacent, but the role needs product management experience she doesn't have, and the posting's senior-PM scope is a major gap.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.953Z"
   },
   {
    "id": "duolingo-8747171002",
@@ -960,12 +995,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.948Z",
    "match": {
     "score": 1,
     "why": "This is a senior product management role owning consumer mobile strategy, a different field from her data analyst and engineering background. Her analytics work is adjacent, but she has no PM or consumer growth experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.948Z"
   },
   {
    "id": "duolingo-8827944002",
@@ -980,12 +1015,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.951Z",
    "match": {
     "score": 2,
     "why": "Her analytics and dashboard work, plus experience with user-facing reporting, is a partial match. The biggest gap is that the profile shows no product management experience, which this senior PM role requires.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:50.951Z"
   },
   {
    "id": "duolingo-8747099002",
@@ -1000,7 +1035,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.067Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.770Z",
+   "match": {
+    "score": 2,
+    "why": "Her cross-functional work and experimentation-adjacent analytics are a partial match, but the role is a Senior PM on consumer mobile notifications, and she has no product management or notifications experience.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8784381002",
@@ -1015,7 +1055,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.979Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.776Z",
+   "match": {
+    "score": 2,
+    "why": "Strong on automation and ops tooling, with Python at working level and PostgreSQL/MySQL listed, but the profile lacks the required container orchestration and Java/Kotlin/Go, and the senior SRE role is a stretch.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8702391002",
@@ -1027,14 +1072,14 @@
    "postedAt": "2026-08-12T16:51:26-04:00",
    "firstSeen": "2026-08-12T16:51:26-04:00",
    "active": true,
-   "salaryCurrency": "CNY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.011Z",
+   "salaryCurrency": "CNY",
    "match": {
     "score": 1,
     "why": "This is a native Android Kotlin engineering role in Beijing, while the candidate is a data analyst and BI/data engineer with no Android or Kotlin experience listed.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.011Z"
   },
   {
    "id": "duolingo-8702288002",
@@ -1048,7 +1093,12 @@
    "active": true,
    "salaryCurrency": "CNY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.986Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.782Z",
+   "match": {
+    "score": 2,
+    "why": "Strong Oracle SQL and Python-adjacent experience, but this is a senior backend SWE role in Beijing, with major gaps in Java/Kotlin, algorithms, and senior-level backend work, plus a location mismatch.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8628658002",
@@ -1063,7 +1113,12 @@
    "salaryMin": 153000,
    "salaryMax": 207000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:50.988Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.807Z",
+   "match": {
+    "score": 1,
+    "why": "This is a Kotlin/Android mobile app engineering role, and the profile shows no Android or Kotlin work; its data, BI, and Oracle background doesn't match the core requirement.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8584012002",
@@ -1078,7 +1133,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.011Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.807Z",
+   "match": {
+    "score": 2,
+    "why": "Strong Oracle database and Python/REST API work, but the role needs production backend engineering in Java, Python, or Kotlin at scale, and the profile shows no Java or Kotlin and no high-traffic service ownership.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8693210002",
@@ -1090,14 +1150,14 @@
    "postedAt": "2026-08-10T10:01:37-04:00",
    "firstSeen": "2026-08-10T10:01:37-04:00",
    "active": true,
-   "salaryCurrency": "CNY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.015Z",
+   "salaryCurrency": "CNY",
    "match": {
     "score": 1,
     "why": "This is a senior iOS engineering role requiring 5–10 years of Swift, a field the candidate has no Swift or mobile experience in; her data and BI background does not match.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.015Z"
   },
   {
    "id": "duolingo-8701378002",
@@ -1109,14 +1169,14 @@
    "postedAt": "2026-08-12T15:05:36-04:00",
    "firstSeen": "2026-08-12T15:05:36-04:00",
    "active": true,
-   "salaryCurrency": "CNY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.016Z",
+   "salaryCurrency": "CNY",
    "match": {
     "score": 1,
     "why": "This is a native iOS Swift role, and the profile shows no Swift or iOS work; her data, SQL and Power BI skills don't transfer. It is also based in Beijing, not NYC or remote.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.016Z"
   },
   {
    "id": "duolingo-8906062002",
@@ -1131,12 +1191,12 @@
    "salaryMin": 98600,
    "salaryMax": 133400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.066Z",
    "match": {
     "score": 1,
     "why": "This is a video-production and social content role, while the candidate's experience is in data analytics, BI, and engineering; she has no stated short-form video or on-camera skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.066Z"
   },
   {
    "id": "duolingo-8612120002",
@@ -1148,14 +1208,14 @@
    "postedAt": "2026-06-29T12:25:20-04:00",
    "firstSeen": "2026-06-29T12:25:20-04:00",
    "active": true,
-   "salaryCurrency": "CNY",
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.069Z",
+   "salaryCurrency": "CNY",
    "match": {
     "score": 1,
     "why": "This is an iOS Swift software engineering role in Beijing, while the candidate is a data analyst and BI engineer with no Swift or iOS experience and no Beijing relocation plan.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.069Z"
   },
   {
    "id": "duolingo-8610345002",
@@ -1170,12 +1230,12 @@
    "salaryMin": 220800,
    "salaryMax": 331200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.051Z",
    "match": {
     "score": 2,
     "why": "Her AI chatbot and RAG work is a real overlap, but the role needs fine-tuning, bandits, RL and staff-level team leadership, which her profile does not show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.051Z"
   },
   {
    "id": "duolingo-8729596002",
@@ -1190,12 +1250,12 @@
    "salaryMin": 200000,
    "salaryMax": 300000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.050Z",
    "match": {
     "score": 1,
     "why": "This is a product design role needing a design portfolio and consumer UX experience, while the candidate is a data analyst and engineer with no design background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.050Z"
   },
   {
    "id": "duolingo-8474673002",
@@ -1210,7 +1270,12 @@
    "salaryMin": 182800,
    "salaryMax": 247300,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.105Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.809Z",
+   "match": {
+    "score": 2,
+    "why": "Strength: her experiment-adjacent analytics and dashboard work overlaps with the role's data focus. Biggest gap: no product management or consumer growth experience, and this is a Staff-level PM role.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8750456002",
@@ -1225,7 +1290,12 @@
    "salaryMin": 181600,
    "salaryMax": 272400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.085Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.810Z",
+   "match": {
+    "score": 1,
+    "why": "Strength: SQL and dashboard-based insight work. Biggest gaps: this is a UX/product research leadership role needing 8+ years, and the candidate has no UX or mixed-method research background.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8875080002",
@@ -1240,7 +1310,12 @@
    "salaryMin": 181600,
    "salaryMax": 272400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.095Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.829Z",
+   "match": {
+    "score": 2,
+    "why": "Her cross-team work with five IT teams and hands-on Oracle and Power BI skills are relevant, but the role requires proven TPM or engineering leadership and staff-level program ownership, which she lacks.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8638482002",
@@ -1255,7 +1330,12 @@
    "salaryMin": 181600,
    "salaryMax": 272400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.100Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.853Z",
+   "match": {
+    "score": 2,
+    "why": "Her AI tooling, internal automation, and end-user training work partly overlap, but the role needs proven TPM or engineering-manager program leadership at staff level, and it requires relocating to Seattle.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "duolingo-8747077002",
@@ -1270,12 +1350,12 @@
    "salaryMin": 367500,
    "salaryMax": 612500,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.104Z",
    "match": {
     "score": 1,
     "why": "This is a VP-level product leadership role requiring executive consumer-app growth and monetization experience and managing about 20 PMs, while the candidate is a data analyst with no product management background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.104Z"
   },
   {
    "id": "duolingo-8562297002",
@@ -1290,12 +1370,12 @@
    "salaryMin": 330000,
    "salaryMax": 550000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T04:19:51.119Z",
    "match": {
     "score": 1,
     "why": "This is a VP-level strategy and corporate development role requiring 20+ years of M&A, consulting or banking experience and team leadership, far beyond the candidate's roughly 4 years in data and automation work.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.119Z"
   },
   {
    "id": "mindbody-4683439006",
@@ -1307,12 +1387,12 @@
    "postedAt": "2026-05-22T07:02:56-04:00",
    "firstSeen": "2026-05-22T07:02:56-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.219Z",
    "match": {
     "score": 1,
     "why": "This is an outbound SMB sales role requiring French fluency and a 2-4 year sales track record; the candidate is a data analyst and engineer with no sales experience and no French listed.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.219Z"
   },
   {
    "id": "mindbody-4719372006",
@@ -1327,12 +1407,12 @@
    "salaryMin": 45000,
    "salaryMax": 50000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.214Z",
    "match": {
     "score": 1,
     "why": "Quota-carrying SMB sales role; the candidate's strength is in data analysis and engineering, and she has no sales experience or Salesforce pipeline background listed, so this is a different field.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.214Z"
   },
   {
    "id": "mindbody-4717490006",
@@ -1347,7 +1427,12 @@
    "salaryMin": 51000,
    "salaryMax": 60000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.186Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.918Z",
+   "match": {
+    "score": 2,
+    "why": "Strong cross-team and client-facing experience, but the role requires 1–3 years of SaaS sales or retention work, which the candidate lacks; it's a sales role, not an analytics one.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4681654006",
@@ -1359,12 +1444,12 @@
    "postedAt": "2026-09-22T15:17:38-04:00",
    "firstSeen": "2026-09-22T15:17:38-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.212Z",
    "match": {
     "score": 2,
     "why": "Strong overlap in data operations, automation, and customer-facing conversion work, but the role needs proven leadership of a professional services org, hiring, and P&L ownership, which the profile doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.212Z"
   },
   {
    "id": "mindbody-4700953006",
@@ -1379,12 +1464,12 @@
    "salaryMin": 151000,
    "salaryMax": 201000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.185Z",
    "match": {
     "score": 2,
     "why": "Her strengths are in data engineering, automation and OCI, but the role requires 3+ years of people management, Kubernetes and cloud platform operations, and infrastructure-as-code, none of which the profile shows.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.185Z"
   },
   {
    "id": "mindbody-4722972006",
@@ -1399,12 +1484,12 @@
    "salaryMin": 175000,
    "salaryMax": 200000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.224Z",
    "match": {
     "score": 1,
     "why": "This is a Lead Product Manager role in identity and access management requiring 7+ years of PM experience and deep IAM expertise, which is a different field from the candidate's data analyst and engineering background. Her only overlap is S",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.224Z"
   },
   {
    "id": "mindbody-4609787006",
@@ -1419,12 +1504,12 @@
    "salaryMin": 131275,
    "salaryMax": 175000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.260Z",
    "match": {
     "score": 1,
     "why": "This is a product marketing role requiring 8+ years of PMM experience and a strong storytelling portfolio; the candidate is a data and engineering analyst with no marketing background, a field mismatch.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.260Z"
   },
   {
    "id": "mindbody-4722502006",
@@ -1436,7 +1521,12 @@
    "postedAt": "2026-10-16T09:12:41-04:00",
    "firstSeen": "2026-10-16T09:12:41-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.245Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.939Z",
+   "match": {
+    "score": 2,
+    "why": "Matches on end-user training and documentation, but the role is customer-facing onboarding, not data work. It requires French or Spanish fluency the profile lacks, and it is UK-based, outside the NYC or remote search.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4714949006",
@@ -1448,7 +1538,12 @@
    "postedAt": "2026-09-21T19:53:54-04:00",
    "firstSeen": "2026-09-21T19:53:54-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.247Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.921Z",
+   "match": {
+    "score": 1,
+    "why": "Matching strength: some data analysis and reporting. Biggest gaps: it requires payments experience and Malaysia work eligibility, and the candidate has neither.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4713206006",
@@ -1463,7 +1558,12 @@
    "salaryMin": 180000,
    "salaryMax": 242000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.254Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.920Z",
+   "match": {
+    "score": 1,
+    "why": "Strength: hands-on AI chatbot and LLM-adjacent work. Biggest gap: this is a 9-12 year Principal PM role, and the candidate has about 4 years in data and engineering, not product management.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4707680006",
@@ -1475,7 +1575,12 @@
    "postedAt": "2026-08-24T10:02:50-04:00",
    "firstSeen": "2026-08-24T10:02:50-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.258Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.913Z",
+   "match": {
+    "score": 3,
+    "why": "Strong SQL, Power BI, and AI-tool building match well, but the posting needs product analytics tools (Pendo, Mixpanel, Heap), A/B testing, and it is based in Mexico.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4707484006",
@@ -1487,7 +1592,12 @@
    "postedAt": "2026-08-24T10:00:43-04:00",
    "firstSeen": "2026-08-24T10:00:43-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.274Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.972Z",
+   "match": {
+    "score": 3,
+    "why": "Strong SQL, Power BI and AI-building experience match well, but there's no Mixpanel/Pendo/Heap or A/B testing experience, and the role is Brazil-based while she's seeking NYC or remote.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4693303006",
@@ -1502,12 +1612,12 @@
    "salaryMin": 140000,
    "salaryMax": 180000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.287Z",
    "match": {
     "score": 1,
     "why": "This is a product design role requiring design craft and leadership in UX, while the candidate is a data analyst and data engineer with no stated design background; the posting is a different field entirely.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.287Z"
   },
   {
    "id": "mindbody-4713190006",
@@ -1522,7 +1632,12 @@
    "salaryMin": 130000,
    "salaryMax": 183000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.283Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.949Z",
+   "match": {
+    "score": 1,
+    "why": "This is a senior product management role, a different field from the candidate's data analyst and engineering background, with 5-7 years of PM experience and no PM track record in the profile.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4691727006",
@@ -1537,12 +1652,12 @@
    "salaryMin": 150000,
    "salaryMax": 185000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.289Z",
    "match": {
     "score": 2,
     "why": "Strength: she built and maintained a REST API layer and Power BI reporting for internal teams. Biggest gap: the role is senior product ownership of external APIs, and her profile shows no product management or external developer experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.289Z"
   },
   {
    "id": "mindbody-4720183006",
@@ -1557,7 +1672,12 @@
    "salaryMin": 100000,
    "salaryMax": 132000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.316Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.959Z",
+   "match": {
+    "score": 2,
+    "why": "Her REST API, Python, and automation work overlaps somewhat, but the role requires backend services in C# or Java, microservice design, and New Relic or Kibana experience, none of which her profile states.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4713990006",
@@ -1569,12 +1689,12 @@
    "postedAt": "2026-09-16T18:45:08-04:00",
    "firstSeen": "2026-09-16T18:45:08-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.339Z",
    "match": {
     "score": 2,
     "why": "Strong SQL and REST API experience match, but the role needs production C#/.NET and TypeScript, microservices, and software engineering depth the candidate lacks, and it is based in Brazil.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.339Z"
   },
   {
    "id": "mindbody-4722477006",
@@ -1586,12 +1706,12 @@
    "postedAt": "2026-10-16T15:00:17-04:00",
    "firstSeen": "2026-10-16T15:00:17-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.312Z",
    "match": {
     "score": 1,
     "why": "This is a content writing and SEO role, and the profile shows no article or SEO experience. Documentation and training work is the only loose overlap, and the role's core is outside her data field.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.312Z"
   },
   {
    "id": "mindbody-4722482006",
@@ -1603,12 +1723,12 @@
    "postedAt": "2026-10-19T09:17:31-04:00",
    "firstSeen": "2026-10-19T09:17:31-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.320Z",
    "match": {
     "score": 1,
     "why": "This is a social media marketing role requiring 4+ years of brand social management, influencer partnerships, and Reddit community work; the candidate is a data analyst and engineer with no social media experience, so the fit is very weak.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.320Z"
   },
   {
    "id": "mindbody-4712048006",
@@ -1623,12 +1743,12 @@
    "salaryMin": 156000,
    "salaryMax": 208000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.352Z",
    "match": {
     "score": 2,
     "why": "Her Python REST API and reporting automation work overlaps with the backend side, but the role asks for 8+ years, C#/Java backend and microservices experience, and senior ownership she doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.352Z"
   },
   {
    "id": "mindbody-4723244006",
@@ -1640,7 +1760,12 @@
    "postedAt": "2026-10-21T19:51:23-04:00",
    "firstSeen": "2026-10-22T04:19:50.311Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.349Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.955Z",
+   "match": {
+    "score": 3,
+    "why": "Strong SQL, API, and client-facing conversion experience match well, but the role is in Australia, not NYC or remote, which is the biggest gap.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4714094006",
@@ -1655,7 +1780,12 @@
    "salaryMin": 55700,
    "salaryMax": 66800,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-22T04:19:51.366Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.979Z",
+   "match": {
+    "score": 3,
+    "why": "Strong match on SQL and client data work, plus training and documentation, but the role centers on customer-portfolio relationship management and the candidate's experience is mostly internal IT-facing, with no wellness-sector background.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4723414006",
@@ -1667,7 +1797,12 @@
    "postedAt": "2026-10-21T03:55:37-04:00",
    "firstSeen": "2026-10-21T03:55:37-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.356Z"
+   "salaryCheckedAt": "2026-10-22T04:27:59.981Z",
+   "match": {
+    "score": 1,
+    "why": "Frontline phone support in Romania needing fluent French and 1+ year of call-center work; the profile shows back-office data and reporting work, no French, and no call-center or Romania ties.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "mindbody-4715076006",
@@ -1679,12 +1814,12 @@
    "postedAt": "2026-09-25T10:30:55-04:00",
    "firstSeen": "2026-09-25T10:30:55-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-10-22T04:19:51.377Z",
    "match": {
     "score": 1,
     "why": "This is a Spanish-fluent phone support role in the UK, requiring UK right to work and call center experience; the profile is a data and BI background with no stated Spanish fluency or support experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T04:19:51.377Z"
   },
   {
    "id": "watershed-c78ed9ab-92ff-402d-88de-21220c10b56d",
@@ -1711,7 +1846,12 @@
    "url": "https://jobs.ashbyhq.com/watershed/289cd9d8-98cb-46b5-9287-e58504da72b7",
    "postedAt": "2025-08-29T09:35:17.731+00:00",
    "firstSeen": "2025-08-29T09:35:17.731+00:00",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 2,
+    "why": "Strong match on RAG, vector search and building a daily-used AI tool, but the staff-level role needs 5+ years of software engineering, full-stack depth and team leadership, and it is London-based with 4 days in office.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-de1ae38a-6d7d-4154-b8f4-5fbb323f0419",
@@ -1770,7 +1910,12 @@
    "url": "https://jobs.ashbyhq.com/watershed/c55d02d7-0b9d-4352-9b80-0f49d3a2b6ae",
    "postedAt": "2026-10-02T18:45:43.232+00:00",
    "firstSeen": "2026-10-02T18:45:43.232+00:00",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 3,
+    "why": "Strong match on data cleaning, migration validation, and SQL, but the role requires four days a week in London and expert-level Excel, and the candidate lists Excel only at working level.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-c24a97b1-e9c2-4863-bbb5-f28446174d46",
@@ -1784,7 +1929,12 @@
    "active": true,
    "salaryMin": 202100,
    "salaryMax": 255000,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Her strengths are REST APIs, Python, and Power BI dashboards, but the posting wants senior full-stack Node.js web development with 6+ years, and her profile shows no front-end or Node.js work.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-caeacf5b-6e52-4483-916a-a471c1defefd",
@@ -1830,7 +1980,12 @@
    "url": "https://jobs.ashbyhq.com/watershed/958f6830-95b7-4b9e-b0f1-cec813d85f28",
    "postedAt": "2026-01-20T18:32:26.544+00:00",
    "firstSeen": "2026-01-20T18:32:26.544+00:00",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "This is a customer success role in London requiring 7+ years of enterprise SaaS account management and C-suite relationships, a different field from the candidate's data analyst and engineering background, with no matching skills.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-4c961d45-cc3b-4dd6-9b4a-59e793679ef7",
@@ -1895,7 +2050,12 @@
    "active": true,
    "salaryMin": 147600,
    "salaryMax": 183300,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong overlap in training, documentation, AI-tool adoption, and stakeholder work, but the role needs 6+ years in sales enablement or sales ops with quota-carrying experience, which the candidate lacks.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-a0085e3d-f7b1-4aae-93b7-3a8792c4aba9",
@@ -2001,7 +2161,12 @@
    "active": true,
    "salaryMin": 112500,
    "salaryMax": 143800,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 3,
+    "why": "Her client data conversion work across 12+ accounts and her stakeholder communication are relevant, but the role centers on leading customer-facing enterprise deployments, which her profile does not show, and she has no sustainability or ES",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7",
@@ -2015,7 +2180,12 @@
    "active": true,
    "salaryMin": 154160,
    "salaryMax": 183300,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong match on AI tooling, Python, REST APIs, and internal automation, and she can relocate to NYC. The biggest gap is the required GTM stack (Salesforce, Gong, Clay, LeanData) and B2B SaaS GTM experience, neither of which her profile show",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-af79bad0-59e3-4ad6-ac8e-4eac7eba8ef0",
@@ -2061,7 +2231,12 @@
    "active": true,
    "salaryMin": 112500,
    "salaryMax": 125000,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 3,
+    "why": "Strong match on data ingestion and conversion work, plus client-facing experience at ACGI. The biggest gap is no stated experience owning service delivery, project plans, or budget and hours tracking.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-9361e773-9d48-485a-bce7-051f6e33011d",
@@ -2091,7 +2266,12 @@
    "url": "https://jobs.ashbyhq.com/watershed/77557897-bfee-403e-bd98-e6310146baa2",
    "postedAt": "2026-10-19T19:49:50.361+00:00",
    "firstSeen": "2026-10-19T19:49:50.361+00:00",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 2,
+    "why": "Her customer-facing data work and client-facing training match, but the role requires GHG/ESG experience she lacks, and it is in-person in Mexico City, not NYC or remote.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-e8b55272-01af-4afc-9782-af426dd4ebad",
@@ -2105,7 +2285,12 @@
    "active": true,
    "salaryMin": 154160,
    "salaryMax": 183300,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strength: shipped AI tools used daily and built Power BI dashboards on ticket SLA and capacity data. Biggest gap: no stated GTM Ops, Customer Success, Salesforce, Gong, or Sigma experience, and the role centers on those.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-f7ae632a-a586-409a-ad09-2923ed5dd371",
@@ -2119,7 +2304,12 @@
    "active": true,
    "salaryMin": 117500,
    "salaryMax": 117500,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong match on data and reporting skills (Power BI, Oracle SQL, client-facing conversions), but the candidate has no stated GHG accounting or ESG experience, which the advisory role centers on.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-9dd3ca17-baff-4e36-be75-f13a2a919cbc",
@@ -2133,7 +2323,12 @@
    "active": true,
    "salaryMin": 166500,
    "salaryMax": 185000,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Her OCI and Python/REST automation work is a partial overlap, but the role needs Kubernetes, Terraform, CI/CD and 24/7 on-call infrastructure experience she doesn't list, and it's San Francisco-only.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-35d863c4-0173-41da-8f13-a88575ef0c4b",
@@ -2147,7 +2342,12 @@
    "active": true,
    "salaryMin": 170000,
    "salaryMax": 195000,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a content and editorial leadership role needing 10+ years of content work, and the candidate's background is data analytics and engineering with no stated content or editorial experience.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-eefb1827-4a88-4016-95e1-155edb00a026",
@@ -2177,7 +2377,12 @@
    "url": "https://jobs.ashbyhq.com/watershed/98e4174e-c31f-4da7-9f4f-d18114aa7db7",
    "postedAt": "2026-09-30T20:55:38.131+00:00",
    "firstSeen": "2026-09-30T20:55:38.131+00:00",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 2,
+    "why": "Strong overlap in client data conversion and cross-team coordination, but the role is service delivery and project management with hours and budget ownership, which the profile doesn't show.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-24e7019e-6b70-42f4-b581-0a2689d3b939",
@@ -2188,7 +2393,12 @@
    "url": "https://jobs.ashbyhq.com/watershed/24e7019e-6b70-42f4-b581-0a2689d3b939",
    "postedAt": "2026-10-12T22:51:34.355+00:00",
    "firstSeen": "2026-10-12T22:51:34.355+00:00",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 2,
+    "why": "Strong match on SQL, data cleaning, and documentation, but the role requires in-person work in Mexico City four days a week, outside her NYC or remote targets.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-94a4a3bf-5a8c-44e4-ab78-de855d875d23",
@@ -2202,7 +2412,12 @@
    "active": true,
    "salaryMin": 57690,
    "salaryMax": 70500,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 4,
+    "why": "Strong match on data conversion, cleanup, SQL and client-facing reporting work; the main gap is Excel, listed only at working level for a role centered on large Excel files.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-275cb3f7-f6f0-4b1e-a9ea-7b377934606c",
@@ -2213,7 +2428,12 @@
    "url": "https://jobs.ashbyhq.com/watershed/275cb3f7-f6f0-4b1e-a9ea-7b377934606c",
    "postedAt": "2026-08-06T20:08:10.385+00:00",
    "firstSeen": "2026-08-06T20:08:10.385+00:00",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 3,
+    "why": "Strong match on building AI-powered internal tools, REST APIs and vector search, but the biggest gap is no stated full-stack or TypeScript product-engineering experience for a zero-to-one software role.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-d016ab32-d5ed-472c-a238-e66afa85076f",
@@ -2265,7 +2485,12 @@
    "active": true,
    "salaryMin": 132000,
    "salaryMax": 147000,
-   "salarySource": "feed"
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong overlap in scripting, APIs, AI tooling, and help-desk-facing work, but the role centers on Okta, macOS fleet and asset management, and SaaS admin that the profile lacks, and it is San Francisco on-site rather than NYC or remote.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "watershed-0a946678-d16e-444f-8cb9-4f4f6dc49546",
@@ -2308,7 +2533,12 @@
    "url": "https://rockymountain.wd1.myworkdayjobs.com/en-US/RMI/job/Remote---US/Senior-Associate--Utility-Ratemaking---Carbon-Free-Electricity-Program_R-101594-1",
    "postedAt": null,
    "firstSeen": "2026-10-21T21:41:46.043Z",
-   "active": true
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "No description was provided, so this is judged from the title and company alone. A utility ratemaking policy role at an energy think tank is a different field from the candidate's data analyst and BI work.",
+    "p": "2f29e710"
+   }
   }
  ]
 }
