@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T17:32:09.774Z",
+ "updatedAt": "2026-10-22T19:40:46.285Z",
  "entries": [
   {
    "name": "Anthology",
@@ -491,7 +491,7 @@
   {
    "name": "Via",
    "key": "via",
-   "status": "unsure",
+   "status": "matched",
    "sources": [
     "The Muse"
    ],
@@ -501,7 +501,8 @@
    "boardName": "Via",
    "jobCount": 179,
    "reason": "Board name matches exactly (\"Via\")",
-   "lastTried": "2026-10-22T17:32:09.774Z"
+   "lastTried": "2026-10-22T17:32:09.774Z",
+   "decided": "approved"
   },
   {
    "name": "Walmart",
