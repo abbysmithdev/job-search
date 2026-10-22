@@ -1,0 +1,5 @@
+{
+  "locations": ["nyc", "remote"],
+  "minSalary": 85000,
+  "maxAgeDays": 30
+}
