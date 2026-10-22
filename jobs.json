@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T16:05:58.040Z",
+ "generatedAt": "2026-10-22T16:17:10.336Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 41
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 12
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 1
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 10
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 15
   },
@@ -98,7 +98,7 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 113
   },
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "live",
    "count": 2
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-22T16:05:58.040Z",
+   "lastChecked": "2026-10-22T16:17:10.336Z",
    "status": "link",
    "count": 0
   }
@@ -1910,23 +1910,6 @@
    "salaryCheckedAt": "2026-10-22T16:06:00.756Z"
   },
   {
-   "id": "nyt-4714376005",
-   "sourceId": "nyt",
-   "title": "Delivery Driver (RSH)",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4714376005",
-   "postedAt": "2026-07-13T10:57:50-04:00",
-   "firstSeen": "2026-07-13T10:57:50-04:00",
-   "active": true,
-   "match": {
-    "score": 1,
-    "why": "This is a CDL newspaper delivery driving job, a different field from the candidate's data and BI work; she has no CDL and no driving credentials are listed.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:00.788Z"
-  },
-  {
    "id": "nyt-4743634005",
    "sourceId": "nyt",
    "title": "Delivery Driver (RSH)",
@@ -1942,6 +1925,23 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:00.785Z"
+  },
+  {
+   "id": "nyt-4714376005",
+   "sourceId": "nyt",
+   "title": "Delivery Driver (RSH)",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4714376005",
+   "postedAt": "2026-07-13T10:57:50-04:00",
+   "firstSeen": "2026-07-13T10:57:50-04:00",
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "This is a CDL newspaper delivery driving job, a different field from the candidate's data and BI work; she has no CDL and no driving credentials are listed.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-10-22T16:06:00.788Z"
   },
   {
    "id": "nyt-4732202005",
@@ -3126,23 +3126,6 @@
    "salaryCheckedAt": "2026-10-22T16:06:02.474Z"
   },
   {
-   "id": "nyt-4741106005",
-   "sourceId": "nyt",
-   "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4741106005",
-   "postedAt": "2026-10-07T16:59:38-04:00",
-   "firstSeen": "2026-10-07T16:59:38-04:00",
-   "active": true,
-   "match": {
-    "score": 1,
-    "why": "This is a customer service role requiring 5+ years of senior retail support and Shopify/Gorgias/Loop Returns experience. The profile shows data and BI work with no retail customer service or those platforms.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:02.514Z"
-  },
-  {
    "id": "nyt-4741110005",
    "sourceId": "nyt",
    "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
@@ -3158,6 +3141,23 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:02.560Z"
+  },
+  {
+   "id": "nyt-4741106005",
+   "sourceId": "nyt",
+   "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4741106005",
+   "postedAt": "2026-10-07T16:59:38-04:00",
+   "firstSeen": "2026-10-07T16:59:38-04:00",
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "This is a customer service role requiring 5+ years of senior retail support and Shopify/Gorgias/Loop Returns experience. The profile shows data and BI work with no retail customer service or those platforms.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-10-22T16:06:02.514Z"
   },
   {
    "id": "nyt-4680089005",
@@ -3526,12 +3526,12 @@
    "salaryMin": 90000,
    "salaryMax": 110000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-22T16:06:03.002Z",
    "match": {
     "score": 1,
     "why": "Different field: this is an HR global mobility coordination role requiring 3+ years of relocation or immigration experience, which the candidate lacks. Her working-level Excel is the only real overlap.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-22T16:06:03.002Z"
   },
   {
    "id": "nyt-4716367005",
