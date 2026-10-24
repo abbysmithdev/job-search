@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T23:17:16.022Z",
+ "generatedAt": "2026-10-24T16:00:55.280Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 10
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 5
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 2
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 9
   },
@@ -98,7 +98,7 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 43
   },
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 2
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "link",
    "count": 0
   },
@@ -190,7 +190,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 10
   },
@@ -204,7 +204,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 0
   },
@@ -218,7 +218,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 3
   },
@@ -232,7 +232,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 64
   },
@@ -246,9 +246,9 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
-   "count": 26
+   "count": 24
   },
   {
    "id": "pool-greenhouse-mavenclinic",
@@ -260,7 +260,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 9
   },
@@ -274,7 +274,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 3
   },
@@ -288,7 +288,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 1
   },
@@ -302,7 +302,7 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 22
   },
@@ -316,7 +316,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-23T23:17:16.022Z",
+   "lastChecked": "2026-10-24T16:00:55.280Z",
    "status": "live",
    "count": 16
   }
@@ -959,12 +959,12 @@
    "salaryMin": 150000,
    "salaryMax": 165000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-23T23:17:18.255Z",
    "match": {
     "score": 1,
     "why": "This is a media relations and communications role requiring 10+ years of PR and crisis communications experience, which is a different field from the candidate's data analytics and engineering background, with no overlap in core skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:18.255Z"
   },
   {
    "id": "nyt-4747088005",
@@ -2053,12 +2053,12 @@
    "salaryMin": 115200,
    "salaryMax": 162000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-23T23:17:18.605Z",
    "match": {
     "score": 2,
     "why": "Strong on backend-adjacent work: a REST API layer, AI tooling, and production reporting systems. The biggest gap is Rust, a core requirement, plus no ClickHouse, NATS, or graph-database experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:18.605Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8889193002",
@@ -2190,12 +2190,12 @@
    "salaryMin": 86400,
    "salaryMax": 146400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-23T23:17:18.651Z",
    "match": {
     "score": 3,
     "why": "Strong match on dashboards, SQL, data cleanup, reporting and documentation; the biggest gap is no partner, sales or revenue operations, quote-to-cash, or Salesforce experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:18.651Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8845322002",
@@ -2775,12 +2775,12 @@
    "salaryMin": 139200,
    "salaryMax": 235200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-23T23:17:18.655Z",
    "match": {
     "score": 2,
     "why": "Her internal tools and requirements-gathering work are adjacent, but the posting requires owning a product vision and roadmap at senior level, which her profile doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:18.655Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8838331002",
@@ -3383,25 +3383,6 @@
    }
   },
   {
-   "id": "pool-ashby-hims-and-hers-35419354-1c93-4a8b-9c97-24258bb3a7cb",
-   "sourceId": "pool-ashby-hims-and-hers",
-   "title": "Sr. Data Scientist",
-   "location": "US - Remote",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/hims-and-hers/35419354-1c93-4a8b-9c97-24258bb3a7cb",
-   "postedAt": "2026-09-24T15:29:21.755+00:00",
-   "firstSeen": "2026-09-24T15:29:21.755+00:00",
-   "active": true,
-   "salaryMin": 150000,
-   "salaryMax": 180000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong SQL and Power BI experience and some AI tooling match, but the role requires production ML modeling, deep Python data-stack skills, and AWS/GCP, none of which the profile shows.",
-    "p": "2f29e710"
-   }
-  },
-  {
    "id": "pool-ashby-hims-and-hers-e11c7e1b-4105-405f-915b-6e8e47bf4ed5",
    "sourceId": "pool-ashby-hims-and-hers",
    "title": "Sr Manager, Global Regulatory Affairs (AI/ML)",
@@ -3611,25 +3592,6 @@
    }
   },
   {
-   "id": "pool-ashby-hims-and-hers-e817dd26-218f-4b6e-ad0a-a3a669b48a38",
-   "sourceId": "pool-ashby-hims-and-hers",
-   "title": "Manager, Legal Programs (Privacy & AI)",
-   "location": "US - Remote",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/hims-and-hers/e817dd26-218f-4b6e-ad0a-a3a669b48a38",
-   "postedAt": "2026-10-14T00:31:31.977+00:00",
-   "firstSeen": "2026-10-14T00:31:31.977+00:00",
-   "active": true,
-   "salaryMin": 130000,
-   "salaryMax": 160000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Her strength is HIPAA/PHI handling and building AI tools, but the role needs 6+ years of legal privacy or AI governance program management, which she lacks.",
-    "p": "2f29e710"
-   }
-  },
-  {
    "id": "pool-ashby-hims-and-hers-dd9bd9fd-eb82-4c92-9206-3157f5380fa5",
    "sourceId": "pool-ashby-hims-and-hers",
    "title": "Sr. Manager, Product Marketing",
@@ -3799,6 +3761,26 @@
     "why": "Her SQL, Power BI reporting, and cross-team work match some asks, but the role needs 5+ years of supply or inventory planning, which she lacks entirely.",
     "p": "2f29e710"
    }
+  },
+  {
+   "id": "pool-ashby-hims-and-hers-e817dd26-218f-4b6e-ad0a-a3a669b48a38",
+   "sourceId": "pool-ashby-hims-and-hers",
+   "title": "Manager, Legal Programs (Privacy & AI)",
+   "location": "US - Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/hims-and-hers/e817dd26-218f-4b6e-ad0a-a3a669b48a38",
+   "postedAt": "2026-10-14T00:31:31.977+00:00",
+   "firstSeen": "2026-10-14T00:31:31.977+00:00",
+   "active": false,
+   "salaryMin": 130000,
+   "salaryMax": 160000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Her strength is HIPAA/PHI handling and building AI tools, but the role needs 6+ years of legal privacy or AI governance program management, which she lacks.",
+    "p": "2f29e710"
+   },
+   "closedAt": "2026-10-24T16:00:55.280Z"
   },
   {
    "id": "pool-ashby-hims-and-hers-97c915cb-43da-4034-afd2-92c8c9728a04",
@@ -4601,12 +4583,12 @@
    "salaryMin": 95000,
    "salaryMax": 115000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-23T23:17:20.130Z",
    "match": {
     "score": 2,
     "why": "Her client-facing data work and stakeholder training are real matches, but the role centers on launching transit deployments and travel-heavy partner operations, with no such experience in her profile.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:20.130Z"
   },
   {
    "id": "pool-greenhouse-via-8892068002",
@@ -4661,12 +4643,12 @@
    "salaryMin": 120000,
    "salaryMax": 160000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-23T23:17:20.136Z",
    "match": {
     "score": 1,
     "why": "This is a transit operations and people-leadership role leading 30+ field drivers, a different field from the candidate's data, BI, and Oracle engineering background. Her only overlap is a 'data analysis' and launch-project angle, not the c",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:20.136Z"
   },
   {
    "id": "pool-greenhouse-via-8885508002",
@@ -4701,12 +4683,12 @@
    "salaryMin": 95000,
    "salaryMax": 115000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-23T23:17:20.130Z",
    "match": {
     "score": 1,
     "why": "This is a transit operations leadership role leading 30+ field drivers and operators, far from the candidate's data, BI, and engineering background; her only overlap is light data reporting and launch-adjacent tech work.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:20.130Z"
   },
   {
    "id": "pool-greenhouse-via-8894256002",
@@ -4841,12 +4823,12 @@
    "salaryMin": 120000,
    "salaryMax": 160000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-23T23:17:20.177Z",
    "match": {
     "score": 2,
     "why": "Strong match on KPI tracking, performance data, and stakeholder work, but the role centers on leading a 30+ field team and transit operations, which the profile doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-23T23:17:20.177Z"
   }
  ]
 }
