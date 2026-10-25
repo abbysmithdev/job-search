@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T16:00:55.280Z",
+ "generatedAt": "2026-10-25T16:28:47.247Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 10
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 5
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 2
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 9
   },
@@ -98,9 +98,9 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
-   "count": 43
+   "count": 39
   },
   {
    "id": "liquiddeath",
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 2
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "link",
    "count": 0
   },
@@ -190,9 +190,9 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
-   "count": 10
+   "count": 9
   },
   {
    "id": "pool-greenhouse-exadelinc",
@@ -204,7 +204,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 0
   },
@@ -218,7 +218,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 3
   },
@@ -232,9 +232,9 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
-   "count": 64
+   "count": 62
   },
   {
    "id": "pool-ashby-hims-and-hers",
@@ -246,9 +246,9 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
-   "count": 24
+   "count": 23
   },
   {
    "id": "pool-greenhouse-mavenclinic",
@@ -260,7 +260,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 9
   },
@@ -274,7 +274,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 3
   },
@@ -288,7 +288,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
    "count": 1
   },
@@ -302,9 +302,9 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
-   "count": 22
+   "count": 21
   },
   {
    "id": "pool-greenhouse-via",
@@ -316,9 +316,9 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-24T16:00:55.280Z",
+   "lastChecked": "2026-10-25T16:28:47.247Z",
    "status": "live",
-   "count": 16
+   "count": 15
   }
  ],
  "jobs": [
@@ -1489,26 +1489,6 @@
    "salaryCheckedAt": "2026-10-22T16:06:02.671Z"
   },
   {
-   "id": "nyt-4737120005",
-   "sourceId": "nyt",
-   "title": "Senior Manager, Audience & Product Analytics, NYT Wirecutter",
-   "location": "New York, NY; Remote - USA",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4737120005",
-   "postedAt": "2026-09-24T13:44:01-04:00",
-   "firstSeen": "2026-09-24T13:44:01-04:00",
-   "active": true,
-   "salaryMin": 140000,
-   "salaryMax": 160000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong SQL and Power BI reporting match, but the role requires 6+ years, 2+ years managing analysts, and 5+ years of A/B testing, none of which the profile shows.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:02.689Z"
-  },
-  {
    "id": "nyt-4739844005",
    "sourceId": "nyt",
    "title": "Senior Manager, Global Security Operations",
@@ -1527,46 +1507,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:02.717Z"
-  },
-  {
-   "id": "nyt-4736642005",
-   "sourceId": "nyt",
-   "title": "Senior Manager, Revenue Analytics, NYT Wirecutter",
-   "location": "New York, NY; Remote - USA",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4736642005",
-   "postedAt": "2026-09-24T13:44:58-04:00",
-   "firstSeen": "2026-09-24T13:44:58-04:00",
-   "active": true,
-   "salaryMin": 140000,
-   "salaryMax": 160000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong SQL and BI dashboard experience match, but the role requires 6+ years of revenue or e-commerce analytics, 2+ years of people management, and affiliate/ad/DTC experience the profile doesn't show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:02.796Z"
-  },
-  {
-   "id": "nyt-4737108005",
-   "sourceId": "nyt",
-   "title": "Senior Program Manager, People Data and Insights",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4737108005",
-   "postedAt": "2026-09-24T12:54:03-04:00",
-   "firstSeen": "2026-09-24T12:54:03-04:00",
-   "active": true,
-   "salaryMin": 155000,
-   "salaryMax": 170000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong SQL, Power BI, and stakeholder documentation and training match, but the role wants 7+ years of program management, 3+ years of HR data, and BI tools she hasn't listed (Hex, Tableau, Looker).",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:02.939Z"
   },
   {
    "id": "nyt-4746500005",
@@ -1627,26 +1567,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:03.115Z"
-  },
-  {
-   "id": "nyt-4737734005",
-   "sourceId": "nyt",
-   "title": "Senior Video Journalist, Opinion",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4737734005",
-   "postedAt": "2026-09-24T14:28:03-04:00",
-   "firstSeen": "2026-09-24T14:28:03-04:00",
-   "active": true,
-   "salaryMin": 124980,
-   "salaryMax": 152000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a journalism video production role requiring 8+ years of video journalism, on-camera interviewing, and Adobe Premiere, none of which the data and BI profile covers; it is a different field.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:03.104Z"
   },
   {
    "id": "nyt-4744542005",
@@ -1899,26 +1819,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T17:33:39.129Z"
-  },
-  {
-   "id": "pool-greenhouse-celonis-7989845003",
-   "sourceId": "pool-greenhouse-celonis",
-   "title": "Senior Software Engineer",
-   "location": "New York, US, New York",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/7989845003?gh_jid=7989845003",
-   "postedAt": "2026-09-24T12:55:16-04:00",
-   "firstSeen": "2026-09-24T12:55:16-04:00",
-   "active": true,
-   "salaryMin": 161000,
-   "salaryMax": 218000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strength: REST API and Python backend work from her Oracle role. Biggest gap: the posting requires Java/Spring Boot, Kafka-style stream processing, and distributed systems, none of which the profile shows.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T17:33:39.198Z"
   },
   {
    "id": "pool-greenhouse-celonis-8016341003",
@@ -2216,26 +2116,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T17:33:39.777Z"
-  },
-  {
-   "id": "pool-greenhouse-gitlab-8821526002",
-   "sourceId": "pool-greenhouse-gitlab",
-   "title": "Intermediate Security Analyst, Vulnerability Operations  (North America)",
-   "location": "Remote, Canada; Remote, United States",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8821526002",
-   "postedAt": "2026-09-24T12:03:09-04:00",
-   "firstSeen": "2026-09-24T12:03:09-04:00",
-   "active": true,
-   "salaryMin": 115000,
-   "salaryMax": 150000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong overlap in documentation, cross-team coordination, and scripting, but the role needs security knowledge (CVE/CVSS/CWE, bug bounty platforms, vulnerability disclosure) that the profile does not show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T17:33:39.807Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8842630002",
@@ -3051,26 +2931,6 @@
    "salaryCheckedAt": "2026-10-22T17:33:40.772Z"
   },
   {
-   "id": "pool-greenhouse-gitlab-8815140002",
-   "sourceId": "pool-greenhouse-gitlab",
-   "title": "Staff Product Security Architect ",
-   "location": "Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8815140002",
-   "postedAt": "2026-09-25T09:41:48-04:00",
-   "firstSeen": "2026-09-25T09:41:48-04:00",
-   "active": true,
-   "salaryMin": 168000,
-   "salaryMax": 238000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "Strong security architecture role; the candidate's matching strengths are HIPAA handling and REST/OAuth exposure, but she lacks application security architecture, supply chain security, and staff-level experience.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T17:33:40.689Z"
-  },
-  {
    "id": "pool-greenhouse-gitlab-8868652002",
    "sourceId": "pool-greenhouse-gitlab",
    "title": "Staff Renewals Operations Manager",
@@ -3379,25 +3239,6 @@
    "match": {
     "score": 2,
     "why": "Strong data validation and Excel-adjacent analysis overlap, but the role requires compensation principles, job evaluation, and salary survey experience the profile does not show, a major gap in a different field.",
-    "p": "2f29e710"
-   }
-  },
-  {
-   "id": "pool-ashby-hims-and-hers-e11c7e1b-4105-405f-915b-6e8e47bf4ed5",
-   "sourceId": "pool-ashby-hims-and-hers",
-   "title": "Sr Manager, Global Regulatory Affairs (AI/ML)",
-   "location": "US - Remote",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/hims-and-hers/e11c7e1b-4105-405f-915b-6e8e47bf4ed5",
-   "postedAt": "2026-09-25T15:56:57.016+00:00",
-   "firstSeen": "2026-09-25T15:56:57.016+00:00",
-   "active": true,
-   "salaryMin": 170000,
-   "salaryMax": 200000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a regulatory affairs role requiring 12+ years of FDA/AI-ML regulatory experience and a STEM degree, while the candidate is a data analyst and engineer with about 4-5 years and no regulatory background.",
     "p": "2f29e710"
    }
   },
@@ -4220,24 +4061,6 @@
    }
   },
   {
-   "id": "pool-ashby-telus-digital-eb0c2501-9daa-408c-b638-5a57061871e0",
-   "sourceId": "pool-ashby-telus-digital",
-   "title": "Google UJET Expert (Contract)",
-   "location": "Remote, Ontario",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/telus-digital/eb0c2501-9daa-408c-b638-5a57061871e0",
-   "postedAt": "2026-09-25T12:39:13.695+00:00",
-   "firstSeen": "2026-09-25T12:39:13.695+00:00",
-   "active": true,
-   "salaryCurrency": "CAD",
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a contact center platform specialist role requiring Google UJET CCAIP and Dialogflow expertise, which the candidate does not have; her data and reporting skills are a different field, and the posting is limited to Ontario, Canada, n",
-    "p": "2f29e710"
-   }
-  },
-  {
    "id": "pool-ashby-telus-digital-65cbe0c3-4e0e-4f7f-a55e-d410de7091c4",
    "sourceId": "pool-ashby-telus-digital",
    "title": "Lead AI Developer",
@@ -4709,26 +4532,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T19:41:10.516Z"
-  },
-  {
-   "id": "pool-greenhouse-via-8844839002",
-   "sourceId": "pool-greenhouse-via",
-   "title": "Proposal Coordinator",
-   "location": "New York",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/via/jobs/8844839002",
-   "postedAt": "2026-09-25T10:12:03-04:00",
-   "firstSeen": "2026-09-25T10:12:03-04:00",
-   "active": true,
-   "salaryMin": 65000,
-   "salaryMax": 85000,
-   "salarySource": "description",
-   "match": {
-    "score": 2,
-    "why": "Strength: cross-team coordination, documentation, and attention to detail carry over. Biggest gap: this is proposal and bid administration, with no data analysis, BI, or engineering work in the role.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T19:41:10.801Z"
   },
   {
    "id": "pool-greenhouse-via-8903750002",
