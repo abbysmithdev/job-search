@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T16:28:47.247Z",
+ "generatedAt": "2026-10-26T00:38:48.976Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 10
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 5
   },
@@ -46,9 +46,9 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
-   "count": 2
+   "count": 3
   },
   {
    "id": "prh",
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 9
   },
@@ -98,9 +98,9 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
-   "count": 39
+   "count": 37
   },
   {
    "id": "liquiddeath",
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 2
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "link",
    "count": 0
   },
@@ -190,9 +190,9 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
-   "count": 9
+   "count": 8
   },
   {
    "id": "pool-greenhouse-exadelinc",
@@ -204,7 +204,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 0
   },
@@ -218,7 +218,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 3
   },
@@ -232,9 +232,9 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
-   "count": 62
+   "count": 61
   },
   {
    "id": "pool-ashby-hims-and-hers",
@@ -246,7 +246,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 23
   },
@@ -260,9 +260,9 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
-   "count": 9
+   "count": 8
   },
   {
    "id": "pool-greenhouse-renttherunway",
@@ -274,7 +274,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 3
   },
@@ -288,7 +288,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 1
   },
@@ -302,7 +302,7 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 21
   },
@@ -316,7 +316,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-25T16:28:47.247Z",
+   "lastChecked": "2026-10-26T00:38:48.976Z",
    "status": "live",
    "count": 15
   }
@@ -608,6 +608,22 @@
    "match": {
     "score": 1,
     "why": "This is a senior partnerships and channel role needing 6+ years in consulting or BD and alliance-building, which the candidate's data and reporting background does not cover; no partnerships experience is listed.",
+    "p": "2f29e710"
+   }
+  },
+  {
+   "id": "rmi--job-Remote---US-IT-Governance--Risk--and-Compliance-Analyst_R-101591",
+   "sourceId": "rmi",
+   "title": "IT Governance, Risk, and Compliance Analyst",
+   "location": "Remote - U.S.",
+   "remote": true,
+   "url": "https://rockymountain.wd1.myworkdayjobs.com/en-US/RMI/job/Remote---US/IT-Governance--Risk--and-Compliance-Analyst_R-101591",
+   "postedAt": null,
+   "firstSeen": "2026-10-26T00:38:48.976Z",
+   "active": true,
+   "match": {
+    "score": 2,
+    "why": "No description, so judged from title only. Her HIPAA handling and IT operations work are adjacent, but GRC frameworks, audit, and risk management are not in her profile.",
     "p": "2f29e710"
    }
   },
@@ -927,26 +943,6 @@
    "salaryCheckedAt": "2026-10-22T16:06:00.785Z"
   },
   {
-   "id": "nyt-4738143005",
-   "sourceId": "nyt",
-   "title": "Director, HR Business Partner - Product Engineering",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4738143005",
-   "postedAt": "2026-09-25T15:45:36-04:00",
-   "firstSeen": "2026-09-25T15:45:36-04:00",
-   "active": true,
-   "salaryMin": 185000,
-   "salaryMax": 215000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is an HR Business Partner director role requiring 10+ years of HRBP and 5+ years of people leadership, which is a different field from the candidate's data and engineering background. The only overlap is HRIS familiarity, which the pro",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:01.054Z"
-  },
-  {
    "id": "nyt-4747279005",
    "sourceId": "nyt",
    "title": "Director, Media Relations & Communications",
@@ -1201,26 +1197,6 @@
    "salaryCheckedAt": "2026-10-22T16:06:01.745Z"
   },
   {
-   "id": "nyt-4737730005",
-   "sourceId": "nyt",
-   "title": "Graphics Multimedia Editor, Open-source Reporting",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4737730005",
-   "postedAt": "2026-09-25T13:24:48-04:00",
-   "firstSeen": "2026-09-25T13:24:48-04:00",
-   "active": true,
-   "salaryMin": 113946,
-   "salaryMax": 145000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Her Python, data pipeline, and dashboard work partly transfer, but the role needs 5+ years of investigative reporting and OSINT, geolocation, and 3-D reconstruction, none of which she has.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:01.765Z"
-  },
-  {
    "id": "nyt-4740068005",
    "sourceId": "nyt",
    "title": "HR Generalist",
@@ -1435,23 +1411,6 @@
    "salaryCheckedAt": "2026-10-23T17:13:04.057Z"
   },
   {
-   "id": "nyt-4741110005",
-   "sourceId": "nyt",
-   "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4741110005",
-   "postedAt": "2026-10-07T16:59:47-04:00",
-   "firstSeen": "2026-10-07T16:59:47-04:00",
-   "active": true,
-   "match": {
-    "score": 1,
-    "why": "This is a temporary customer service role, a different field from the candidate's data and BI work. It needs 5+ years of senior customer service and Shopify, Gorgias, and Loop Returns experience, which the profile doesn't show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:02.560Z"
-  },
-  {
    "id": "nyt-4741106005",
    "sourceId": "nyt",
    "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
@@ -1467,6 +1426,23 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:02.514Z"
+  },
+  {
+   "id": "nyt-4741110005",
+   "sourceId": "nyt",
+   "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4741110005",
+   "postedAt": "2026-10-07T16:59:47-04:00",
+   "firstSeen": "2026-10-07T16:59:47-04:00",
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "This is a temporary customer service role, a different field from the candidate's data and BI work. It needs 5+ years of senior customer service and Shopify, Gorgias, and Loop Returns experience, which the profile doesn't show.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-10-22T16:06:02.560Z"
   },
   {
    "id": "nyt-4740640005",
@@ -1719,26 +1695,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T17:33:38.955Z"
-  },
-  {
-   "id": "pool-greenhouse-celonis-7817279003",
-   "sourceId": "pool-greenhouse-celonis",
-   "title": "Field CTO",
-   "location": "New York, US, New York",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/7817279003?gh_jid=7817279003",
-   "postedAt": "2026-09-25T16:13:06-04:00",
-   "firstSeen": "2026-09-25T16:13:06-04:00",
-   "active": true,
-   "salaryMin": 204000,
-   "salaryMax": 272000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "Senior executive Field CTO role requiring 15-20 years, an MSc, and C-suite advisory; the candidate has about 4 years in tech, a BA, and no executive-facing or sales background, a different level entirely.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T17:33:39.006Z"
   },
   {
    "id": "pool-greenhouse-celonis-8015447003",
@@ -2056,26 +2012,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T17:33:39.734Z"
-  },
-  {
-   "id": "pool-greenhouse-gitlab-8831350002",
-   "sourceId": "pool-greenhouse-gitlab",
-   "title": "Distinguished Engineer, Core DevOps",
-   "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8831350002",
-   "postedAt": "2026-09-25T13:37:29-04:00",
-   "firstSeen": "2026-09-25T13:37:29-04:00",
-   "active": true,
-   "salaryMin": 250000,
-   "salaryMax": 349000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "Distinguished-level role requiring 10+ years and deep distributed-systems and LLM production expertise; candidate has about 4 years, a data/reporting background, and no stated senior engineering leadership, a far-beyond-experience stretch.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T17:33:39.767Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8907694002",
@@ -3624,26 +3560,6 @@
    "closedAt": "2026-10-24T16:00:55.280Z"
   },
   {
-   "id": "pool-ashby-hims-and-hers-97c915cb-43da-4034-afd2-92c8c9728a04",
-   "sourceId": "pool-ashby-hims-and-hers",
-   "title": "Regional Learning Manager, Learning Operations",
-   "location": "US - Remote",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/hims-and-hers/97c915cb-43da-4034-afd2-92c8c9728a04",
-   "postedAt": "2026-09-25T21:54:43.020+00:00",
-   "firstSeen": "2026-09-25T21:54:43.020+00:00",
-   "active": false,
-   "salaryMin": 140000,
-   "salaryMax": 150000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "Learning and development leadership in pharmacy compounding, requiring a CPhT and 10+ years of L&D management; the candidate's data, reporting, and engineering background doesn't match, and the gaps are wide.",
-    "p": "2f29e710"
-   },
-   "closedAt": "2026-10-23T23:17:16.022Z"
-  },
-  {
    "id": "pool-ashby-hims-and-hers-95f5668a-b20f-43e0-a31a-40de40eabce5",
    "sourceId": "pool-ashby-hims-and-hers",
    "title": "Patient Support Associate / Soutien à la Clientèle",
@@ -3812,26 +3728,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T17:33:41.255Z"
-  },
-  {
-   "id": "pool-greenhouse-mavenclinic-8845343002",
-   "sourceId": "pool-greenhouse-mavenclinic",
-   "title": "Staff Security Engineer, Detection & Response",
-   "location": "New York, NY; Remote, US (Hub cities)",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/mavenclinic/jobs/8845343002",
-   "postedAt": "2026-09-25T13:54:34-04:00",
-   "firstSeen": "2026-09-25T13:54:34-04:00",
-   "active": true,
-   "salaryMin": 221000,
-   "salaryMax": 299000,
-   "salarySource": "description",
-   "match": {
-    "score": 1,
-    "why": "Strength: Python and REST API automation experience. Biggest gap: the role is a security engineering position requiring 6+ years of AppSec and SIEM ownership, which the profile does not show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T17:33:41.324Z"
   },
   {
    "id": "pool-greenhouse-mavenclinic-8864313002",
