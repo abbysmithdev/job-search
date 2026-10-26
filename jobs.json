@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T13:33:12.316Z",
+ "generatedAt": "2026-10-26T18:42:46.469Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 10
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 5
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 3
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 9
   },
@@ -98,9 +98,9 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
-   "count": 37
+   "count": 40
   },
   {
    "id": "liquiddeath",
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 1
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "link",
    "count": 0
   },
@@ -190,7 +190,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 8
   },
@@ -204,7 +204,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 0
   },
@@ -218,7 +218,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 3
   },
@@ -232,9 +232,9 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
-   "count": 61
+   "count": 62
   },
   {
    "id": "pool-ashby-hims-and-hers",
@@ -246,7 +246,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 23
   },
@@ -260,7 +260,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 8
   },
@@ -274,7 +274,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 3
   },
@@ -288,7 +288,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 1
   },
@@ -302,7 +302,7 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 21
   },
@@ -316,7 +316,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T13:33:12.316Z",
+   "lastChecked": "2026-10-26T18:42:46.469Z",
    "status": "live",
    "count": 16
   }
@@ -1411,23 +1411,6 @@
    "salaryCheckedAt": "2026-10-23T17:13:04.057Z"
   },
   {
-   "id": "nyt-4741110005",
-   "sourceId": "nyt",
-   "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
-   "location": "New York, NY",
-   "remote": false,
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4741110005",
-   "postedAt": "2026-10-07T16:59:47-04:00",
-   "firstSeen": "2026-10-07T16:59:47-04:00",
-   "active": true,
-   "match": {
-    "score": 1,
-    "why": "This is a temporary customer service role, a different field from the candidate's data and BI work. It needs 5+ years of senior customer service and Shopify, Gorgias, and Loop Returns experience, which the profile doesn't show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-10-22T16:06:02.560Z"
-  },
-  {
    "id": "nyt-4741106005",
    "sourceId": "nyt",
    "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
@@ -1443,6 +1426,23 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:02.514Z"
+  },
+  {
+   "id": "nyt-4741110005",
+   "sourceId": "nyt",
+   "title": "Senior Customer Service Agent, NYT Wirecutter (Temporary)",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4741110005",
+   "postedAt": "2026-10-07T16:59:47-04:00",
+   "firstSeen": "2026-10-07T16:59:47-04:00",
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "This is a temporary customer service role, a different field from the candidate's data and BI work. It needs 5+ years of senior customer service and Shopify, Gorgias, and Loop Returns experience, which the profile doesn't show.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-10-22T16:06:02.560Z"
   },
   {
    "id": "nyt-4740640005",
@@ -1503,6 +1503,46 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:03.002Z"
+  },
+  {
+   "id": "nyt-4747522005",
+   "sourceId": "nyt",
+   "title": "Senior Staff Editor, Off Platform Graphics",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4747522005",
+   "postedAt": "2026-10-26T14:32:28-04:00",
+   "firstSeen": "2026-10-26T18:42:46.469Z",
+   "active": true,
+   "salaryMin": 124980,
+   "salaryMax": 145000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-10-26T18:42:48.614Z",
+   "match": {
+    "score": 1,
+    "why": "This is a visual journalism editing role requiring 8+ years of news graphics experience, Adobe Creative Suite and Figma, and a graphics portfolio; the candidate's data and BI background does not match these core requirements.",
+    "p": "2f29e710"
+   }
+  },
+  {
+   "id": "nyt-4745174005",
+   "sourceId": "nyt",
+   "title": "Senior Video Editor, NYT Magazine",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4745174005",
+   "postedAt": "2026-10-26T10:41:59-04:00",
+   "firstSeen": "2026-10-26T18:42:46.469Z",
+   "active": true,
+   "salaryMin": 124980,
+   "salaryMax": 130000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-10-26T18:42:48.685Z",
+   "match": {
+    "score": 1,
+    "why": "This is a video editing and motion design role requiring Premiere, After Effects, Figma and a video reel; the candidate's background is data analytics and BI with no video editing experience.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "nyt-4742670005",
@@ -1600,6 +1640,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T16:06:03.256Z"
+  },
+  {
+   "id": "nyt-4747130005",
+   "sourceId": "nyt",
+   "title": "Technical Product Manager II, Data Platforms",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4747130005",
+   "postedAt": "2026-10-26T13:35:01-04:00",
+   "firstSeen": "2026-10-26T18:42:46.469Z",
+   "active": true,
+   "salaryMin": 120000,
+   "salaryMax": 142000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-10-26T18:42:48.644Z",
+   "match": {
+    "score": 2,
+    "why": "Strong data infrastructure and stakeholder experience, but no product management track record, which the posting requires at 4+ years; it also lacks the streaming and processing-engine experience the role centers on.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "nyt-4742451005",
@@ -2826,6 +2886,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-10-22T17:33:40.671Z"
+  },
+  {
+   "id": "pool-greenhouse-gitlab-8895451002",
+   "sourceId": "pool-greenhouse-gitlab",
+   "title": "Staff Investor Relations",
+   "location": "Remote, Canada; Remote, United States",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895451002",
+   "postedAt": "2026-10-26T13:08:47-04:00",
+   "firstSeen": "2026-10-26T18:42:46.469Z",
+   "active": true,
+   "salaryMin": 139200,
+   "salaryMax": 235200,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-10-26T18:42:49.172Z",
+   "match": {
+    "score": 1,
+    "why": "Investor relations and buy-side or sell-side equity research role; the candidate's data, BI, and Oracle engineering background has no finance, valuation, or SEC reporting experience, so it's a different field.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "pool-greenhouse-gitlab-8909618002",
@@ -4340,12 +4420,12 @@
    "postedAt": "2026-10-26T09:21:54-04:00",
    "firstSeen": "2026-10-26T13:33:12.316Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-26T13:33:18.699Z",
    "match": {
     "score": 2,
     "why": "Her AI-chatbot and IT-automation work matches parts of the role, but the posting asks for 10+ years and 4+ years managing teams, and she has no stated people leadership or Okta, Meraki, or Freshservice experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-26T13:33:18.699Z"
   },
   {
    "id": "pool-greenhouse-via-8893061002",
