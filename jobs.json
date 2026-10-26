@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T23:00:42.965Z",
+ "generatedAt": "2026-10-26T23:10:37.276Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 11
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 5
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 3
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 9
   },
@@ -98,7 +98,7 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 40
   },
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 1
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "link",
    "count": 0
   },
@@ -188,7 +188,7 @@
    "url": "https://www.sustainablebusiness.com/greendreamjobs/jobs/",
    "color": "#2E7D5B",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 4
   },
@@ -202,7 +202,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 22
   },
@@ -216,7 +216,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 8
   },
@@ -230,7 +230,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 0
   },
@@ -244,7 +244,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 3
   },
@@ -258,7 +258,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 62
   },
@@ -272,7 +272,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 23
   },
@@ -286,7 +286,7 @@
    "color": "#76642d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 2
   },
@@ -300,7 +300,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 8
   },
@@ -314,7 +314,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 3
   },
@@ -328,7 +328,7 @@
    "color": "#76762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 97
   },
@@ -342,7 +342,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 1
   },
@@ -356,7 +356,7 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 21
   },
@@ -370,7 +370,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T23:00:42.965Z",
+   "lastChecked": "2026-10-26T23:10:37.276Z",
    "status": "live",
    "count": 16
   }
