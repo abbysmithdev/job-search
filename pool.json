@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T19:34:12.412Z",
+ "updatedAt": "2026-10-26T22:33:49.032Z",
  "entries": [
   {
    "name": "Anthology",
@@ -55,6 +55,21 @@
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
    "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Braze",
+   "key": "braze",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-26T22:33:49.032Z",
+   "method": "greenhouse",
+   "slug": "braze",
+   "boardName": "Braze",
+   "jobCount": 346,
+   "reason": "Board name matches exactly (\"Braze\")",
+   "lastTried": "2026-10-26T22:33:49.032Z"
   },
   {
    "name": "Capital Group",
@@ -201,6 +216,17 @@
    "lastTried": "2026-10-22T17:32:09.774Z"
   },
   {
+   "name": "GE Vernova",
+   "key": "gevernova",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-26T22:33:49.032Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-26T22:33:49.032Z"
+  },
+  {
    "name": "General Motors",
    "key": "generalmotors",
    "status": "notfound",
@@ -236,6 +262,28 @@
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
    "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "GM Financial",
+   "key": "gmfinancial",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-26T22:33:49.032Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-26T22:33:49.032Z"
+  },
+  {
+   "name": "Here Technologies",
+   "key": "heretechnologies",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-26T22:33:49.032Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-26T22:33:49.032Z"
   },
   {
    "name": "hims & hers",
@@ -284,6 +332,21 @@
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
    "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Koalafi",
+   "key": "koalafi",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-26T22:33:49.032Z",
+   "method": "greenhouse",
+   "slug": "koalafi",
+   "boardName": "Koalafi",
+   "jobCount": 13,
+   "reason": "Board name matches exactly (\"Koalafi\")",
+   "lastTried": "2026-10-26T22:33:49.032Z"
   },
   {
    "name": "Kyndryl",
@@ -435,6 +498,21 @@
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
    "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Samsara Inc.",
+   "key": "samsara",
+   "status": "matched",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-26T22:33:49.032Z",
+   "method": "greenhouse",
+   "slug": "samsara",
+   "boardName": "Samsara",
+   "jobCount": 327,
+   "reason": "Board name matches exactly (\"Samsara\")",
+   "lastTried": "2026-10-26T22:33:49.032Z"
   },
   {
    "name": "Soho House",
