@@ -1,0 +1,13 @@
+{
+  "blocklist": ["Recidiviz"],
+  "maxResolvePerRun": 80,
+  "museCategories": ["Data and Analytics", "Data Science"],
+  "museLocations": ["New York, NY", "Flexible / Remote"],
+  "musePagesPerQuery": 5,
+  "tjfgPages": 21,
+  "boards": [
+    { "id": "tjfg", "name": "Tech Jobs for Good", "enabled": true },
+    { "id": "builtinnyc", "name": "Built In NYC", "enabled": false, "why": "No feed, terms not checked, not testable from here" },
+    { "id": "wellfound", "name": "Wellfound", "enabled": false, "why": "No feed, terms not checked, not testable from here" }
+  ]
+}
