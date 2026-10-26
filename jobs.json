@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T19:34:32.099Z",
+ "generatedAt": "2026-10-26T21:13:57.520Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 11
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 5
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 3
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 9
   },
@@ -98,7 +98,7 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 40
   },
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 1
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "link",
    "count": 0
   },
@@ -190,7 +190,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 8
   },
@@ -204,7 +204,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 0
   },
@@ -218,7 +218,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 3
   },
@@ -232,7 +232,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 62
   },
@@ -246,9 +246,9 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
-   "count": 24
+   "count": 23
   },
   {
    "id": "pool-greenhouse-mavenclinic",
@@ -260,7 +260,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 8
   },
@@ -274,7 +274,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 3
   },
@@ -288,7 +288,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 1
   },
@@ -302,7 +302,7 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 21
   },
@@ -316,7 +316,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-26T19:34:32.099Z",
+   "lastChecked": "2026-10-26T21:13:57.520Z",
    "status": "live",
    "count": 16
   }
@@ -429,12 +429,12 @@
    "salaryMin": 163200,
    "salaryMax": 244800,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-26T19:34:32.310Z",
    "match": {
     "score": 1,
     "why": "This is a performance marketing role needing 8+ years of mobile user acquisition and 3+ years leading marketers, while the candidate's background is data analytics and internal IT engineering with no marketing or UA experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-26T19:34:32.310Z"
   },
   {
    "id": "duolingo-8858331002",
@@ -3489,25 +3489,6 @@
    }
   },
   {
-   "id": "pool-ashby-hims-and-hers-087f30f4-8f86-48fa-bea1-427eb8e13c82",
-   "sourceId": "pool-ashby-hims-and-hers",
-   "title": "Manager, Environmental Compliance & Sustainability",
-   "location": "US - Remote",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/hims-and-hers/087f30f4-8f86-48fa-bea1-427eb8e13c82",
-   "postedAt": "2026-10-16T17:40:28.702+00:00",
-   "firstSeen": "2026-10-16T17:40:28.702+00:00",
-   "active": true,
-   "salaryMin": 140000,
-   "salaryMax": 175000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is an environmental compliance management role requiring 8+ years of hazardous waste and regulatory experience, which the candidate's data, BI, and IT automation background does not match; her only overlap is general data and reporting",
-    "p": "2f29e710"
-   }
-  },
-  {
    "id": "pool-ashby-hims-and-hers-e4bc031f-10e1-443b-9900-71e363e5525e",
    "sourceId": "pool-ashby-hims-and-hers",
    "title": "Director, Technology Communications, Hims & Hers",
@@ -3658,6 +3639,26 @@
     "why": "Her SQL, Power BI reporting, and cross-team work match some asks, but the role needs 5+ years of supply or inventory planning, which she lacks entirely.",
     "p": "2f29e710"
    }
+  },
+  {
+   "id": "pool-ashby-hims-and-hers-087f30f4-8f86-48fa-bea1-427eb8e13c82",
+   "sourceId": "pool-ashby-hims-and-hers",
+   "title": "Manager, Environmental Compliance & Sustainability",
+   "location": "US - Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/hims-and-hers/087f30f4-8f86-48fa-bea1-427eb8e13c82",
+   "postedAt": "2026-10-16T17:40:28.702+00:00",
+   "firstSeen": "2026-10-16T17:40:28.702+00:00",
+   "active": false,
+   "salaryMin": 140000,
+   "salaryMax": 175000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is an environmental compliance management role requiring 8+ years of hazardous waste and regulatory experience, which the candidate's data, BI, and IT automation background does not match; her only overlap is general data and reporting",
+    "p": "2f29e710"
+   },
+   "closedAt": "2026-10-26T21:13:57.520Z"
   },
   {
    "id": "pool-ashby-hims-and-hers-e817dd26-218f-4b6e-ad0a-a3a669b48a38",
