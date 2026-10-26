@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T19:40:46.285Z",
+ "updatedAt": "2026-10-26T19:34:12.412Z",
  "entries": [
   {
    "name": "Anthology",
@@ -11,6 +11,17 @@
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
    "lastTried": "2026-10-22T17:32:09.774Z"
+  },
+  {
+   "name": "Apple",
+   "key": "apple",
+   "status": "notfound",
+   "sources": [
+    "The Muse"
+   ],
+   "firstFound": "2026-10-26T19:34:12.412Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-26T19:34:12.412Z"
   },
   {
    "name": "Atlassian",
