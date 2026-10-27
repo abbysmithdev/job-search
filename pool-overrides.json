@@ -1,0 +1,12 @@
+{
+  "_note": "Pin a company to a board by hand. Names must match the pool; method is greenhouse, lever or ashby.",
+  "2U": { "method": "greenhouse", "slug": "2u" },
+  "Bezos Academy": { "method": "greenhouse", "slug": "day1academies" },
+  "GlossGenius": { "method": "greenhouse", "slug": "glossgenius" },
+  "Oscar Health": { "method": "greenhouse", "slug": "oscar" },
+  "Spring Health": { "method": "greenhouse", "slug": "springhealth66" },
+  "Soho House": { "method": "greenhouse", "slug": "sohohouseco" },
+  "Exygy": { "method": "lever", "slug": "exygy" },
+  "The Trevor Project": { "method": "lever", "slug": "thetrevorproject" },
+  "Swiftly": { "method": "lever", "slug": "goswift" }
+}
