@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T00:47:25.800Z",
+ "updatedAt": "2026-10-27T00:54:41.603Z",
  "entries": [
   {
    "name": "100Kin10",
@@ -46,7 +46,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "greenhouse",
    "slug": "2u",
    "decided": "override",
@@ -307,7 +307,7 @@
   {
    "name": "Afresh Technologies",
    "key": "afreshtechnologies",
-   "status": "unsure",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
@@ -318,7 +318,8 @@
    "jobCount": 12,
    "reason": "Board is named \"Afresh\", which is close but not identical",
    "lastTried": "2026-10-27T00:47:25.800Z",
-   "resolver": 2
+   "resolver": 2,
+   "decided": "approved"
   },
   {
    "name": "AFSCME",
@@ -471,7 +472,7 @@
   {
    "name": "Alliance for a Healthier Generation",
    "key": "allianceforahealthiergeneration",
-   "status": "unsure",
+   "status": "rejected",
    "sources": [
     "Tech Jobs for Good"
    ],
@@ -482,12 +483,13 @@
    "jobCount": 2,
    "reason": "Board is named \"Alliance\", which is close but not identical",
    "lastTried": "2026-10-27T00:47:25.800Z",
-   "resolver": 2
+   "resolver": 2,
+   "decided": "rejected"
   },
   {
    "name": "Alliance for Young Artists & Writers",
    "key": "allianceforyoungartistsandwriters",
-   "status": "unsure",
+   "status": "rejected",
    "sources": [
     "Tech Jobs for Good"
    ],
@@ -498,7 +500,8 @@
    "jobCount": 2,
    "reason": "Board is named \"Alliance\", which is close but not identical",
    "lastTried": "2026-10-27T00:47:25.800Z",
-   "resolver": 2
+   "resolver": 2,
+   "decided": "rejected"
   },
   {
    "name": "Alluma",
@@ -1046,65 +1049,86 @@
   {
    "name": "Austin Transportation Data & Technology Services",
    "key": "austintransportationdataandtechnologyservices",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "AutoGrid",
    "key": "autogrid",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Avhana Health",
    "key": "avhanahealth",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "aware3",
    "key": "aware3",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "B Lab Global",
    "key": "blabglobal",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Babyscripts",
    "key": "babyscripts",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Baltimore Office of Performance & Innovation",
    "key": "baltimoreofficeofperformanceandinnovation",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Bank of America",
@@ -1115,142 +1139,208 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-22T17:32:09.774Z"
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Banyan Water",
    "key": "banyanwater",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Beeck Center for Social Impact + Innovation",
    "key": "beeckcenterforsocialimpactinnovation",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BEGiN",
    "key": "begin",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Bellese Technologies",
    "key": "bellesetechnologies",
-   "status": "pending",
+   "status": "unsure",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "lever",
+   "slug": "bellese",
+   "boardName": "",
+   "jobCount": null,
+   "reason": "Company is named in 1 of 8 sampled postings",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Benefactor Group",
    "key": "benefactorgroup",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BeneLynk",
    "key": "benelynk",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Berkman Klein Center",
    "key": "berkmankleincenter",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BerlinRosen",
    "key": "berlinrosen",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "berlinrosen",
+   "boardName": "BerlinRosen",
+   "jobCount": 13,
+   "reason": "Board name matches exactly (\"BerlinRosen\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BetaNYC",
    "key": "betanyc",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Better Tech Ventures",
    "key": "bettertechventures",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Better World Ed",
    "key": "betterworlded",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BetterHelp",
    "key": "betterhelp",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "betterhelp",
+   "boardName": "BetterHelp",
+   "jobCount": 164,
+   "reason": "Board name matches exactly (\"BetterHelp\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BetterLesson",
    "key": "betterlesson",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Beyond Conflict",
    "key": "beyondconflict",
-   "status": "pending",
+   "status": "unsure",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "beyond",
+   "boardName": "Beyond",
+   "jobCount": 0,
+   "reason": "Board is named \"Beyond\", which is close but not identical",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Beyond Meat",
    "key": "beyondmeat",
-   "status": "pending",
+   "status": "unsure",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "beyond",
+   "boardName": "Beyond",
+   "jobCount": 0,
+   "reason": "Board is named \"Beyond\", which is close but not identical",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Bezos Academy",
@@ -1261,7 +1351,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "greenhouse",
    "slug": "day1academies",
    "decided": "override",
@@ -1270,47 +1360,70 @@
   {
    "name": "BfB Labs",
    "key": "bfblabs",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Big Health",
    "key": "bighealth",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "lever",
+   "slug": "bighealth",
+   "boardName": "",
+   "jobCount": null,
+   "reason": "Company is named in 2 of 2 sampled postings",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Big Shoulders Fund",
    "key": "bigshouldersfund",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Bigger Boat Consulting",
    "key": "biggerboatconsulting",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Binti",
    "key": "binti",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "ashby",
+   "slug": "binti",
+   "boardName": "",
+   "jobCount": 12,
+   "reason": "Company is named in 8 of 8 sampled postings",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BlackRock",
@@ -1321,135 +1434,196 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-22T17:32:09.774Z"
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BlocPower",
    "key": "blocpower",
-   "status": "pending",
-   "sources": [
-    "Tech Jobs for Good"
-   ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
-  },
-  {
-   "name": "Blue Raster",
-   "key": "blueraster",
-   "status": "pending",
-   "sources": [
-    "Tech Jobs for Good"
-   ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
-  },
-  {
-   "name": "Blue Rose Research",
-   "key": "blueroseresearch",
-   "status": "pending",
-   "sources": [
-    "Tech Jobs for Good"
-   ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
-  },
-  {
-   "name": "Blue State",
-   "key": "bluestate",
-   "status": "pending",
-   "sources": [
-    "Tech Jobs for Good"
-   ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
-  },
-  {
-   "name": "BlueLabs Analytics",
-   "key": "bluelabsanalytics",
-   "status": "pending",
-   "sources": [
-    "Tech Jobs for Good"
-   ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
-  },
-  {
-   "name": "BME Strategies",
-   "key": "bmestrategies",
    "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-26T23:23:03.151Z"
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
+  },
+  {
+   "name": "Blue Raster",
+   "key": "blueraster",
+   "status": "notfound",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Boards exist but did not look like this company: lever/blue",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
+  },
+  {
+   "name": "Blue Rose Research",
+   "key": "blueroseresearch",
+   "status": "matched",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "blueroseresearch",
+   "boardName": "Blue Rose Research",
+   "jobCount": 6,
+   "reason": "Board name matches exactly (\"Blue Rose Research\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
+  },
+  {
+   "name": "Blue State",
+   "key": "bluestate",
+   "status": "notfound",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Boards exist but did not look like this company: lever/blue",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
+  },
+  {
+   "name": "BlueLabs Analytics",
+   "key": "bluelabsanalytics",
+   "status": "unsure",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "bluelabsanalyticsinc",
+   "boardName": "BlueLabs, Inc.",
+   "jobCount": 8,
+   "reason": "Board is named \"BlueLabs, Inc.\", which is close but not identical",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
+  },
+  {
+   "name": "BME Strategies",
+   "key": "bmestrategies",
+   "status": "unsure",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Board is named \"BME Inc.\", which is close but not identical",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "method": "greenhouse",
+   "slug": "bme",
+   "boardName": "BME Inc.",
+   "jobCount": 0,
+   "resolver": 2
   },
   {
    "name": "Boldly",
    "key": "boldly",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "boldly",
+   "boardName": "Boldly",
+   "jobCount": 3,
+   "reason": "Board name matches exactly (\"Boldly\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BookNook",
    "key": "booknook",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Boston Afterschool & Beyond",
    "key": "bostonafterschoolandbeyond",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Boulder Care",
    "key": "bouldercare",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "bouldercare",
+   "boardName": "Boulder Care",
+   "jobCount": 18,
+   "reason": "Board name matches exactly (\"Boulder Care\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Boundless Immigration",
    "key": "boundlessimmigration",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Bowery Farming",
    "key": "boweryfarming",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BoxPower",
    "key": "boxpower",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Boys & Girls Club of Metro Atlanta",
    "key": "boysandgirlsclubofmetroatlanta",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Braven",
@@ -1460,7 +1634,8 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-26T23:23:03.151Z"
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Braze",
@@ -1480,92 +1655,130 @@
   {
    "name": "Brennan Center for Justice",
    "key": "brennancenterforjustice",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Boards exist but did not look like this company: greenhouse/brennan (\"Brennan Industries\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Bridge International Academies",
    "key": "bridgeinternationalacademies",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Brightest",
    "key": "brightest",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "BrightHive",
    "key": "brighthive",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Brightwheel",
    "key": "brightwheel",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "ashby",
+   "slug": "brightwheel",
+   "boardName": "",
+   "jobCount": 14,
+   "reason": "Company is named in 8 of 8 sampled postings",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Brightworks Sustainability",
    "key": "brightworkssustainability",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Brilliant",
    "key": "brilliant",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "lever",
+   "slug": "brilliant",
+   "boardName": "",
+   "jobCount": null,
+   "reason": "Company is named in 3 of 3 sampled postings",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Build Change",
    "key": "buildchange",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Boards exist but did not look like this company: ashby/build",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Bulletin of the Atomic Scientists",
    "key": "bulletinoftheatomicscientists",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Busara Center",
    "key": "busaracenter",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Butterfly Network",
@@ -1585,65 +1798,94 @@
   {
    "name": "Calico Life Sciences",
    "key": "calicolifesciences",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Califia Farms",
    "key": "califiafarms",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Cambia Health Solutions",
    "key": "cambiahealthsolutions",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Campfire Labs",
    "key": "campfirelabs",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Boards exist but did not look like this company: ashby/campfire",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "CancerIQ",
    "key": "canceriq",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Candid",
    "key": "candid",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "candid",
+   "boardName": "Candid",
+   "jobCount": 12,
+   "reason": "Board name matches exactly (\"Candid\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Canonical",
    "key": "canonical",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "greenhouse",
+   "slug": "canonical",
+   "boardName": "Canonical",
+   "jobCount": 314,
+   "reason": "Board name matches exactly (\"Canonical\")",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Capital Group",
@@ -1653,8 +1895,9 @@
     "The Muse"
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
-   "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-22T17:32:09.774Z"
+   "reason": "Boards exist but did not look like this company: lever/capital",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Capital One",
@@ -1664,161 +1907,221 @@
     "The Muse"
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
-   "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-22T17:32:09.774Z"
+   "reason": "Boards exist but did not look like this company: lever/capital",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Capsule Pharmacy",
    "key": "capsulepharmacy",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Boards exist but did not look like this company: ashby/capsule",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Captains of Innovation",
    "key": "captainsofinnovation",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Care",
    "key": "care",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Care Indeed",
    "key": "careindeed",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "CareAcademy",
    "key": "careacademy",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Career Copilots",
    "key": "careercopilots",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "Boards exist but did not look like this company: lever/career",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "CareJourney",
    "key": "carejourney",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Caremerge",
    "key": "caremerge",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "CareMessage",
    "key": "caremessage",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "ashby",
+   "slug": "caremessage",
+   "boardName": "",
+   "jobCount": 5,
+   "reason": "Company is named in 5 of 5 sampled postings",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Carina",
    "key": "carina",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Carlos Rosario International Public Charter School",
    "key": "carlosrosariointernationalpubliccharterschool",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Cascadia Carbon",
    "key": "cascadiacarbon",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Casey Family Programs",
    "key": "caseyfamilyprograms",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Casey Trees",
    "key": "caseytrees",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Castlight Health",
    "key": "castlighthealth",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Catalist",
    "key": "catalist",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Catchafire",
    "key": "catchafire",
-   "status": "pending",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-10-26T23:23:03.151Z"
+   "firstFound": "2026-10-26T23:23:03.151Z",
+   "method": "ashby",
+   "slug": "catchafire",
+   "boardName": "",
+   "jobCount": 2,
+   "reason": "Company is named in 2 of 2 sampled postings",
+   "lastTried": "2026-10-27T00:54:41.603Z",
+   "resolver": 2
   },
   {
    "name": "Catholic Relief Services",
@@ -3726,7 +4029,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "lever",
    "slug": "exygy",
    "decided": "override",
@@ -4475,7 +4778,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "greenhouse",
    "slug": "glossgenius",
    "decided": "override",
@@ -6973,7 +7276,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "greenhouse",
    "slug": "oscar",
    "decided": "override",
@@ -8305,7 +8608,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "greenhouse",
    "slug": "sohohouseco",
    "decided": "override",
@@ -8429,7 +8732,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "greenhouse",
    "slug": "springhealth66",
    "decided": "override",
@@ -8625,7 +8928,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "lever",
    "slug": "goswift",
    "decided": "override",
@@ -9401,7 +9704,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-10-27T00:54:41.603Z",
    "method": "lever",
    "slug": "thetrevorproject",
    "decided": "override",
