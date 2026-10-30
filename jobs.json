@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T21:50:44.991Z",
+ "generatedAt": "2026-10-30T21:53:11.126Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 8
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 5
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 3
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 6
   },
@@ -98,7 +98,7 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 56
   },
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "link",
    "count": 0
   },
@@ -188,7 +188,7 @@
    "url": "https://www.sustainablebusiness.com/greendreamjobs/jobs/",
    "color": "#2E7D5B",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 4
   },
@@ -202,7 +202,7 @@
    "color": "#2d3d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -216,7 +216,7 @@
    "color": "#64762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -230,7 +230,7 @@
    "color": "#762d32",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -244,7 +244,7 @@
    "color": "#76312d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 2
   },
@@ -258,7 +258,7 @@
    "color": "#2d3876",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -272,7 +272,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -286,7 +286,7 @@
    "color": "#352d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 5
   },
@@ -300,7 +300,7 @@
    "color": "#2d3576",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 3
   },
@@ -314,7 +314,7 @@
    "color": "#2d7650",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 3
   },
@@ -328,7 +328,7 @@
    "color": "#762d2e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -342,7 +342,7 @@
    "color": "#762d6e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -356,7 +356,7 @@
    "color": "#5d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 2
   },
@@ -370,7 +370,7 @@
    "color": "#76332d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 4
   },
@@ -384,7 +384,7 @@
    "color": "#2d7669",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -398,7 +398,7 @@
    "color": "#76382d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -412,7 +412,7 @@
    "color": "#2d3276",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -426,7 +426,7 @@
    "color": "#762d59",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -440,7 +440,7 @@
    "color": "#766d2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 4
   },
@@ -454,7 +454,7 @@
    "color": "#3e762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -468,7 +468,7 @@
    "color": "#2d763e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -482,7 +482,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 24
   },
@@ -496,7 +496,7 @@
    "color": "#35762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 4
   },
@@ -510,7 +510,7 @@
    "color": "#2d7649",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -524,7 +524,7 @@
    "color": "#3d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 3
   },
@@ -538,7 +538,7 @@
    "color": "#69762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -552,7 +552,7 @@
    "color": "#763c2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -566,7 +566,7 @@
    "color": "#60762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -580,7 +580,7 @@
    "color": "#2d5976",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -594,7 +594,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 8
   },
@@ -608,7 +608,7 @@
    "color": "#2d7645",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 2
   },
@@ -622,7 +622,7 @@
    "color": "#5b2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 7
   },
@@ -636,7 +636,7 @@
    "color": "#2d764d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -650,7 +650,7 @@
    "color": "#2d7658",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -664,7 +664,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -678,7 +678,7 @@
    "color": "#2d7671",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -692,7 +692,7 @@
    "color": "#762d44",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 3
   },
@@ -706,7 +706,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 3
   },
@@ -720,7 +720,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 63
   },
@@ -734,7 +734,7 @@
    "color": "#2d764b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "error",
    "error": "HTTP 404 from boards-api.greenhouse.io",
    "count": 0
@@ -749,7 +749,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -763,7 +763,7 @@
    "color": "#55762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 33
   },
@@ -777,7 +777,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 25
   },
@@ -791,7 +791,7 @@
    "color": "#2d763a",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -805,7 +805,7 @@
    "color": "#76642d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -819,7 +819,7 @@
    "color": "#762d4e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -833,7 +833,7 @@
    "color": "#5d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 15
   },
@@ -847,7 +847,7 @@
    "color": "#372d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 38
   },
@@ -861,7 +861,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 9
   },
@@ -875,7 +875,7 @@
    "color": "#6d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 54
   },
@@ -889,7 +889,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 4
   },
@@ -903,7 +903,7 @@
    "color": "#76762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 93
   },
@@ -917,7 +917,7 @@
    "color": "#76482d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 2
   },
@@ -931,7 +931,7 @@
    "color": "#58762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 23
   },
@@ -945,7 +945,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 2
   },
@@ -959,7 +959,7 @@
    "color": "#2d7642",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "error",
    "error": "HTTP 404 from boards-api.greenhouse.io",
    "count": 0
@@ -974,7 +974,7 @@
    "color": "#76312d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -988,7 +988,7 @@
    "color": "#2d6876",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -1002,7 +1002,7 @@
    "color": "#2d4a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -1016,7 +1016,7 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 18
   },
@@ -1030,7 +1030,7 @@
    "color": "#762d4b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 4
   },
@@ -1044,7 +1044,7 @@
    "color": "#2d5f76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 0
   },
@@ -1058,7 +1058,7 @@
    "color": "#765b2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 10
   },
@@ -1072,7 +1072,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 16
   },
@@ -1086,7 +1086,7 @@
    "color": "#2d7663",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 1
   },
@@ -1100,7 +1100,7 @@
    "color": "#602d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-10-30T21:50:44.991Z",
+   "lastChecked": "2026-10-30T21:53:11.126Z",
    "status": "live",
    "count": 11
   }
@@ -1663,12 +1663,12 @@
    "postedAt": "2026-10-30T14:20:55-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.508Z",
    "match": {
     "score": 1,
     "why": "Entry-level 10-week undergraduate sales-ops internship focused on decks and Salesforce admin, far below her 4+ years of data and BI work; her Excel and Office skills are the only overlap.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.508Z"
   },
   {
    "id": "nyt-4748489005",
@@ -1680,12 +1680,12 @@
    "postedAt": "2026-10-30T14:21:01-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.521Z",
    "match": {
     "score": 2,
     "why": "Strong reporting and dashboard experience (Power BI, SQL, campaign-style metrics) overlaps, but the role is an entry-level ad ops internship with no ad-serving platform experience and a degree requirement she doesn't match.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.521Z"
   },
   {
    "id": "nyt-4739489005",
@@ -1740,12 +1740,12 @@
    "salaryMin": 148000,
    "salaryMax": 170000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:47.518Z",
    "match": {
     "score": 1,
     "why": "This is a creative design role needing 10+ years of design experience and Adobe design tools; the candidate's background is data analytics and engineering, with no design experience listed.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.518Z"
   },
   {
    "id": "nyt-4748501005",
@@ -1757,12 +1757,12 @@
    "postedAt": "2026-10-30T14:21:52-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.583Z",
    "match": {
     "score": 1,
     "why": "This is an editorial newsletter and social media internship requiring journalism and email-marketing experience; the candidate's data analytics and engineering background has no overlap with the role's core work.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.583Z"
   },
   {
    "id": "nyt-4748483005",
@@ -1774,12 +1774,12 @@
    "postedAt": "2026-10-30T15:02:07-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.569Z",
    "match": {
     "score": 2,
     "why": "Her Python, REST API and report automation work is a partial match, but the posting requires CI/CD and web performance experience she doesn't have, and it's a developer-platform role outside her data focus.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.569Z"
   },
   {
    "id": "nyt-4748173005",
@@ -1808,12 +1808,12 @@
    "postedAt": "2026-10-30T14:22:07-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.581Z",
    "match": {
     "score": 1,
     "why": "This is a communications/PR internship for undergraduates, a different field from the candidate's data analyst and BI background. Her only overlap is some reporting and documentation work, and she has no media relations experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.581Z"
   },
   {
    "id": "nyt-4748297005",
@@ -1825,12 +1825,12 @@
    "postedAt": "2026-10-30T14:22:42-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.605Z",
    "match": {
     "score": 2,
     "why": "Her documentation, training, and Excel skills loosely match the coordination work, but the role is creative and ad-sales operations, not data analysis, and it lacks the analyst focus she is targeting.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.605Z"
   },
   {
    "id": "nyt-4743634005",
@@ -1939,12 +1939,12 @@
    "postedAt": "2026-10-30T14:59:00-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.607Z",
    "match": {
     "score": 1,
     "why": "This is a graphic design internship requiring Figma, Photoshop, Illustrator and an illustration portfolio, which the candidate's data analytics and engineering background does not cover at all.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.607Z"
   },
   {
    "id": "nyt-4748499005",
@@ -1956,12 +1956,12 @@
    "postedAt": "2026-10-30T14:22:53-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.631Z",
    "match": {
     "score": 1,
     "why": "A 10-week editorial operations internship for students, far outside her data, BI, and engineering background; the only overlap is general project coordination.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.631Z"
   },
   {
    "id": "nyt-4746663005",
@@ -2187,12 +2187,12 @@
    "postedAt": "2026-10-30T14:22:59-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.692Z",
    "match": {
     "score": 1,
     "why": "A Wirecutter kitchen-products testing internship in journalism is a different field from the candidate's data, BI and engineering background; her only overlap is a basic journalism-adjacent line, and the role is an entry-level, non-technica",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.692Z"
   },
   {
    "id": "nyt-4746659005",
@@ -2261,12 +2261,12 @@
    "postedAt": "2026-10-30T15:04:27-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.663Z",
    "match": {
     "score": 1,
     "why": "A marketing internship at a publication, far outside the candidate's data analytics and engineering field; her only overlap is light reporting and writing, and she has no marketing experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.663Z"
   },
   {
    "id": "nyt-4742441005",
@@ -2298,12 +2298,12 @@
    "postedAt": "2026-10-30T14:15:11-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.681Z",
    "match": {
     "score": 1,
     "why": "This is a product design internship requiring a design portfolio and visual or interaction design skills, which the profile doesn't mention; the candidate's data and reporting background doesn't match the role.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.681Z"
   },
   {
    "id": "nyt-4748461005",
@@ -2315,12 +2315,12 @@
    "postedAt": "2026-10-30T15:04:42-04:00",
    "firstSeen": "2026-10-30T21:50:44.991Z",
    "active": true,
-   "salaryCheckedAt": "2026-10-30T21:50:47.658Z",
    "match": {
     "score": 2,
     "why": "Strong analytical and stakeholder-training background matches the basic qualifications, but the role is a product management internship, and the candidate has no product management work and is targeting data and BI roles.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.658Z"
   },
   {
    "id": "nyt-4739857005",
@@ -2706,12 +2706,12 @@
    "salaryMin": 160000,
    "salaryMax": 180000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:47.670Z",
    "match": {
     "score": 1,
     "why": "This is a newsroom visual-editing role requiring 7+ years of journalism editing and Photoshop/Premiere, far from the candidate's data, BI and Oracle engineering background with no visual journalism experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:47.670Z"
   },
   {
    "id": "nyt-4743599005",
@@ -4143,12 +4143,12 @@
    "salaryMin": 177000,
    "salaryMax": 200000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:50.032Z",
    "match": {
     "score": 2,
     "why": "Strong SQL/PL/SQL and data integration overlap, but the role requires 8+ years in senior architecture or consulting roles, well beyond her roughly 5 years and analyst/engineer background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:50.032Z"
   },
   {
    "id": "pool-greenhouse-celonis-8008440003",
@@ -4572,12 +4572,12 @@
    "salaryMin": 105600,
    "salaryMax": 172000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:50.401Z",
    "match": {
     "score": 2,
     "why": "Her Python and PowerShell automation and IT operations support at Oracle Health match the scripting and support asks, but the role centers on Jamf, Intune, Okta and SaaS admin, none of which her profile shows, and it is a senior role.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:50.401Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8771512002",
@@ -4632,12 +4632,12 @@
    "salaryMin": 168000,
    "salaryMax": 285600,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:50.473Z",
    "match": {
     "score": 2,
     "why": "Her documented training delivery and cross-team work overlap, but the role needs sales enablement and software sales experience, plus required public sector GTM experience, which she lacks.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:50.473Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8877426002",
@@ -4669,12 +4669,12 @@
    "salaryMin": 86400,
    "salaryMax": 176400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:50.513Z",
    "match": {
     "score": 2,
     "why": "Strong SQL and Snowflake-adjacent BI work, but the role centers on ML productionization, causal inference and experimentation, and GTM metrics, which the profile does not show; pandas is only basic.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:50.513Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8883003002",
@@ -5288,12 +5288,12 @@
    "salaryMin": 152800,
    "salaryMax": 259200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:50.522Z",
    "match": {
     "score": 2,
     "why": "Strong SQL and Power BI/Oracle reporting background, but the role requires 10+ years, 3+ years of people management, and deep quasi-experimental statistics the candidate doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:50.522Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8863314002",
@@ -7207,12 +7207,12 @@
    "salaryMin": 163000,
    "salaryMax": 237500,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-10-30T21:50:50.888Z",
    "match": {
     "score": 1,
     "why": "This is a legal role requiring a J.D., bar membership, and ad-tech contract negotiation experience, which the candidate's data analytics and engineering background does not include.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:50.888Z"
   },
   {
    "id": "pool-greenhouse-life360-8893035002",
@@ -11075,12 +11075,12 @@
    "salaryMin": 95200,
    "salaryMax": 128000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:51.676Z",
    "match": {
     "score": 1,
     "why": "This is an internal communications role requiring 5+ years of comms experience and storytelling, which is a different field from the candidate's data analytics and engineering background; the candidate has no comms track record.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:51.676Z"
   },
   {
    "id": "pool-greenhouse-samsara-8264748",
@@ -11312,12 +11312,12 @@
    "salaryMin": 100406,
    "salaryMax": 153409,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-10-30T21:50:51.624Z",
    "match": {
     "score": 2,
     "why": "Her strength is client-facing conversion work and end-user training, but the role requires 6+ years in senior customer success or account management, which she lacks, and it is not a data role. It also excludes NYC Metro, where she is reloc",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-10-30T21:50:51.624Z"
   },
   {
    "id": "pool-greenhouse-samsara-8281716",
