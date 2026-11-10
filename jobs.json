@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T23:11:50.512Z",
+ "generatedAt": "2026-11-10T19:48:08.496Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 12
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -33,7 +33,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 6
   },
@@ -46,7 +46,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -59,7 +59,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "link",
    "count": 0
   },
@@ -72,7 +72,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -85,7 +85,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 8
   },
@@ -98,9 +98,9 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 68
+   "count": 69
   },
   {
    "id": "liquiddeath",
@@ -111,7 +111,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -124,7 +124,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "link",
    "count": 0
   },
@@ -137,7 +137,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "link",
    "count": 0
   },
@@ -150,7 +150,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "link",
    "count": 0
   },
@@ -163,7 +163,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "link",
    "count": 0
   },
@@ -176,7 +176,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "link",
    "count": 0
   },
@@ -188,7 +188,7 @@
    "url": "https://www.sustainablebusiness.com/greendreamjobs/jobs/",
    "color": "#2E7D5B",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -202,7 +202,7 @@
    "color": "#2d3d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -216,7 +216,7 @@
    "color": "#64762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -230,7 +230,7 @@
    "color": "#762d32",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -244,7 +244,7 @@
    "color": "#76312d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -258,7 +258,7 @@
    "color": "#2d3876",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -272,7 +272,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -286,7 +286,7 @@
    "color": "#352d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 4
   },
@@ -300,7 +300,7 @@
    "color": "#2d3576",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -314,7 +314,7 @@
    "color": "#2d7650",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -328,7 +328,7 @@
    "color": "#762d2e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -342,7 +342,7 @@
    "color": "#762d6e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -356,7 +356,7 @@
    "color": "#5d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 3
   },
@@ -370,9 +370,9 @@
    "color": "#76332d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 3
+   "count": 4
   },
   {
    "id": "pool-greenhouse-betterhelp",
@@ -384,7 +384,7 @@
    "color": "#2d7669",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -398,7 +398,7 @@
    "color": "#76382d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -412,7 +412,7 @@
    "color": "#2d3276",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -426,9 +426,9 @@
    "color": "#762d59",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 1
+   "count": 2
   },
   {
    "id": "pool-greenhouse-blinkhealth",
@@ -440,7 +440,7 @@
    "color": "#762d54",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 7
   },
@@ -454,9 +454,9 @@
    "color": "#432d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 5
+   "count": 6
   },
   {
    "id": "pool-greenhouse-blueroseresearch",
@@ -468,7 +468,7 @@
    "color": "#766d2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 5
   },
@@ -482,7 +482,7 @@
    "color": "#3e762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -496,7 +496,7 @@
    "color": "#2d763e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -510,7 +510,7 @@
    "color": "#762d5b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -524,9 +524,9 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 25
+   "count": 27
   },
   {
    "id": "pool-ashby-brightwheel",
@@ -538,7 +538,7 @@
    "color": "#35762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 3
   },
@@ -552,7 +552,7 @@
    "color": "#2d7649",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -566,7 +566,7 @@
    "color": "#3d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 4
   },
@@ -580,7 +580,7 @@
    "color": "#69762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -594,7 +594,7 @@
    "color": "#763c2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -608,7 +608,7 @@
    "color": "#60762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -622,7 +622,7 @@
    "color": "#2d5976",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -636,9 +636,9 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 10
+   "count": 12
   },
   {
    "id": "pool-greenhouse-chanzuckerberginitiative",
@@ -650,7 +650,7 @@
    "color": "#762d60",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -664,7 +664,7 @@
    "color": "#2d7659",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -678,7 +678,7 @@
    "color": "#2d7645",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 6
   },
@@ -692,7 +692,7 @@
    "color": "#2d7649",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -706,7 +706,7 @@
    "color": "#5b2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 6
   },
@@ -720,7 +720,7 @@
    "color": "#76712d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -734,7 +734,7 @@
    "color": "#442d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -748,7 +748,7 @@
    "color": "#763c2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -762,7 +762,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "error",
    "error": "HTTP 404 from api.ashbyhq.com",
    "count": 0
@@ -777,7 +777,7 @@
    "color": "#402d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 3
   },
@@ -791,7 +791,7 @@
    "color": "#2d7638",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -805,7 +805,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -819,7 +819,7 @@
    "color": "#762d3e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 3
   },
@@ -833,7 +833,7 @@
    "color": "#2d764d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -847,7 +847,7 @@
    "color": "#2d7673",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -861,7 +861,7 @@
    "color": "#372d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -875,7 +875,7 @@
    "color": "#762d6b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -889,7 +889,7 @@
    "color": "#2d7642",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -903,7 +903,7 @@
    "color": "#762d62",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -917,7 +917,7 @@
    "color": "#3e762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -931,7 +931,7 @@
    "color": "#2d4576",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -945,7 +945,7 @@
    "color": "#2d7658",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -959,7 +959,7 @@
    "color": "#342d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 3
   },
@@ -973,7 +973,7 @@
    "color": "#35762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -987,7 +987,7 @@
    "color": "#762d6b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -1001,7 +1001,7 @@
    "color": "#2d7644",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1015,7 +1015,7 @@
    "color": "#762d59",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -1029,7 +1029,7 @@
    "color": "#3a2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1043,7 +1043,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1057,7 +1057,7 @@
    "color": "#2d7671",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1071,7 +1071,7 @@
    "color": "#762d44",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 4
   },
@@ -1085,7 +1085,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -1099,9 +1099,9 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 60
+   "count": 58
   },
   {
    "id": "pool-greenhouse-glossgenius",
@@ -1113,7 +1113,7 @@
    "color": "#2d764b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "error",
    "error": "HTTP 404 from boards-api.greenhouse.io",
    "count": 0
@@ -1128,7 +1128,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1142,7 +1142,7 @@
    "color": "#55762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 32
   },
@@ -1156,9 +1156,9 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 21
+   "count": 22
   },
   {
    "id": "pool-greenhouse-ixllearning",
@@ -1170,7 +1170,7 @@
    "color": "#2d763a",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -1184,7 +1184,7 @@
    "color": "#76642d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -1198,7 +1198,7 @@
    "color": "#762d4e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1212,9 +1212,9 @@
    "color": "#5d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 17
+   "count": 18
   },
   {
    "id": "pool-lever-lyrahealth",
@@ -1226,7 +1226,7 @@
    "color": "#372d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 42
   },
@@ -1240,7 +1240,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 8
   },
@@ -1254,9 +1254,9 @@
    "color": "#6d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 47
+   "count": 46
   },
   {
    "id": "pool-greenhouse-renttherunway",
@@ -1268,7 +1268,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 5
   },
@@ -1282,9 +1282,9 @@
    "color": "#76762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 94
+   "count": 95
   },
   {
    "id": "pool-ashby-schoolhouse-world",
@@ -1296,7 +1296,7 @@
    "color": "#76482d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -1310,9 +1310,9 @@
    "color": "#58762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 16
+   "count": 17
   },
   {
    "id": "pool-lever-sonatype",
@@ -1324,7 +1324,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 2
   },
@@ -1338,7 +1338,7 @@
    "color": "#2d7642",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "error",
    "error": "HTTP 404 from boards-api.greenhouse.io",
    "count": 0
@@ -1353,7 +1353,7 @@
    "color": "#76312d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1367,7 +1367,7 @@
    "color": "#2d6876",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1381,7 +1381,7 @@
    "color": "#2d4a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1395,9 +1395,9 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 11
+   "count": 13
   },
   {
    "id": "pool-lever-thetrevorproject",
@@ -1409,7 +1409,7 @@
    "color": "#762d4b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 1
   },
@@ -1423,7 +1423,7 @@
    "color": "#2d5f76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 0
   },
@@ -1437,7 +1437,7 @@
    "color": "#765b2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
    "count": 8
   },
@@ -1451,9 +1451,9 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 14
+   "count": 15
   },
   {
    "id": "pool-greenhouse-wildalaskancompany",
@@ -1465,9 +1465,9 @@
    "color": "#2d7663",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 1
+   "count": 0
   },
   {
    "id": "pool-greenhouse-zocdoc",
@@ -1479,9 +1479,9 @@
    "color": "#602d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-09T23:11:50.512Z",
+   "lastChecked": "2026-11-10T19:48:08.496Z",
    "status": "live",
-   "count": 14
+   "count": 15
   }
  ],
  "jobs": [
@@ -2220,7 +2220,7 @@
     "why": "Strong match on SQL, Power BI dashboards, and reporting automation; the biggest gaps are no advertising or publishing background and an intern role requiring a degree in progress, which she does not have.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.718Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.571Z"
   },
   {
    "id": "nyt-4748487005",
@@ -2288,7 +2288,7 @@
     "why": "Strong Power BI, SQL, and reporting experience matches the analytics side, but the role requires an undergraduate student in marketing or market research, and the candidate is not enrolled. The internship's audience-research focus is also o",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.699Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.593Z"
   },
   {
    "id": "nyt-4748489005",
@@ -2374,12 +2374,12 @@
    "postedAt": "2026-11-09T17:33:54-05:00",
    "firstSeen": "2026-11-09T23:11:50.512Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:11:52.287Z",
    "match": {
     "score": 2,
     "why": "Strength: Power BI dashboards and data visualization. Biggest gaps: the required graduate degree, and no stated experience moderating interviews or designing surveys for research.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:11:52.287Z"
   },
   {
    "id": "nyt-4748501005",
@@ -2493,12 +2493,12 @@
    "postedAt": "2026-11-09T17:26:15-05:00",
    "firstSeen": "2026-11-09T23:11:50.512Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:11:52.320Z",
    "match": {
     "score": 4,
     "why": "Strong match on SQL, Power BI dashboards, and stakeholder work, and it fits the career-changer clause. Biggest gaps: no media or web analytics experience, and it's an intern role well below her level.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:11:52.320Z"
   },
   {
    "id": "nyt-4743634005",
@@ -2595,7 +2595,7 @@
     "why": "This is a video post-production leadership role requiring 10+ years of broadcast post experience and 5+ years of management; the candidate's data and BI background and lack of video or people-management experience make it a different field ",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.704Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.623Z"
   },
   {
    "id": "nyt-4747088005",
@@ -2706,7 +2706,7 @@
     "why": "Strong SQL, data migration, and internal platform/API experience match well, but the posting requires 1+ years of formal people management, which the profile does not show, and Python is only at working level.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.695Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.582Z"
   },
   {
    "id": "nyt-4743754005",
@@ -2797,7 +2797,7 @@
     "why": "Strength: Python and clear technical documentation overlap. Biggest gap: the role is 3D/WebXR graphics work requiring Unity or Unreal, Blender/Maya/Cinema 4D, and a 3D portfolio, none of which the profile shows.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.780Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.677Z"
   },
   {
    "id": "nyt-4750555005",
@@ -2817,7 +2817,7 @@
     "why": "This is a journalism reporter role requiring 5+ years as a reporter and design-industry sources; the candidate's background is data analytics and engineering, with no reporting experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.806Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.682Z"
   },
   {
    "id": "nyt-4751790005",
@@ -2914,12 +2914,12 @@
    "postedAt": "2026-11-09T17:26:36-05:00",
    "firstSeen": "2026-11-09T23:11:50.512Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:11:52.313Z",
    "match": {
     "score": 2,
     "why": "Her Python and data-pipeline work is a partial match, but the role centers on machine learning with scikit-learn and statistical modeling, which her profile doesn't show. Basic pandas is the biggest gap.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:11:52.313Z"
   },
   {
    "id": "nyt-4748241005",
@@ -3184,7 +3184,7 @@
     "why": "This is a product design role requiring Figma, Rive, UX and visual design craft, and design portfolios; the candidate is a data analyst and engineer with no design background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.809Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.703Z"
   },
   {
    "id": "nyt-4747809005",
@@ -3204,7 +3204,7 @@
     "why": "This is a product marketing role requiring 6+ years of PMM and B2C subscription GTM experience, which the candidate's data and IT engineering background does not cover; the only overlap is analytics.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.801Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.696Z"
   },
   {
    "id": "nyt-4746500005",
@@ -3347,6 +3347,26 @@
    "salaryCheckedAt": "2026-11-05T20:00:40.715Z"
   },
   {
+   "id": "nyt-4752639005",
+   "sourceId": "nyt",
+   "title": "Staff Photo Editor",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752639005",
+   "postedAt": "2026-11-10T10:01:04-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 113946,
+   "salaryMax": 115000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-11-10T19:48:10.744Z",
+   "match": {
+    "score": 1,
+    "why": "This is a newsroom photo editing role requiring 5+ years of photo assigning and photojournalism experience, a field the candidate's data, BI, and Oracle background does not touch.",
+    "p": "2f29e710"
+   }
+  },
+  {
    "id": "nyt-4744509005",
    "sourceId": "nyt",
    "title": "Staff Photo Editor, Business",
@@ -3401,7 +3421,7 @@
     "why": "Strong SQL, data pipeline, and cross-team delivery match, but the role requires 3+ years of technical product management, which the profile doesn't show, and multimedia ingestion is also absent.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.827Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.799Z"
   },
   {
    "id": "nyt-4747130005",
@@ -3441,7 +3461,7 @@
     "why": "Strength: Power BI dashboards and reporting work. Biggest gap: the role wants 15+ years of audience and market research and 7+ years managing teams, while she has about 5 years in data and IT roles.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:14.848Z"
+   "salaryCheckedAt": "2026-11-10T19:48:10.791Z"
   },
   {
    "id": "nyt-4749436005",
@@ -3702,7 +3722,7 @@
     "why": "Strong Oracle SQL, data validation, and AI-tool experience match the role, but the biggest gaps are Python at only working level, unlisted Databricks/Looker, and no grocery domain for a senior-principal scope.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:20.016Z"
+   "salaryCheckedAt": "2026-11-10T19:48:12.317Z"
   },
   {
    "id": "pool-ashby-ambrook-b6045045-66a7-4ffa-b80b-421179ea0e0d",
@@ -4007,7 +4027,7 @@
     "why": "This is a PR and media relations account supervisor role, a different field from her data, BI, and engineering background, with no matching skills in pitching or client communications.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.054Z"
+   "salaryCheckedAt": "2026-11-10T19:48:18.589Z"
   },
   {
    "id": "pool-greenhouse-berlinrosen-8929118002",
@@ -4047,6 +4067,26 @@
    "salaryCheckedAt": "2026-11-06T21:50:09.138Z"
   },
   {
+   "id": "pool-greenhouse-berlinrosen-8936211002",
+   "sourceId": "pool-greenhouse-berlinrosen",
+   "title": "Vice President, Sports Business",
+   "location": "New York, N.Y. or Washington, D.C.",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/berlinrosen/jobs/8936211002",
+   "postedAt": "2026-11-10T09:50:55-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 135000,
+   "salaryMax": 150000,
+   "salarySource": "description",
+   "salaryCheckedAt": "2026-11-10T19:48:18.561Z",
+   "match": {
+    "score": 1,
+    "why": "This is a sports communications and media relations role needing 7+ years of PR experience, while the candidate's background is in data analysis and engineering. The only overlap is general reporting work, which doesn't meet the core requir",
+    "p": "2f29e710"
+   }
+  },
+  {
    "id": "pool-lever-bighealth-75f1ae1e-fc94-4ca3-bd6c-accdbc352c24",
    "sourceId": "pool-lever-bighealth",
    "title": "Provider Growth Manager",
@@ -4062,6 +4102,25 @@
    "match": {
     "score": 1,
     "why": "Candidate has healthcare and client-facing experience, but the role needs 4+ years of B2B sales to medical practices, which she lacks. It is a different field from her data work.",
+    "p": "2f29e710"
+   }
+  },
+  {
+   "id": "pool-ashby-binti-eb2da64b-c9bf-4ebc-82d3-0b91f2f9db8e",
+   "sourceId": "pool-ashby-binti",
+   "title": "Region Manager",
+   "location": "Binti HQ - San Francisco, CA; Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/binti/eb2da64b-c9bf-4ebc-82d3-0b91f2f9db8e",
+   "postedAt": "2026-11-10T16:05:25.507+00:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 155000,
+   "salaryMax": 185000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a customer-facing account management and strategy role for government partners, not a data or analytics position; the candidate's data and engineering background matches little of what it asks for, and the required 3+ years of accou",
     "p": "2f29e710"
    }
   },
@@ -4094,12 +4153,12 @@
    "postedAt": "2026-10-22T14:20:53-04:00",
    "firstSeen": "2026-10-22T14:20:53-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.625Z",
    "match": {
     "score": 2,
     "why": "Strong SQL, Power BI, and healthcare operations background, but the role asks for 10+ years and 4+ years leading teams, and the profile shows neither people leadership nor workforce planning.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.625Z"
   },
   {
    "id": "pool-greenhouse-blinkhealth-8891450002",
@@ -4111,12 +4170,12 @@
    "postedAt": "2026-10-27T09:58:00-04:00",
    "firstSeen": "2026-10-27T09:58:00-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.634Z",
    "match": {
     "score": 1,
     "why": "This is a network engineering role requiring 10+ years of enterprise routing, BGP/OSPF, firewall and VPN expertise; the candidate is a data analyst with no networking background, a far-off field and experience level.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.634Z"
   },
   {
    "id": "pool-greenhouse-blinkhealth-8909069002",
@@ -4128,12 +4187,12 @@
    "postedAt": "2026-10-23T15:52:38-04:00",
    "firstSeen": "2026-10-23T15:52:38-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.639Z",
    "match": {
     "score": 1,
     "why": "This is an executive assistant role in a non-technical admin field; the candidate's data and engineering background has no overlap, and the posting asks for 6+ years of executive support experience she lacks.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.639Z"
   },
   {
    "id": "pool-greenhouse-blinkhealth-8903203002",
@@ -4145,12 +4204,12 @@
    "postedAt": "2026-10-26T19:30:12-04:00",
    "firstSeen": "2026-10-26T19:30:12-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.637Z",
    "match": {
     "score": 2,
     "why": "Strong overlap in healthcare tech, Power BI, and SQL, but the role is product management, which she has never done. It also requires 6+ years as a PM and a BE/B.Tech, which she lacks.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.637Z"
   },
   {
    "id": "pool-greenhouse-blinkhealth-8919770002",
@@ -4162,12 +4221,12 @@
    "postedAt": "2026-10-27T13:40:52-04:00",
    "firstSeen": "2026-10-27T13:40:52-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.654Z",
    "match": {
     "score": 1,
     "why": "This is a sourcing recruiting role, a different field from the candidate's data, BI, and engineering background; she has no recruiting or sourcing experience and no pharmacy hiring background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.654Z"
   },
   {
    "id": "pool-greenhouse-blinkhealth-8884079002",
@@ -4179,12 +4238,12 @@
    "postedAt": "2026-10-12T16:31:07-04:00",
    "firstSeen": "2026-10-12T16:31:07-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.666Z",
    "match": {
     "score": 2,
     "why": "Strong match on healthcare tech, SQL, Power BI, and AI tooling, but the role wants 10+ years and senior management of operations, while the candidate has about 4-5 years and no stated leadership or Lean/Six Sigma background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.666Z"
   },
   {
    "id": "pool-greenhouse-blinkhealth-8906239002",
@@ -4196,12 +4255,12 @@
    "postedAt": "2026-10-22T11:12:07-04:00",
    "firstSeen": "2026-10-22T11:12:07-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.694Z",
    "match": {
     "score": 1,
     "why": "This is a licensed clinical pharmacist role requiring a PharmD and pharmacy licensure, which the data-analyst candidate lacks entirely; her data and BI work does not overlap with the job's core duties.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.694Z"
   },
   {
    "id": "pool-greenhouse-bloomerang-4743408005",
@@ -4213,12 +4272,12 @@
    "postedAt": "2026-10-14T14:24:59-04:00",
    "firstSeen": "2026-10-14T14:24:59-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.753Z",
    "match": {
     "score": 1,
     "why": "This is a quota-carrying SaaS account management and sales role, a different field from the candidate's data analyst and engineering background, with no required analytics or engineering skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.753Z"
   },
   {
    "id": "pool-greenhouse-bloomerang-4747072005",
@@ -4230,12 +4289,12 @@
    "postedAt": "2026-10-23T13:21:03-04:00",
    "firstSeen": "2026-10-23T13:21:03-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.748Z",
    "match": {
     "score": 1,
     "why": "Outbound sales development is a different field from her data and analytics work; she has no sales experience, and the role centers on cold prospecting, not data skills.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.748Z"
   },
   {
    "id": "pool-greenhouse-bloomerang-4745437005",
@@ -4247,12 +4306,12 @@
    "postedAt": "2026-10-22T11:14:54-04:00",
    "firstSeen": "2026-10-22T11:14:54-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.759Z",
    "match": {
     "score": 1,
     "why": "Her stakeholder communication and family-services degree are only loose matches; the role is cold outbound sales with no sales experience, which is a different field from her data work.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.759Z"
   },
   {
    "id": "pool-greenhouse-bloomerang-4749457005",
@@ -4267,10 +4326,30 @@
    "salaryMin": 100700,
    "salaryMax": 167800,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-09T23:12:00.749Z",
    "match": {
     "score": 3,
     "why": "Strong match on Python, REST/OAuth work, and an AI knowledge-ingestion pipeline with versioning, but the profile shows no web app, TypeScript, webhook, or content-modeling experience for this software engineering role.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.749Z"
+  },
+  {
+   "id": "pool-greenhouse-bloomerang-4753077005",
+   "sourceId": "pool-greenhouse-bloomerang",
+   "title": "Sr. Software Engineer (PHP + React/Typescript)",
+   "location": "Remote, US",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/bloomerang/jobs/4753077005",
+   "postedAt": "2026-11-10T10:18:43-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 114800,
+   "salaryMax": 191400,
+   "salarySource": "description",
+   "salaryCheckedAt": "2026-11-10T19:48:19.335Z",
+   "match": {
+    "score": 2,
+    "why": "Strong Oracle SQL, REST API, and AI-tool experience matches parts of the role, but it requires required PHP and deep React/TypeScript, which the profile doesn't show, and the frontend-heavy work is far from the candidate's data focus.",
     "p": "2f29e710"
    }
   },
@@ -4287,12 +4366,12 @@
    "salaryMin": 175500,
    "salaryMax": 292500,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-09T23:12:00.752Z",
    "match": {
     "score": 1,
     "why": "This is a senior marketing leadership role (VP Revenue Marketing) requiring a demand-generation and team-leadership track record the candidate lacks; her data and BI skills match little of it.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.752Z"
   },
   {
    "id": "pool-greenhouse-blueroseresearch-6238105004",
@@ -4419,12 +4498,12 @@
    "postedAt": "2026-10-26T10:27:38-04:00",
    "firstSeen": "2026-10-26T10:27:38-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:00.907Z",
    "match": {
     "score": 2,
     "why": "Strong SQL, Python automation, and Snowflake/API work match, but the biggest gaps are the required 3+ years of Airflow, plus unlisted GCP and dbt and a non-CS degree.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:00.907Z"
   },
   {
    "id": "pool-greenhouse-braze-8349878",
@@ -4441,7 +4520,7 @@
     "why": "Her analytical work and stakeholder training are a loose match, but this is a quota-carrying sales role and she has no field sales experience, which is the core requirement.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.701Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.749Z"
   },
   {
    "id": "pool-greenhouse-braze-8351214",
@@ -4475,7 +4554,7 @@
     "why": "This is a quota-carrying enterprise sales role requiring 10+ years of account management and SaaS sales experience, which is a different field from the candidate's data analyst and engineering background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.728Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.747Z"
   },
   {
    "id": "pool-greenhouse-braze-8324607",
@@ -4492,7 +4571,7 @@
     "why": "Strong BI and REST API background, but no Gainsight, Customer Success platform, or CX operations experience, which the posting requires for its 2+ years of hands-on admin.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.730Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.755Z"
   },
   {
    "id": "pool-greenhouse-braze-8279315",
@@ -4509,7 +4588,24 @@
     "why": "This is an executive assistant role in a different field from the candidate's data, BI, and engineering background; the posting has no analytics or technical duties, so the only overlap is general organization and documentation skills.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.801Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.757Z"
+  },
+  {
+   "id": "pool-greenhouse-braze-8337945",
+   "sourceId": "pool-greenhouse-braze",
+   "title": "GTM Enablement Manager",
+   "location": "New York City",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
+   "postedAt": "2026-11-10T13:55:09-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryCheckedAt": "2026-11-10T19:48:19.736Z",
+   "match": {
+    "score": 2,
+    "why": "Strong on APIs, analytics, and training delivery, but the posting asks for 7+ years of customer-facing technical experience and dedicated enablement program work, and the candidate has neither and no Braze or SDK background.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "pool-greenhouse-braze-8347907",
@@ -4526,7 +4622,7 @@
     "why": "This is a marketing leadership role needing 7+ years of B2B and financial services marketing; the candidate is a data analyst and engineer with no marketing or FS-industry background, and the posting asks for 7+ years.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.771Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.835Z"
   },
   {
    "id": "pool-greenhouse-braze-8335128",
@@ -4560,7 +4656,7 @@
     "why": "Strong Python, SQL, and REST API experience matches parts of the role, but the internship requires an enrolled CS degree with one year or less left, which the candidate lacks; she is also far past intern level.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.833Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.842Z"
   },
   {
    "id": "pool-greenhouse-braze-8274796",
@@ -4577,7 +4673,7 @@
     "why": "This is a partner sales role requiring 10+ years of alliances/channel sales and martech partner relationships; the candidate is a data analyst and engineer with about 4 years in tech and no partner sales background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.823Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.878Z"
   },
   {
    "id": "pool-greenhouse-braze-8350782",
@@ -4611,7 +4707,7 @@
     "why": "Her data and reporting skills don't match a program management role; the posting wants 5-8 years of program management in B2B SaaS partnerships, and she has none, only about 4 years in data and IT operations roles.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.869Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.860Z"
   },
   {
    "id": "pool-greenhouse-braze-8327879",
@@ -4628,7 +4724,7 @@
     "why": "This is a SaaS sales leadership role requiring 7+ years of sales and people management, while the candidate is a data analyst and engineer with no sales background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.899Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.844Z"
   },
   {
    "id": "pool-greenhouse-braze-8324871",
@@ -4662,7 +4758,7 @@
     "why": "Strong analytics and stakeholder-training background matches the analytics domain option, but the role needs 6+ years of enterprise SaaS account management and renewal records the candidate lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.915Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.924Z"
   },
   {
    "id": "pool-greenhouse-braze-8315917",
@@ -4679,7 +4775,7 @@
     "why": "Her client-facing work and analytics skills give some adjacency, but the role needs 6+ years of enterprise SaaS account management and renewals, which her profile lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.942Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.944Z"
   },
   {
    "id": "pool-greenhouse-braze-8332488",
@@ -4696,7 +4792,7 @@
     "why": "Strong Power BI and Snowflake-based reporting and cross-team IT ops work, but the role centers on CX services operations leadership and advanced Salesforce, neither of which the profile shows.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.928Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.054Z"
   },
   {
    "id": "pool-greenhouse-braze-8337115",
@@ -4719,6 +4815,26 @@
    "salaryCheckedAt": "2026-11-04T19:49:39.063Z"
   },
   {
+   "id": "pool-greenhouse-braze-8349984",
+   "sourceId": "pool-greenhouse-braze",
+   "title": "Senior Global Compensation Analyst",
+   "location": "New York City",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8349984",
+   "postedAt": "2026-11-10T14:42:32-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 84000,
+   "salaryMax": 120000,
+   "salarySource": "description",
+   "salaryCheckedAt": "2026-11-10T19:48:19.996Z",
+   "match": {
+    "score": 1,
+    "why": "This is a compensation analyst role in HR, a different field from the candidate's data, BI, and engineering background. Her only overlap is general analytical work, and it lacks compensation experience, Radford/Pave/Mercer, and Workday.",
+    "p": "2f29e710"
+   }
+  },
+  {
    "id": "pool-greenhouse-braze-8289921",
    "sourceId": "pool-greenhouse-braze",
    "title": "Senior Software Engineer II, Decisioning Studio Integrations Team",
@@ -4733,7 +4849,7 @@
     "why": "Strong Python/SQL and pipeline-adjacent work, but the role needs senior backend distributed-systems skills, Kafka, Kubernetes and GCP, none of which the profile states.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:21.988Z"
+   "salaryCheckedAt": "2026-11-10T19:48:19.965Z"
   },
   {
    "id": "pool-greenhouse-braze-8304482",
@@ -4750,7 +4866,7 @@
     "why": "Strong API, Python, and stakeholder-training experience fits the integration work, but the role needs SDK and marketing-tech depth and owned customer implementations, which the profile doesn't show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.007Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.071Z"
   },
   {
    "id": "pool-greenhouse-braze-8237197",
@@ -4767,7 +4883,7 @@
     "why": "Strong overlap in data migration, validation, and documentation, but the role is core treasury and SOX work, and the candidate has no finance, treasury, or accounting experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.021Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.057Z"
   },
   {
    "id": "pool-greenhouse-braze-8259923",
@@ -4804,7 +4920,7 @@
     "why": "Strong SQL and production database experience matches, but the role requires Ruby on Rails and React full-stack engineering, which the profile doesn't show, and it's a software engineering role rather than analytics.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.045Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.057Z"
   },
   {
    "id": "pool-greenhouse-braze-8327835",
@@ -4821,7 +4937,7 @@
     "why": "Strong on the API, AI, and programming domain knowledge, but the role centers on pre-sales, sales engineering, or customer-facing sales experience, which the profile does not show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.050Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.082Z"
   },
   {
    "id": "pool-greenhouse-braze-8349922",
@@ -4879,25 +4995,6 @@
    "closedAt": "2026-11-03T19:32:12.236Z"
   },
   {
-   "id": "pool-ashby-brightwheel-5bfd8eb8-b650-4461-8259-fd504a7776ba",
-   "sourceId": "pool-ashby-brightwheel",
-   "title": "Sales Manager",
-   "location": "United States; Remote",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/brightwheel/5bfd8eb8-b650-4461-8259-fd504a7776ba",
-   "postedAt": "2026-10-16T18:46:19.249+00:00",
-   "firstSeen": "2026-10-16T18:46:19.249+00:00",
-   "active": true,
-   "salaryMin": 115000,
-   "salaryMax": 130000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "Strength: Power BI dashboards tracking performance matches the data-driven angle. Biggest gap: no sales leadership, quota, or team-management experience; this is a sales role outside her field.",
-    "p": "2f29e710"
-   }
-  },
-  {
    "id": "pool-ashby-brightwheel-d08423e3-e9f9-490c-8f2f-c9c52f38303a",
    "sourceId": "pool-ashby-brightwheel",
    "title": "Senior Manager, Revenue Operations",
@@ -4936,6 +5033,45 @@
    }
   },
   {
+   "id": "pool-ashby-brightwheel-c22873d2-6bd2-4eeb-ba92-e4f4f1837282",
+   "sourceId": "pool-ashby-brightwheel",
+   "title": "Sales Manager",
+   "location": "United States; Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/brightwheel/c22873d2-6bd2-4eeb-ba92-e4f4f1837282",
+   "postedAt": "2026-11-10T16:33:34.773+00:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 130000,
+   "salaryMax": 150000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "Strength: she built Power BI dashboards tracking team performance. Biggest gap: the role is sales leadership, and she has no sales management or quota experience.",
+    "p": "2f29e710"
+   }
+  },
+  {
+   "id": "pool-ashby-brightwheel-5bfd8eb8-b650-4461-8259-fd504a7776ba",
+   "sourceId": "pool-ashby-brightwheel",
+   "title": "Sales Manager",
+   "location": "United States; Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/brightwheel/5bfd8eb8-b650-4461-8259-fd504a7776ba",
+   "postedAt": "2026-10-16T18:46:19.249+00:00",
+   "firstSeen": "2026-10-16T18:46:19.249+00:00",
+   "active": false,
+   "salaryMin": 115000,
+   "salaryMax": 130000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "Strength: Power BI dashboards tracking performance matches the data-driven angle. Biggest gap: no sales leadership, quota, or team-management experience; this is a sales role outside her field.",
+    "p": "2f29e710"
+   },
+   "closedAt": "2026-11-10T19:48:08.496Z"
+  },
+  {
    "id": "pool-lever-brilliant-0c5c22a0-4487-4435-af54-fe39ef33fbec",
    "sourceId": "pool-lever-brilliant",
    "title": "CS Learning Designer",
@@ -4972,7 +5108,7 @@
     "why": "Strong overlap in hospital IT and stakeholder work from the Oracle Health role, but the posting requires a PMP and senior project management leadership, which the profile lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.358Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.400Z"
   },
   {
    "id": "pool-greenhouse-butterflynetwork-8180203003",
@@ -4992,7 +5128,7 @@
     "why": "This is an enterprise medical-device sales role requiring 5+ years of strategic C-suite selling; the candidate is a data analyst and engineer with no sales experience, so it is a different field entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.358Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.401Z"
   },
   {
    "id": "pool-greenhouse-butterflynetwork-8179840003",
@@ -5012,7 +5148,7 @@
     "why": "This is an enterprise medtech sales role requiring 5+ years of strategic C-suite selling; the candidate is a data analyst with no sales experience, so the field is entirely different.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.364Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.404Z"
   },
   {
    "id": "pool-greenhouse-butterflynetwork-8179831003",
@@ -5032,7 +5168,7 @@
     "why": "This is an enterprise medtech sales role requiring 5+ years of strategic C-suite selling, with no overlap with the candidate's data analyst, BI, and engineering background. Her only link is the healthcare setting.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:22.360Z"
+   "salaryCheckedAt": "2026-11-10T19:48:20.403Z"
   },
   {
    "id": "pool-greenhouse-celonis-8068099003",
@@ -5212,6 +5348,46 @@
    "salaryCheckedAt": "2026-11-05T20:00:46.723Z"
   },
   {
+   "id": "pool-greenhouse-celonis-8190822003",
+   "sourceId": "pool-greenhouse-celonis",
+   "title": "Software Engineer",
+   "location": "Remote, US, Massachusetts",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003",
+   "postedAt": "2026-11-10T10:35:36-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 134000,
+   "salaryMax": 158000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-11-10T19:48:20.841Z",
+   "match": {
+    "score": 2,
+    "why": "Her REST API work, Python scripting, and Oracle/Snowflake data experience partly match, but the role needs core backend distributed-systems engineering and proficient Python, which her profile shows only at a working level.",
+    "p": "2f29e710"
+   }
+  },
+  {
+   "id": "pool-greenhouse-celonis-8190831003",
+   "sourceId": "pool-greenhouse-celonis",
+   "title": "Software Engineer - Infrastructure",
+   "location": "Remote, US, Massachusetts",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003",
+   "postedAt": "2026-11-10T10:30:48-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 134000,
+   "salaryMax": 158000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-11-10T19:48:20.832Z",
+   "match": {
+    "score": 2,
+    "why": "Strengths include Python, OCI, and ETL-style data conversion work, but the role needs advanced Python, Kubernetes/Docker, and a CS or engineering degree, which the candidate lacks.",
+    "p": "2f29e710"
+   }
+  },
+  {
    "id": "pool-greenhouse-celonis-8037540003",
    "sourceId": "pool-greenhouse-celonis",
    "title": "Solutions Architect",
@@ -5306,6 +5482,26 @@
    }
   },
   {
+   "id": "pool-greenhouse-chargepoint-8928964002",
+   "sourceId": "pool-greenhouse-chargepoint",
+   "title": "Senior Director, NAM Channels Sales",
+   "location": "US-CA-Remote",
+   "remote": true,
+   "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8928964002",
+   "postedAt": "2026-11-03T14:11:03-05:00",
+   "firstSeen": "2026-11-03T19:32:12.236Z",
+   "active": true,
+   "salaryMin": 219045,
+   "salaryMax": 296355,
+   "salarySource": "description",
+   "match": {
+    "score": 1,
+    "why": "This is a senior channel sales leadership role requiring 12-15 years of channel sales and 5-8 years of Director-level people management, which the candidate, a data analyst with no sales background, does not have.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:21.087Z"
+  },
+  {
    "id": "pool-greenhouse-chargepoint-8933521002",
    "sourceId": "pool-greenhouse-chargepoint",
    "title": "Senior Director, NAM Channels Sales",
@@ -5321,43 +5517,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-06T19:28:07.430Z"
-  },
-  {
-   "id": "pool-greenhouse-chargepoint-8928964002",
-   "sourceId": "pool-greenhouse-chargepoint",
-   "title": "Senior Director, NAM Channels Sales",
-   "location": "US-CA-Remote",
-   "remote": true,
-   "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8928964002",
-   "postedAt": "2026-11-03T14:11:03-05:00",
-   "firstSeen": "2026-11-03T19:32:12.236Z",
-   "active": true,
-   "match": {
-    "score": 1,
-    "why": "This is a senior channel sales leadership role requiring 12-15 years of channel sales and 5-8 years of Director-level people management, which the candidate, a data analyst with no sales background, does not have.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:23.036Z"
-  },
-  {
-   "id": "pool-greenhouse-chargepoint-8930115002",
-   "sourceId": "pool-greenhouse-chargepoint",
-   "title": "Senior Document Control Specialist",
-   "location": "US Remote ",
-   "remote": true,
-   "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8930115002",
-   "postedAt": "2026-11-04T10:25:05-05:00",
-   "firstSeen": "2026-11-04T19:49:24.285Z",
-   "active": true,
-   "salaryMin": 89565,
-   "salaryMax": 118450,
-   "salarySource": "description",
-   "match": {
-    "score": 1,
-    "why": "Strength: cross-team documentation and data-accuracy work. Biggest gap: the role needs expert Arena PLM and 5-8 years of document control or change management, which the profile does not show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-04T19:49:40.498Z"
   },
   {
    "id": "pool-greenhouse-chargepoint-8922486002",
@@ -5378,6 +5537,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-04T19:49:40.499Z"
+  },
+  {
+   "id": "pool-greenhouse-chargepoint-8930115002",
+   "sourceId": "pool-greenhouse-chargepoint",
+   "title": "Senior Document Control Specialist",
+   "location": "US Remote ",
+   "remote": true,
+   "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8930115002",
+   "postedAt": "2026-11-04T10:25:05-05:00",
+   "firstSeen": "2026-11-04T19:49:24.285Z",
+   "active": true,
+   "salaryMin": 89565,
+   "salaryMax": 118450,
+   "salarySource": "description",
+   "match": {
+    "score": 1,
+    "why": "Strength: cross-team documentation and data-accuracy work. Biggest gap: the role needs expert Arena PLM and 5-8 years of document control or change management, which the profile does not show.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-04T19:49:40.498Z"
   },
   {
    "id": "pool-greenhouse-chargepoint-8922699002",
@@ -5417,7 +5596,7 @@
     "why": "Technical marketing role in EV charging, a different field from the candidate's data work, asking 8-12 years against her roughly 5. Her AI-tool use and end-user training are only partial overlap.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:23.042Z"
+   "salaryCheckedAt": "2026-11-10T19:48:21.093Z"
   },
   {
    "id": "pool-greenhouse-chargepoint-8889676002",
@@ -5474,7 +5653,7 @@
     "why": "This is a clinical contemplative-practice role requiring certification in a contemplative discipline, a Master's in mental health, and 3+ years of facilitation, none of which the candidate has; it is outside her data and engineering field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:23.410Z"
+   "salaryCheckedAt": "2026-11-10T19:48:21.535Z"
   },
   {
    "id": "pool-greenhouse-charliehealth-6236382004",
@@ -5491,7 +5670,7 @@
     "why": "This is a senior security leadership role requiring 10+ years of infosec experience and 3+ years leading security teams, which the candidate lacks; her background is data analytics and automation, with no security program leadership shown.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:23.424Z"
+   "salaryCheckedAt": "2026-11-10T19:48:21.428Z"
   },
   {
    "id": "pool-greenhouse-charliehealth-6240721004",
@@ -5528,7 +5707,7 @@
     "why": "Strength: data reconciliation across systems and HIPAA experience match parts of the role. Biggest gap: it's an in-office Syracuse admin job, not the analytics roles she targets in NYC or remote.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:23.414Z"
+   "salaryCheckedAt": "2026-11-10T19:48:21.439Z"
   },
   {
    "id": "pool-greenhouse-charliehealth-6223563004",
@@ -5545,7 +5724,7 @@
     "why": "Strong SQL and Power BI reporting match the analytics requirements, but the biggest gap is no Salesforce or CRM experience and no BizOps, RevOps, or systems-ownership background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:23.511Z"
+   "salaryCheckedAt": "2026-11-10T19:48:21.421Z"
   },
   {
    "id": "pool-greenhouse-charliehealth-6251386004",
@@ -5745,7 +5924,7 @@
     "why": "Strong Power BI, SQL, and reporting skills match the dashboard work, but the role needs HubSpot and Salesforce administration and email marketing, which the profile doesn't show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:24.332Z"
+   "salaryCheckedAt": "2026-11-10T19:48:30.822Z"
   },
   {
    "id": "pool-ashby-commons-48fefa82-e2b7-4835-89e1-3ef91541ca51",
@@ -5781,7 +5960,7 @@
     "why": "This is a senior OT cybersecurity and energy operations leadership role requiring NERC CIP, SCADA, and budget ownership; the candidate's data analytics and reporting background is a different field with major gaps.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:24.718Z"
+   "salaryCheckedAt": "2026-11-10T19:48:31.383Z"
   },
   {
    "id": "pool-greenhouse-datakindinc-8197021003",
@@ -5796,12 +5975,12 @@
    "salaryMin": 98000,
    "salaryMax": 109000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-09T23:12:03.296Z",
    "match": {
     "score": 2,
     "why": "Her Oracle Health IT support, HIPAA handling, and documentation work are adjacent strengths, but the role requires SOC 2 audit experience, MDM, and Google Workspace/Windows/Mac administration, none of which the profile states.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:03.296Z"
   },
   {
    "id": "pool-greenhouse-datakindinc-8040417003",
@@ -5816,12 +5995,12 @@
    "salaryMin": 113000,
    "salaryMax": 125000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-09T23:12:03.217Z",
    "match": {
     "score": 2,
     "why": "Strong SQL, REST API, and owned-tool experience match some requirements, but the role needs 6+ years of product management and Edtech or open-source experience, which the profile doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:03.217Z"
   },
   {
    "id": "pool-greenhouse-datakindinc-8044696003",
@@ -5836,12 +6015,12 @@
    "salaryMin": 101000,
    "salaryMax": 112000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-09T23:12:03.211Z",
    "match": {
     "score": 2,
     "why": "Her strength is cross-team coordination and stakeholder work from ops and data roles, but the role needs 6+ years of grant-funded project management, higher-ed knowledge, and Asana, none of which the profile shows.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:03.211Z"
   },
   {
    "id": "pool-greenhouse-diligentrobotics-8195984003",
@@ -5853,12 +6032,12 @@
    "postedAt": "2026-11-04T14:31:13-05:00",
    "firstSeen": "2026-11-04T14:31:13-05:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:03.382Z",
    "match": {
     "score": 2,
     "why": "Her IT operations support, end-user training, and Python scripting partly match, but the role centers on on-site robot hardware installation, troubleshooting, and up to 50% travel, none of which her profile shows.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:03.382Z"
   },
   {
    "id": "pool-greenhouse-diligentrobotics-8196006003",
@@ -5870,12 +6049,12 @@
    "postedAt": "2026-11-04T14:39:26-05:00",
    "firstSeen": "2026-11-04T14:39:26-05:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:03.389Z",
    "match": {
     "score": 2,
     "why": "Strength: she has trained users, documented workflows, and worked in hospital IT, which overlap with the training duties. Biggest gap: this is a hands-on, travel-heavy robot launch role, not the data and analytics work she is targeting.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:03.389Z"
   },
   {
    "id": "pool-greenhouse-donorschoose-8922292002",
@@ -5887,12 +6066,12 @@
    "postedAt": "2026-10-28T14:27:38-04:00",
    "firstSeen": "2026-10-28T14:27:38-04:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-09T23:12:03.514Z",
    "match": {
     "score": 1,
     "why": "This is an in-person volunteer coordination role with physical tasks, and the candidate's data and BI work doesn't match it. Her training and stakeholder experience only loosely transfer, and she has no volunteer management background.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:03.514Z"
   },
   {
    "id": "pool-greenhouse-flatironhealth-8315819",
@@ -5909,7 +6088,7 @@
     "why": "This requires a licensed NP/PA with 5+ years of clinical oncology and genomic test interpretation, which the candidate lacks; her data and BI background is a different field from clinical practice.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:24.993Z"
+   "salaryCheckedAt": "2026-11-10T19:48:32.167Z"
   },
   {
    "id": "pool-greenhouse-flatironhealth-8356530",
@@ -5943,7 +6122,7 @@
     "why": "Requires an MD with oncology subspecialty training and clinical experience; the candidate has a BA and data/engineering background, so the required medical credentials are a fundamental gap.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:24.998Z"
+   "salaryCheckedAt": "2026-11-10T19:48:32.162Z"
   },
   {
    "id": "pool-greenhouse-flatironhealth-8315844",
@@ -6308,7 +6487,7 @@
     "why": "Her REST API and Python backend work partly matches, but the role needs frontend fullstack work in Ruby on Rails and Vue.js, and her profile shows no frontend or transactional-flow experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:25.233Z"
+   "salaryCheckedAt": "2026-11-10T19:48:32.861Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8931179002",
@@ -6386,43 +6565,6 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-06T19:28:09.070Z"
-  },
-  {
-   "id": "pool-greenhouse-gitlab-8896290002",
-   "sourceId": "pool-greenhouse-gitlab",
-   "title": "Manager, Customer Success ",
-   "location": "Remote, United States",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8896290002",
-   "postedAt": "2026-10-16T22:12:56-04:00",
-   "firstSeen": "2026-10-16T22:12:56-04:00",
-   "active": true,
-   "match": {
-    "score": 2,
-    "why": "Her strength is cross-team stakeholder work and training, but the role requires leading customer-facing teams, and her profile shows no people management or customer success experience.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-05T20:01:16.742Z"
-  },
-  {
-   "id": "pool-greenhouse-gitlab-8856724002",
-   "sourceId": "pool-greenhouse-gitlab",
-   "title": "Manager, Customer Success Engineering",
-   "location": "Remote, United States",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8856724002",
-   "postedAt": "2026-10-15T16:53:32-04:00",
-   "firstSeen": "2026-10-15T16:53:32-04:00",
-   "active": true,
-   "salaryMin": 124800,
-   "salaryMax": 210600,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Her strength is data and reporting, including Power BI and client-facing reporting work, but the role needs DevSecOps depth, people management, and customer success program leadership, which her profile doesn't show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-05T20:01:16.750Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8929477002",
@@ -6810,7 +6952,7 @@
     "why": "Her PowerShell, Python, and automation work is a partial match, but the role requires Terraform or Ansible experience, an active clearance, and GitLab deployment delivery, none of which her profile shows.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:25.228Z"
+   "salaryCheckedAt": "2026-11-10T19:48:32.791Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8929514002",
@@ -6864,7 +7006,7 @@
     "why": "Her internal stakeholder work and AI tool building are loose matches, but the role needs DevSecOps/CI-CD and pre-sales experience she doesn't state, plus required Arabic fluency and an EMEA focus.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:25.259Z"
+   "salaryCheckedAt": "2026-11-10T19:48:32.785Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8928762002",
@@ -7012,7 +7154,7 @@
     "why": "Her strength is hands-on OCI and Oracle platform work, but this Staff PM role needs product management, customer interviewing and business-case experience she doesn't have.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:25.229Z"
+   "salaryCheckedAt": "2026-11-10T19:48:32.790Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8920177002",
@@ -7133,6 +7275,45 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-05T20:01:17.297Z"
+  },
+  {
+   "id": "pool-greenhouse-gitlab-8896290002",
+   "sourceId": "pool-greenhouse-gitlab",
+   "title": "Manager, Customer Success ",
+   "location": "Remote, United States",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8896290002",
+   "postedAt": "2026-10-16T22:12:56-04:00",
+   "firstSeen": "2026-10-16T22:12:56-04:00",
+   "active": false,
+   "match": {
+    "score": 2,
+    "why": "Her strength is cross-team stakeholder work and training, but the role requires leading customer-facing teams, and her profile shows no people management or customer success experience.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-05T20:01:16.742Z",
+   "closedAt": "2026-11-10T19:48:08.496Z"
+  },
+  {
+   "id": "pool-greenhouse-gitlab-8856724002",
+   "sourceId": "pool-greenhouse-gitlab",
+   "title": "Manager, Customer Success Engineering",
+   "location": "Remote, United States",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8856724002",
+   "postedAt": "2026-10-15T16:53:32-04:00",
+   "firstSeen": "2026-10-15T16:53:32-04:00",
+   "active": false,
+   "salaryMin": 124800,
+   "salaryMax": 210600,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Her strength is data and reporting, including Power BI and client-facing reporting work, but the role needs DevSecOps depth, people management, and customer success program leadership, which her profile doesn't show.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-05T20:01:16.750Z",
+   "closedAt": "2026-11-10T19:48:08.496Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8923757002",
@@ -7962,6 +8143,25 @@
    }
   },
   {
+   "id": "pool-ashby-hims-and-hers-cd43ba82-4938-4d8e-aad9-c53da1aaafea",
+   "sourceId": "pool-ashby-hims-and-hers",
+   "title": "Principal Machine Learning Engineer",
+   "location": "US - Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/hims-and-hers/cd43ba82-4938-4d8e-aad9-c53da1aaafea",
+   "postedAt": "2026-11-10T00:42:07.615+00:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 180000,
+   "salaryMax": 200000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Her RAG, vector search and AI chatbot work is a real overlap, but the role wants 10+ years, expert PyTorch and deep LLM/NLP, and she lists only working-level Python and no PyTorch or MLOps tools.",
+    "p": "2f29e710"
+   }
+  },
+  {
    "id": "pool-ashby-hims-and-hers-a5a65d27-5531-40ed-8ba1-7eb577c13631",
    "sourceId": "pool-ashby-hims-and-hers",
    "title": "Compensation Analyst",
@@ -8497,7 +8697,7 @@
     "why": "This is a senior AI platform leadership role requiring 10+ years and 5+ years leading platform teams; the candidate has about 4 years in tech, no people-management record, and no production AI platform leadership.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.196Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.803Z"
   },
   {
    "id": "pool-greenhouse-life360-8895033002",
@@ -8517,7 +8717,7 @@
     "why": "Her REST API, Oracle, and automation work is adjacent, but the role needs leading large backend and platform engineering orgs at scale, and her profile shows no people management.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.192Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.806Z"
   },
   {
    "id": "pool-greenhouse-life360-8910158002",
@@ -8537,7 +8737,7 @@
     "why": "This is an executive administration management role requiring 8+ years as an EA and 3+ years managing EAs; the candidate's data and analytics background has no overlap with it.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.234Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.806Z"
   },
   {
    "id": "pool-greenhouse-life360-8894899002",
@@ -8557,7 +8757,7 @@
     "why": "Her AI tool-building and analytics work partly match the agent requirement, but the role needs 3-5 years in banking, consulting, PE, or corp dev, plus valuation and M&A modeling she doesn't show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.239Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.804Z"
   },
   {
    "id": "pool-greenhouse-life360-8895619002",
@@ -8577,7 +8777,7 @@
     "why": "This is a principal product management role in consumer identity and auth, requiring 10+ years of PM experience; the candidate is a data analyst and engineer with about 4 years in tech, a different field and far beyond her experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.256Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.816Z"
   },
   {
    "id": "pool-greenhouse-life360-8885794002",
@@ -8597,7 +8797,7 @@
     "why": "This is a senior business development role requiring about 15 years of partnership origination and executive relationships at major tech companies; the candidate is a data analyst with no BD or partnership experience, a different field enti",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.294Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.906Z"
   },
   {
    "id": "pool-greenhouse-life360-8935286002",
@@ -8637,7 +8837,7 @@
     "why": "Strong SQL and Python-adjacent reporting experience, but the role needs causal inference, experimentation platforms, and consumer-tech decision science, none of which the profile shows.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.277Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.876Z"
   },
   {
    "id": "pool-greenhouse-life360-8935323002",
@@ -8677,7 +8877,7 @@
     "why": "This is a senior Android/Kotlin mobile engineering role requiring 6+ years of Android production experience, a field the candidate (a data analyst and BI/Oracle engineer) has no background in, and she lacks Kotlin, Jetpack Compose and mobil",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.297Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.872Z"
   },
   {
    "id": "pool-greenhouse-life360-8920175002",
@@ -8737,7 +8937,7 @@
     "why": "Strong SQL and Power BI background, but this is a senior mobile role needing 6+ years of Android, Kotlin, Compose and billing work, which she lacks entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:26.301Z"
+   "salaryCheckedAt": "2026-11-10T19:48:33.877Z"
   },
   {
    "id": "pool-greenhouse-life360-8926130002",
@@ -8758,6 +8958,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-07T17:45:47.708Z"
+  },
+  {
+   "id": "pool-greenhouse-life360-8936492002",
+   "sourceId": "pool-greenhouse-life360",
+   "title": "Staff AI Platform Engineer",
+   "location": "Remote, USA",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/life360/jobs/8936492002",
+   "postedAt": "2026-11-10T12:07:49-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 149000,
+   "salaryMax": 271500,
+   "salarySource": "description",
+   "salaryCheckedAt": "2026-11-10T19:48:33.878Z",
+   "match": {
+    "score": 2,
+    "why": "Strong RAG, vector search, and internal AI tool experience, but the role requires staff-level depth (8+ years, 3+ years building platforms for engineers) plus MCP, agent orchestration, and large-scale inference the profile doesn't show.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "pool-greenhouse-life360-8919899002",
@@ -9812,12 +10032,12 @@
    "salaryMin": 196000,
    "salaryMax": 230000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-09T23:12:11.385Z",
    "match": {
     "score": 1,
     "why": "This is a healthcare benefits partnerships leadership role requiring 10+ years in benefits consulting and broker relationships; the candidate's data analytics and engineering background shares no core requirement with it.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-09T23:12:11.385Z"
   },
   {
    "id": "pool-greenhouse-mavenclinic-8883475002",
@@ -9858,7 +10078,7 @@
     "why": "Her SQL, reporting, and health-tech background is a partial match, but the role requires an actuarial credential, passed actuarial exams, and a STEM degree, which she lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.061Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.837Z"
   },
   {
    "id": "pool-greenhouse-oscar-8303588",
@@ -9875,7 +10095,7 @@
     "why": "Strong SQL, Python and Excel overlap with the bonus list, but she lacks the required 3+ years of college in actuarial science, math or statistics, and has no actuarial exams or actuarial work.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.059Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.764Z"
   },
   {
    "id": "pool-greenhouse-oscar-8303591",
@@ -9915,7 +10135,7 @@
     "why": "Strong SQL and reporting skills match a little, but this is an actuarial role needing SOA Fellowship and 7+ years of actuarial work, which the candidate lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.054Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.754Z"
   },
   {
    "id": "pool-greenhouse-oscar-8303620",
@@ -9935,7 +10155,7 @@
     "why": "Her strength is cross-team work, documentation, and training at Oracle Health, but the role requires 3+ years of program management, which her profile does not show, and it is not a data role.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.067Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.729Z"
   },
   {
    "id": "pool-greenhouse-oscar-8301173",
@@ -9955,7 +10175,7 @@
     "why": "Her healthcare data and reporting work matches the analysis parts, but the role requires 3+ years of provider contracting and negotiation experience she does not have.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.106Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.756Z"
   },
   {
    "id": "pool-greenhouse-oscar-8349789",
@@ -10009,7 +10229,7 @@
     "why": "Clinical case management needs an RN or MSW license and patient-care experience, which the candidate lacks; her health-tech and data work is a different field. Her Family and Human Services degree is the only overlap.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.159Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.821Z"
   },
   {
    "id": "pool-greenhouse-oscar-8281691",
@@ -10029,7 +10249,7 @@
     "why": "Strength: some healthcare data and reporting experience. Biggest gap: this is an actuarial leadership role needing SOA Fellowship and 10+ years of actuarial work, which the candidate lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.172Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.841Z"
   },
   {
    "id": "pool-greenhouse-oscar-8301400",
@@ -10049,7 +10269,7 @@
     "why": "Strong SQL, data modeling, and Power BI experience matches, but the role requires 10+ years and 5+ years leading teams, and the profile shows neither, plus no dbt, Looker, or GCP.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.201Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.853Z"
   },
   {
    "id": "pool-greenhouse-oscar-8284039",
@@ -10069,7 +10289,7 @@
     "why": "Strength: healthcare IT operations and cross-team workflow work at Oracle Health. Biggest gap: it asks for 10+ years and director-level strategy and team leadership, far beyond her roughly 4-5 years.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.219Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.862Z"
   },
   {
    "id": "pool-greenhouse-oscar-8334493",
@@ -10120,7 +10340,7 @@
     "why": "Strong overlap in healthcare data, stakeholder work and analytics, but the role requires 7+ years of product management and 2+ years of people management, which the candidate lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.336Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.916Z"
   },
   {
    "id": "pool-greenhouse-oscar-8356762",
@@ -10160,7 +10380,7 @@
     "why": "Her SQL and healthcare data work is a real match, but the role requires 4+ years of medical coding, a CPC or CCS certification, and UB-04 bill audit experience, which she lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.337Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.075Z"
   },
   {
    "id": "pool-greenhouse-oscar-8304964",
@@ -10200,7 +10420,7 @@
     "why": "Strong SQL and data-analysis background matches the quantitative requirement, but the role needs an SOA credential or track, ACA actuarial pricing experience, and people management, none of which the profile shows.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.355Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.933Z"
   },
   {
    "id": "pool-greenhouse-oscar-8168152",
@@ -10220,7 +10440,7 @@
     "why": "Strong SQL and workflow documentation match, but the role needs 4+ years of health insurance operations, Lean Six Sigma, and people management, which the profile doesn't show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.344Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.948Z"
   },
   {
    "id": "pool-greenhouse-oscar-8303660",
@@ -10277,7 +10497,7 @@
     "why": "Strong SQL and Oracle production-support experience, plus about 4 years in technical roles, meets the core requirements. The biggest gap is a non-technical degree in place of a technical bachelor's, with no health insurance background liste",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.433Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.930Z"
   },
   {
    "id": "pool-greenhouse-oscar-8302024",
@@ -10297,7 +10517,7 @@
     "why": "Strong Oracle SQL/PL/SQL and 4+ years in tech match well, and the NYC location fits. The biggest gap is the required 3+ years of Python, where she is only at a working level, plus no stated health-insurance domain.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.429Z"
+   "salaryCheckedAt": "2026-11-10T19:48:35.984Z"
   },
   {
    "id": "pool-greenhouse-oscar-8304947",
@@ -10411,7 +10631,7 @@
     "why": "Her healthcare data and reporting work is a partial match, but the role requires an SOA actuarial credential and a STEM bachelor's, which she lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.431Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.024Z"
   },
   {
    "id": "pool-greenhouse-oscar-8303649",
@@ -10431,7 +10651,7 @@
     "why": "Strong Oracle SQL, data conversion, and healthcare IT background match the SQL requirement and NYC location. The biggest gaps are claims processing and health plan benefit knowledge, which the profile doesn't show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.433Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.017Z"
   },
   {
    "id": "pool-greenhouse-oscar-8256400",
@@ -10491,7 +10711,7 @@
     "why": "Strong SQL, ETL-style pipeline work, and stakeholder reporting match, but the role needs 4+ years of statistical modeling and advanced analytics, which the profile doesn't show, plus senior data science scope.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.447Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.036Z"
   },
   {
    "id": "pool-greenhouse-oscar-8281718",
@@ -10511,7 +10731,7 @@
     "why": "Her healthcare data and reporting work at Oracle Health is a partial match, but the role wants 12+ years of healthcare quant work, actuarial leadership, and executive-level experience she lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.515Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.083Z"
   },
   {
    "id": "pool-greenhouse-oscar-8286949",
@@ -10531,7 +10751,7 @@
     "why": "Matching strength is quantitative and SQL/reporting skill, but the role is actuarial pricing needing SOA credentials, 7+ years, and people management, none of which the candidate has.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.537Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.115Z"
   },
   {
    "id": "pool-greenhouse-oscar-8282065",
@@ -10551,7 +10771,7 @@
     "why": "Strong SQL, reporting, and data-conversion background, but the role requires an SOA Associate or Fellow credential and actuarial/risk adjustment experience she does not have.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.529Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.173Z"
   },
   {
    "id": "pool-greenhouse-oscar-8356308",
@@ -10588,24 +10808,7 @@
     "why": "Her strength is cross-team requirements work and SQL/Power BI reporting, but this is a product management role asking for 6+ years of PM experience, which she lacks, and the core job is strategy and roadmap ownership.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.542Z"
-  },
-  {
-   "id": "pool-greenhouse-oscar-8289711",
-   "sourceId": "pool-greenhouse-oscar",
-   "title": "Senior Product Manager, Virtual Care",
-   "location": "New York, New York, United States",
-   "remote": false,
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8289711",
-   "postedAt": "2026-10-16T16:53:21-04:00",
-   "firstSeen": "2026-10-16T16:53:21-04:00",
-   "active": true,
-   "match": {
-    "score": 2,
-    "why": "Strong SQL, cross-functional, and healthcare data background, but the role requires 6+ years of product management and roadmap ownership, which the profile does not show.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:27.617Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.134Z"
   },
   {
    "id": "pool-greenhouse-oscar-8312400",
@@ -10625,27 +10828,7 @@
     "why": "Strong match on SQL/data work, workflow automation, and healthcare data handling (HIPAA), but no claims, insurance, or SIU experience and no stated Six Sigma or process-improvement credential.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.615Z"
-  },
-  {
-   "id": "pool-greenhouse-oscar-8284044",
-   "sourceId": "pool-greenhouse-oscar",
-   "title": "Senior Specialist, Provider Network Recruitment",
-   "location": "Remote",
-   "remote": true,
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8284044",
-   "postedAt": "2026-10-20T16:33:35-04:00",
-   "firstSeen": "2026-10-20T16:33:35-04:00",
-   "active": true,
-   "salaryMin": 67813,
-   "salaryMax": 89004,
-   "salarySource": "description",
-   "match": {
-    "score": 2,
-    "why": "Her healthcare IT and data-reporting background is a partial match, but the role requires 2+ years of provider contracting or managed-care coordination she doesn't have, and it's a non-technical admin role in listed states only.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:27.622Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.167Z"
   },
   {
    "id": "pool-greenhouse-oscar-8281714",
@@ -10665,7 +10848,7 @@
     "why": "Strength: SQL, Python, and reporting experience overlap with the role's analytics work. Biggest gap: the posting requires an SOA Associate or Fellow credential or track, and a STEM degree, which the candidate lacks, along with actuarial res",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.637Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.180Z"
   },
   {
    "id": "pool-greenhouse-oscar-6555819",
@@ -10685,7 +10868,24 @@
     "why": "Her Python, REST API, and automation work is a partial match, but the role requires 7+ years, 5+ years leading teams, and staff-level backend claims engineering she lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.708Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.202Z"
+  },
+  {
+   "id": "pool-greenhouse-oscar-8224080",
+   "sourceId": "pool-greenhouse-oscar",
+   "title": "Staff User Experience Researcher",
+   "location": "New York, New York, United States",
+   "remote": false,
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8224080",
+   "postedAt": "2026-11-04T11:43:51-05:00",
+   "firstSeen": "2026-11-04T19:49:24.285Z",
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "UX research is a different field from her data analyst and BI work; her stakeholder and documentation experience is the only overlap, and she has no user research skills.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-04T19:49:46.608Z"
   },
   {
    "id": "pool-greenhouse-oscar-8264978",
@@ -10702,7 +10902,7 @@
     "why": "Strong match on technical fluency (APIs, Oracle, data flows) and cross-team rollouts like the chatbot, but the role requires independently leading complex programs, and the profile shows no formal TPM or program-management experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.696Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.228Z"
   },
   {
    "id": "pool-greenhouse-oscar-8319419",
@@ -10742,7 +10942,46 @@
     "why": "Her healthcare and analytics background is a partial match, but the role needs 15+ years and 7+ years of executive-level leadership, and she has neither. Payer operations is also a major gap.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.710Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.269Z"
+  },
+  {
+   "id": "pool-greenhouse-oscar-8289711",
+   "sourceId": "pool-greenhouse-oscar",
+   "title": "Senior Product Manager, Virtual Care",
+   "location": "New York, New York, United States",
+   "remote": false,
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8289711",
+   "postedAt": "2026-10-16T16:53:21-04:00",
+   "firstSeen": "2026-10-16T16:53:21-04:00",
+   "active": false,
+   "match": {
+    "score": 2,
+    "why": "Strong SQL, cross-functional, and healthcare data background, but the role requires 6+ years of product management and roadmap ownership, which the profile does not show.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-03T19:32:27.617Z",
+   "closedAt": "2026-11-10T19:48:08.496Z"
+  },
+  {
+   "id": "pool-greenhouse-oscar-8284044",
+   "sourceId": "pool-greenhouse-oscar",
+   "title": "Senior Specialist, Provider Network Recruitment",
+   "location": "Remote",
+   "remote": true,
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8284044",
+   "postedAt": "2026-10-20T16:33:35-04:00",
+   "firstSeen": "2026-10-20T16:33:35-04:00",
+   "active": false,
+   "salaryMin": 67813,
+   "salaryMax": 89004,
+   "salarySource": "description",
+   "match": {
+    "score": 2,
+    "why": "Her healthcare IT and data-reporting background is a partial match, but the role requires 2+ years of provider contracting or managed-care coordination she doesn't have, and it's a non-technical admin role in listed states only.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-03T19:32:27.622Z",
+   "closedAt": "2026-11-10T19:48:08.496Z"
   },
   {
    "id": "pool-greenhouse-oscar-8289244",
@@ -10785,24 +11024,6 @@
    },
    "salaryCheckedAt": "2026-11-03T19:32:27.116Z",
    "closedAt": "2026-11-06T19:27:57.243Z"
-  },
-  {
-   "id": "pool-greenhouse-oscar-8224080",
-   "sourceId": "pool-greenhouse-oscar",
-   "title": "Staff User Experience Researcher",
-   "location": "New York, New York, United States",
-   "remote": false,
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8224080",
-   "postedAt": "2026-11-04T11:43:51-05:00",
-   "firstSeen": "2026-11-04T19:49:24.285Z",
-   "active": false,
-   "salaryCheckedAt": "2026-11-04T19:49:46.608Z",
-   "match": {
-    "score": 1,
-    "why": "UX research is a different field from her data analyst and BI work; her stakeholder and documentation experience is the only overlap, and she has no user research skills.",
-    "p": "2f29e710"
-   },
-   "closedAt": "2026-11-05T20:00:37.070Z"
   },
   {
    "id": "pool-greenhouse-oscar-8289735",
@@ -11076,26 +11297,6 @@
    "salaryCheckedAt": "2026-11-04T19:49:47.073Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8304611",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Account Executive, Mid Market (Midwest)",
-   "location": "Remote - IN; Remote - MI",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8304611?gh_jid=8304611",
-   "postedAt": "2026-10-20T17:41:00-04:00",
-   "firstSeen": "2026-10-20T17:41:00-04:00",
-   "active": true,
-   "salaryMin": 152000,
-   "salaryMax": 190000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a full-cycle enterprise sales role for IoT hardware in the Midwest, a different field from the candidate's data analyst and engineering background, with no sales track record and no Midwest residence noted.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:27.937Z"
-  },
-  {
    "id": "pool-greenhouse-samsara-8319788",
    "sourceId": "pool-greenhouse-samsara",
    "title": "Account Executive, Mid Market (Midwest)",
@@ -11113,7 +11314,27 @@
     "why": "This is a full-cycle enterprise sales role (Account Executive, Midwest), a different field from the candidate's data analyst and engineering background, with no closing-sales experience in her profile.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.906Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.523Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8304611",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Account Executive, Mid Market (Midwest)",
+   "location": "Remote - IN; Remote - MI",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8304611?gh_jid=8304611",
+   "postedAt": "2026-10-20T17:41:00-04:00",
+   "firstSeen": "2026-10-20T17:41:00-04:00",
+   "active": true,
+   "salaryMin": 152000,
+   "salaryMax": 190000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a full-cycle enterprise sales role for IoT hardware in the Midwest, a different field from the candidate's data analyst and engineering background, with no sales track record and no Midwest residence noted.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:36.524Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304638",
@@ -11133,27 +11354,7 @@
     "why": "This is a full-cycle B2B sales role for a Midwest territory, and the candidate has no closing or quota-carrying sales experience; her background is data analytics and IT engineering.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.951Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8304572",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Account Executive, Mid Market (Northeast)",
-   "location": "Remote - CT; Remote - NH",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8304572?gh_jid=8304572",
-   "postedAt": "2026-10-20T17:30:32-04:00",
-   "firstSeen": "2026-10-20T17:30:32-04:00",
-   "active": true,
-   "salaryMin": 152000,
-   "salaryMax": 190000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a full-cycle B2B sales role requiring closing experience and quota records, which the candidate's data analyst and engineering background does not include; the biggest gap is the lack of any sales experience.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:27.995Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.539Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304559",
@@ -11173,7 +11374,7 @@
     "why": "This is a full-cycle enterprise sales role requiring closing experience and quota records; the candidate is a data analyst with no sales background, so the gap is in the core field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.952Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.536Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304547",
@@ -11193,27 +11394,27 @@
     "why": "This is a full-cycle enterprise sales role requiring closing experience and cold calling; the candidate is a data analyst and engineer with no sales background, a different field entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:27.928Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.533Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8304492",
+   "id": "pool-greenhouse-samsara-8304572",
    "sourceId": "pool-greenhouse-samsara",
-   "title": "Account Executive, Mid Market (Southeast)",
-   "location": "Remote - KY; Remote - TN",
+   "title": "Account Executive, Mid Market (Northeast)",
+   "location": "Remote - CT; Remote - NH",
    "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8304492?gh_jid=8304492",
-   "postedAt": "2026-10-20T17:04:54-04:00",
-   "firstSeen": "2026-10-20T17:04:54-04:00",
+   "url": "https://www.samsara.com/company/careers/roles/8304572?gh_jid=8304572",
+   "postedAt": "2026-10-20T17:30:32-04:00",
+   "firstSeen": "2026-10-20T17:30:32-04:00",
    "active": true,
    "salaryMin": 152000,
    "salaryMax": 190000,
    "salarySource": "feed",
    "match": {
     "score": 1,
-    "why": "This is a full-cycle quota-carrying sales role, a different field from the candidate's data analyst and engineering background, with no closing or cold-calling experience and a required Southeast state residency she does not have.",
+    "why": "This is a full-cycle B2B sales role requiring closing experience and quota records, which the candidate's data analyst and engineering background does not include; the biggest gap is the lack of any sales experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.029Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.625Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304495",
@@ -11233,7 +11434,7 @@
     "why": "This is a full-cycle enterprise sales role requiring closing experience and cold calling in Southeast territories, which is a different field from the candidate's data analyst and engineering background, with no sales experience listed.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.017Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.624Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304486",
@@ -11253,7 +11454,7 @@
     "why": "This is a full-cycle enterprise sales role requiring closing experience and cold calling; the candidate is a data analyst and engineer with no sales background, and the posting is in a different field entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.058Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.699Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304491",
@@ -11273,67 +11474,27 @@
     "why": "This is a full-cycle quota-carrying enterprise sales role in a different field from the candidate's data analyst and engineering background, with no sales experience listed in her profile.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.010Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.632Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8304132",
+   "id": "pool-greenhouse-samsara-8304492",
    "sourceId": "pool-greenhouse-samsara",
-   "title": "Account Executive, Mid Market (TOLA)",
-   "location": "Dallas, Texas, United States; Remote - TX",
+   "title": "Account Executive, Mid Market (Southeast)",
+   "location": "Remote - KY; Remote - TN",
    "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8304132?gh_jid=8304132",
-   "postedAt": "2026-10-20T14:38:26-04:00",
-   "firstSeen": "2026-10-20T14:38:26-04:00",
+   "url": "https://www.samsara.com/company/careers/roles/8304492?gh_jid=8304492",
+   "postedAt": "2026-10-20T17:04:54-04:00",
+   "firstSeen": "2026-10-20T17:04:54-04:00",
    "active": true,
    "salaryMin": 152000,
    "salaryMax": 190000,
    "salarySource": "feed",
    "match": {
     "score": 1,
-    "why": "This is a full-cycle enterprise sales role (AE, cold calling, closing $10k+ deals) in a different field from the candidate's data analyst and engineering background, and it requires sales experience she lacks.",
+    "why": "This is a full-cycle quota-carrying sales role, a different field from the candidate's data analyst and engineering background, with no closing or cold-calling experience and a required Southeast state residency she does not have.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.096Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8304185",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Account Executive, Mid Market (TOLA)",
-   "location": "Remote - MI; Remote - OK",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8304185?gh_jid=8304185",
-   "postedAt": "2026-10-20T15:10:39-04:00",
-   "firstSeen": "2026-10-20T15:10:39-04:00",
-   "active": true,
-   "salaryMin": 152000,
-   "salaryMax": 190000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a full-cycle B2B sales role with a quota-carrying AE focus, a different field from the candidate's data analyst and engineering background, and it also requires residence in specific Midwest and South states she is not in.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.135Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8304217",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Account Executive, Mid Market (TOLA)",
-   "location": "Remote - Houston",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8304217?gh_jid=8304217",
-   "postedAt": "2026-10-20T15:31:39-04:00",
-   "firstSeen": "2026-10-20T15:31:39-04:00",
-   "active": true,
-   "salaryMin": 152000,
-   "salaryMax": 190000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a quota-carrying enterprise sales role requiring closing experience and Texas-area residency, with no overlap with the candidate's data analyst and engineering background or her New York/remote targets.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.104Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.635Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304206",
@@ -11353,7 +11514,67 @@
     "why": "This is a full-cycle B2B sales role with a location limited to southern states, while the candidate's background is data analytics and engineering with no closing or quota experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.120Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.732Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8304185",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Account Executive, Mid Market (TOLA)",
+   "location": "Remote - MI; Remote - OK",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8304185?gh_jid=8304185",
+   "postedAt": "2026-10-20T15:10:39-04:00",
+   "firstSeen": "2026-10-20T15:10:39-04:00",
+   "active": true,
+   "salaryMin": 152000,
+   "salaryMax": 190000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a full-cycle B2B sales role with a quota-carrying AE focus, a different field from the candidate's data analyst and engineering background, and it also requires residence in specific Midwest and South states she is not in.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:36.826Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8304132",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Account Executive, Mid Market (TOLA)",
+   "location": "Dallas, Texas, United States; Remote - TX",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8304132?gh_jid=8304132",
+   "postedAt": "2026-10-20T14:38:26-04:00",
+   "firstSeen": "2026-10-20T14:38:26-04:00",
+   "active": true,
+   "salaryMin": 152000,
+   "salaryMax": 190000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a full-cycle enterprise sales role (AE, cold calling, closing $10k+ deals) in a different field from the candidate's data analyst and engineering background, and it requires sales experience she lacks.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:36.734Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8304217",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Account Executive, Mid Market (TOLA)",
+   "location": "Remote - Houston",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8304217?gh_jid=8304217",
+   "postedAt": "2026-10-20T15:31:39-04:00",
+   "firstSeen": "2026-10-20T15:31:39-04:00",
+   "active": true,
+   "salaryMin": 152000,
+   "salaryMax": 190000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a quota-carrying enterprise sales role requiring closing experience and Texas-area residency, with no overlap with the candidate's data analyst and engineering background or her New York/remote targets.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:36.740Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304430",
@@ -11373,7 +11594,7 @@
     "why": "This is a full-cycle B2B quota-carrying sales role requiring closing experience, and the candidate's background is data analytics and engineering with no sales experience, so it is a different field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.193Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.831Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304442",
@@ -11393,7 +11614,7 @@
     "why": "This is a full-cycle B2B sales role requiring closed-deal experience and quota records, which the candidate's data, BI, and engineering background does not include, and it is limited to Western states outside NYC.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.247Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.823Z"
   },
   {
    "id": "pool-greenhouse-samsara-8304388",
@@ -11413,7 +11634,7 @@
     "why": "This is a full-cycle enterprise sales role requiring 2+ years of closing deals, with no data, analytics, or engineering work; the candidate has no sales experience and the role is outside her field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.148Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.829Z"
   },
   {
    "id": "pool-greenhouse-samsara-8282082",
@@ -11433,7 +11654,7 @@
     "why": "Strong match on cross-system reconciliation and resolving client billing or reporting discrepancies, but the role requires 4+ years in billing, order-to-cash, or contracts, which the profile does not show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.213Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.827Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325426",
@@ -11453,7 +11674,7 @@
     "why": "This is a full-cycle enterprise quota-carrying sales role requiring 5+ years closing deals and C-level selling; the candidate's background is data, BI and engineering with no sales experience, so it is a different field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.229Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.924Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325412",
@@ -11473,7 +11694,7 @@
     "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records; the candidate's background is data analytics and engineering with no sales track record.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.256Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.921Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325419",
@@ -11493,7 +11714,7 @@
     "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records; the candidate's background is data analytics and engineering with no sales history, a different field entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.320Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.923Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325434",
@@ -11513,7 +11734,7 @@
     "why": "This is a full-cycle enterprise quota-carrying sales role requiring 5+ years of closing experience, which is a different field from the candidate's data analyst and engineering background with no sales track record.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.334Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.922Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325433",
@@ -11533,27 +11754,7 @@
     "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records, which the candidate's data analytics and engineering background does not match at all.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.337Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8325429",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Core Enterprise Account Executive TOLA ",
-   "location": "Remote - AR; Remote - OK",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8325429?gh_jid=8325429",
-   "postedAt": "2026-10-26T15:11:46-04:00",
-   "firstSeen": "2026-10-26T15:11:46-04:00",
-   "active": true,
-   "salaryMin": 222400,
-   "salaryMax": 278000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records; the candidate's background is data analytics and engineering with no sales history, so it's a different field.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.442Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.929Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325432",
@@ -11573,7 +11774,27 @@
     "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records; the candidate is a data analyst and engineer with no sales background, so it is a different field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.398Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.018Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8325429",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Core Enterprise Account Executive TOLA ",
+   "location": "Remote - AR; Remote - OK",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8325429?gh_jid=8325429",
+   "postedAt": "2026-10-26T15:11:46-04:00",
+   "firstSeen": "2026-10-26T15:11:46-04:00",
+   "active": true,
+   "salaryMin": 222400,
+   "salaryMax": 278000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records; the candidate's background is data analytics and engineering with no sales history, so it's a different field.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.011Z"
   },
   {
    "id": "pool-greenhouse-samsara-8355866",
@@ -11613,7 +11834,7 @@
     "why": "Strong technical match on APIs, Power BI and training 200+ users, but the posting is a CSM role with no stated account management, sales, or fleet/logistics experience, which is a major gap.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.432Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.017Z"
   },
   {
    "id": "pool-greenhouse-samsara-8306612",
@@ -11633,7 +11854,7 @@
     "why": "Strong match on building a production AI chatbot with RAG and Python, but the role requires customer success, NRR, and usage-data experience the profile lacks, and it excludes NYC Metro.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.494Z"
+   "salaryCheckedAt": "2026-11-10T19:48:36.990Z"
   },
   {
    "id": "pool-greenhouse-samsara-8261007",
@@ -11693,7 +11914,7 @@
     "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records; the candidate is a data analyst with no sales background, so it is a different field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.546Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.082Z"
   },
   {
    "id": "pool-greenhouse-samsara-8306291",
@@ -11713,7 +11934,7 @@
     "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records, which the candidate's data, BI, and engineering background does not match at all.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.536Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.090Z"
   },
   {
    "id": "pool-greenhouse-samsara-8359847",
@@ -11756,6 +11977,26 @@
    "salaryCheckedAt": "2026-11-06T21:50:14.023Z"
   },
   {
+   "id": "pool-greenhouse-samsara-8304710",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Enterprise Implementation Consultant - Public Sector",
+   "location": "Remote - UT",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710",
+   "postedAt": "2026-10-26T16:11:51-04:00",
+   "firstSeen": "2026-10-26T16:11:51-04:00",
+   "active": true,
+   "salaryMin": 88980,
+   "salaryMax": 119636,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Her client-facing work (training, stakeholder partnering, client data conversions) is a partial match, but the role requires 3+ years in senior customer success or account management, which she lacks, and New York is excluded from the remot",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.106Z"
+  },
+  {
    "id": "pool-greenhouse-samsara-8353150",
    "sourceId": "pool-greenhouse-samsara",
    "title": "Enterprise Sales Engineer - Public Sector - West",
@@ -11793,7 +12034,7 @@
     "why": "Strength: Python, REST API, and automation experience overlaps with the open-API scripting. Biggest gap: this is a hardware and enterprise sales role with no sales or IoT background, and it excludes NYC.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.526Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.116Z"
   },
   {
    "id": "pool-greenhouse-samsara-8359531",
@@ -11913,7 +12154,7 @@
     "why": "Strength: she owned an AI support chatbot end to end and gathered requirements from stakeholders. Biggest gap: the role is product management leadership with shipped commercial products and GTM instincts, and her profile shows no PM experie",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.638Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.124Z"
   },
   {
    "id": "pool-greenhouse-samsara-8302148",
@@ -11993,7 +12234,7 @@
     "why": "This is a Customer Success people-management role requiring 5+ years in CS and 2+ years managing CSMs, which the candidate lacks; her background is data analytics and engineering with no people leadership.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.650Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.185Z"
   },
   {
    "id": "pool-greenhouse-samsara-8359221",
@@ -12093,27 +12334,7 @@
     "why": "This is a People Operations role; the candidate's analytics and BI work doesn't match it, and she lacks the required 3+ years of People Ops experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.823Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8315136",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Principal Product Manager",
-   "location": "Remote - US",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8315136?gh_jid=8315136",
-   "postedAt": "2026-10-23T10:52:11-04:00",
-   "firstSeen": "2026-10-23T10:52:11-04:00",
-   "active": true,
-   "salaryMin": 137200,
-   "salaryMax": 245000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a Principal Product Manager role requiring a record of shipping revenue-generating products and commercial leadership, a different field from the candidate's data analyst and engineering background.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.863Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.187Z"
   },
   {
    "id": "pool-greenhouse-samsara-8233947",
@@ -12133,27 +12354,27 @@
     "why": "This is a product management role requiring 0-to-1 B2B SaaS product-building and business-case experience, which the candidate, a data analyst and engineer, lacks entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.855Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.218Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8325481",
+   "id": "pool-greenhouse-samsara-8315136",
    "sourceId": "pool-greenhouse-samsara",
-   "title": "Public Sector Major Account Executive",
-   "location": "Remote - AZ; Remote - CA; Remote - NY; Remote - TX",
+   "title": "Principal Product Manager",
+   "location": "Remote - US",
    "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8325481?gh_jid=8325481",
-   "postedAt": "2026-10-26T15:26:36-04:00",
-   "firstSeen": "2026-10-26T15:26:36-04:00",
+   "url": "https://www.samsara.com/company/careers/roles/8315136?gh_jid=8315136",
+   "postedAt": "2026-10-23T10:52:11-04:00",
+   "firstSeen": "2026-10-23T10:52:11-04:00",
    "active": true,
-   "salaryMin": 350000,
-   "salaryMax": 350000,
+   "salaryMin": 137200,
+   "salaryMax": 245000,
    "salarySource": "feed",
    "match": {
     "score": 1,
-    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing SLED/government sales with a quota track record; the candidate is a data analyst with no sales experience, so the gap is in the core function.",
+    "why": "This is a Principal Product Manager role requiring a record of shipping revenue-generating products and commercial leadership, a different field from the candidate's data analyst and engineering background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.863Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.208Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325483",
@@ -12173,7 +12394,27 @@
     "why": "This is a quota-carrying enterprise sales role requiring 5+ years of closing SLED/government sales, which is a different field from the candidate's data analyst and engineering background with no sales experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.904Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.224Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8325481",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Public Sector Major Account Executive",
+   "location": "Remote - AZ; Remote - CA; Remote - NY; Remote - TX",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8325481?gh_jid=8325481",
+   "postedAt": "2026-10-26T15:26:36-04:00",
+   "firstSeen": "2026-10-26T15:26:36-04:00",
+   "active": true,
+   "salaryMin": 350000,
+   "salaryMax": 350000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing SLED/government sales with a quota track record; the candidate is a data analyst with no sales experience, so the gap is in the core function.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.282Z"
   },
   {
    "id": "pool-greenhouse-samsara-8353283",
@@ -12213,7 +12454,7 @@
     "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and $500k+ deals; the candidate is a data analyst and engineer with no sales background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.930Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.281Z"
   },
   {
    "id": "pool-greenhouse-samsara-8332757",
@@ -12236,86 +12477,6 @@
    "salaryCheckedAt": "2026-11-05T20:01:19.921Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8281491",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Senior AI Data & Analytics Engineer II",
-   "location": "Remote - MA",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8281491?gh_jid=8281491",
-   "postedAt": "2026-10-14T10:43:24-04:00",
-   "firstSeen": "2026-10-14T10:43:24-04:00",
-   "active": true,
-   "salaryMin": 137445,
-   "salaryMax": 231000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong Oracle SQL, BI, and RAG/chatbot experience matches, but the role requires 8+ years, expert Python, dbt, and Databricks, none of which the profile shows.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.988Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8302004",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Senior AI Data & Analytics Engineer II",
-   "location": "Remote - Seattle",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8302004?gh_jid=8302004",
-   "postedAt": "2026-10-19T16:55:24-04:00",
-   "firstSeen": "2026-10-19T16:55:24-04:00",
-   "active": true,
-   "salaryMin": 137445,
-   "salaryMax": 231000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong on Power BI, SQL, and an AI chatbot with RAG, but the role asks for 8+ years, expert Python, dbt, and Databricks, which the candidate lacks, and it is a senior lead role.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.957Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8281490",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Senior AI Data & Analytics Engineer II",
-   "location": "Remote - Chicago",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8281490?gh_jid=8281490",
-   "postedAt": "2026-10-14T10:42:51-04:00",
-   "firstSeen": "2026-10-14T10:42:51-04:00",
-   "active": true,
-   "salaryMin": 137445,
-   "salaryMax": 231000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong SQL and Power BI/DAX plus a built and owned LLM chatbot with a vector DB are real matches, but the role asks for 8+ years, expert Python, dbt, and Databricks, none of which the profile supports.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:29.006Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8281489",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Senior AI Data & Analytics Engineer II",
-   "location": "Remote - Austin",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8281489?gh_jid=8281489",
-   "postedAt": "2026-10-14T10:42:13-04:00",
-   "firstSeen": "2026-10-14T10:42:13-04:00",
-   "active": true,
-   "salaryMin": 137445,
-   "salaryMax": 231000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong Power BI, Oracle SQL, and RAG/chatbot experience matches, but the role requires 8+ years, expert Python, dbt, and Databricks, none of which the profile shows.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.945Z"
-  },
-  {
    "id": "pool-greenhouse-samsara-8281483",
    "sourceId": "pool-greenhouse-samsara",
    "title": "Senior AI Data & Analytics Engineer II",
@@ -12333,27 +12494,7 @@
     "why": "Strong on SQL, Power BI/DAX, and building AI tools, but the role requires 8+ years, dbt, Databricks, expert Python, and senior technical leadership, which are major gaps.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:29.044Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8281482",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Senior AI Data & Analytics Engineer II",
-   "location": "Remote - Dallas",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8281482?gh_jid=8281482",
-   "postedAt": "2026-10-14T10:41:08-04:00",
-   "firstSeen": "2026-10-14T10:41:08-04:00",
-   "active": true,
-   "salaryMin": 137445,
-   "salaryMax": 231000,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Strong Power BI, SQL, and RAG/AI-tool experience matches, but the posting requires 8+ years, expert Python, dbt, and Databricks, and marketing or GTM experience the candidate lacks.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:29.059Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.309Z"
   },
   {
    "id": "pool-greenhouse-samsara-8281479",
@@ -12373,7 +12514,107 @@
     "why": "Strong Oracle SQL and an AI chatbot with RAG and vectorization are real matches, but the role asks for 8+ years, expert Python, dbt, and Databricks, none of which the profile supports.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:28.970Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.314Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8302004",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Senior AI Data & Analytics Engineer II",
+   "location": "Remote - Seattle",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8302004?gh_jid=8302004",
+   "postedAt": "2026-10-19T16:55:24-04:00",
+   "firstSeen": "2026-10-19T16:55:24-04:00",
+   "active": true,
+   "salaryMin": 137445,
+   "salaryMax": 231000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong on Power BI, SQL, and an AI chatbot with RAG, but the role asks for 8+ years, expert Python, dbt, and Databricks, which the candidate lacks, and it is a senior lead role.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.329Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8281491",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Senior AI Data & Analytics Engineer II",
+   "location": "Remote - MA",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8281491?gh_jid=8281491",
+   "postedAt": "2026-10-14T10:43:24-04:00",
+   "firstSeen": "2026-10-14T10:43:24-04:00",
+   "active": true,
+   "salaryMin": 137445,
+   "salaryMax": 231000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong Oracle SQL, BI, and RAG/chatbot experience matches, but the role requires 8+ years, expert Python, dbt, and Databricks, none of which the profile shows.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.380Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8281490",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Senior AI Data & Analytics Engineer II",
+   "location": "Remote - Chicago",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8281490?gh_jid=8281490",
+   "postedAt": "2026-10-14T10:42:51-04:00",
+   "firstSeen": "2026-10-14T10:42:51-04:00",
+   "active": true,
+   "salaryMin": 137445,
+   "salaryMax": 231000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong SQL and Power BI/DAX plus a built and owned LLM chatbot with a vector DB are real matches, but the role asks for 8+ years, expert Python, dbt, and Databricks, none of which the profile supports.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.396Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8281489",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Senior AI Data & Analytics Engineer II",
+   "location": "Remote - Austin",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8281489?gh_jid=8281489",
+   "postedAt": "2026-10-14T10:42:13-04:00",
+   "firstSeen": "2026-10-14T10:42:13-04:00",
+   "active": true,
+   "salaryMin": 137445,
+   "salaryMax": 231000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong Power BI, Oracle SQL, and RAG/chatbot experience matches, but the role requires 8+ years, expert Python, dbt, and Databricks, none of which the profile shows.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.411Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8281482",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Senior AI Data & Analytics Engineer II",
+   "location": "Remote - Dallas",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8281482?gh_jid=8281482",
+   "postedAt": "2026-10-14T10:41:08-04:00",
+   "firstSeen": "2026-10-14T10:41:08-04:00",
+   "active": true,
+   "salaryMin": 137445,
+   "salaryMax": 231000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong Power BI, SQL, and RAG/AI-tool experience matches, but the posting requires 8+ years, expert Python, dbt, and Databricks, and marketing or GTM experience the candidate lacks.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.424Z"
   },
   {
    "id": "pool-greenhouse-samsara-8360112",
@@ -12453,7 +12694,7 @@
     "why": "This is an instructional design role, a different field from the candidate's data and BI work; her training and documentation experience is a small overlap, and she lacks the required learning design background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:29.052Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.538Z"
   },
   {
    "id": "pool-greenhouse-samsara-8358654",
@@ -12576,26 +12817,6 @@
    "salaryCheckedAt": "2026-11-07T17:45:48.380Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8325409",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Specialist Seller, Enterprise Core (Tracking Label)",
-   "location": "Remote - CA; Remote - NC",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8325409?gh_jid=8325409",
-   "postedAt": "2026-10-26T15:08:25-04:00",
-   "firstSeen": "2026-10-26T15:08:25-04:00",
-   "active": true,
-   "salaryMin": 222400,
-   "salaryMax": 278000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a quota-carrying enterprise sales role requiring 3+ years of full-cycle sales and $250K+ deals; the candidate is a data analyst and engineer with no sales experience, so it is a different field.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:29.140Z"
-  },
-  {
    "id": "pool-greenhouse-samsara-8325407",
    "sourceId": "pool-greenhouse-samsara",
    "title": "Specialist Seller, Enterprise Core (Tracking Label)",
@@ -12613,7 +12834,27 @@
     "why": "This is a quota-carrying enterprise sales role requiring 3+ years of full-cycle SaaS selling and $250K+ ARR deals; the candidate is a data analyst and engineer with no sales background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:29.108Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.478Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8325409",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Specialist Seller, Enterprise Core (Tracking Label)",
+   "location": "Remote - CA; Remote - NC",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8325409?gh_jid=8325409",
+   "postedAt": "2026-10-26T15:08:25-04:00",
+   "firstSeen": "2026-10-26T15:08:25-04:00",
+   "active": true,
+   "salaryMin": 222400,
+   "salaryMax": 278000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a quota-carrying enterprise sales role requiring 3+ years of full-cycle sales and $250K+ deals; the candidate is a data analyst and engineer with no sales experience, so it is a different field.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-10T19:48:37.482Z"
   },
   {
    "id": "pool-greenhouse-samsara-8300580",
@@ -12633,7 +12874,7 @@
     "why": "Strong match on data and dashboards (Power BI, SLA metrics, cross-team work with 5 IT teams), but the posting asks for 8+ years in strategy/ops and post-sale customer functions, which the candidate lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:29.163Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.515Z"
   },
   {
    "id": "pool-greenhouse-samsara-8289005",
@@ -12733,7 +12974,7 @@
     "why": "This is a People Partner HR role requiring 6+ years of people partnering, a different field from the candidate's data and engineering background, with no matching data or analytics duties.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:29.201Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.532Z"
   },
   {
    "id": "pool-greenhouse-samsara-7985175",
@@ -12790,7 +13031,7 @@
     "why": "Embedded firmware role requiring 8+ years of C, RTOS, and bring-up on hardware; the candidate is a data analyst and data engineer with no firmware experience, a far different field.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:29.233Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.575Z"
   },
   {
    "id": "pool-greenhouse-samsara-8358690",
@@ -12870,7 +13111,7 @@
     "why": "Strength: hands-on Oracle, Power BI, and client-facing data conversion work. Biggest gap: the posting requires 7+ years in technical account management or customer success, and the candidate has neither that tenure nor a TAM role; the role ",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:29.299Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.573Z"
   },
   {
    "id": "pool-greenhouse-samsara-8359800",
@@ -12892,27 +13133,6 @@
    },
    "salaryCheckedAt": "2026-11-06T19:28:12.857Z",
    "closedAt": "2026-11-09T23:11:50.512Z"
-  },
-  {
-   "id": "pool-greenhouse-samsara-8304710",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Enterprise Implementation Consultant - Public Sector",
-   "location": "Remote - GA",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710",
-   "postedAt": "2026-10-26T16:11:51-04:00",
-   "firstSeen": "2026-10-26T16:11:51-04:00",
-   "active": false,
-   "salaryMin": 88980,
-   "salaryMax": 119636,
-   "salarySource": "feed",
-   "match": {
-    "score": 2,
-    "why": "Her client-facing work (training, stakeholder partnering, client data conversions) is a partial match, but the role requires 3+ years in senior customer success or account management, which she lacks, and New York is excluded from the remot",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-03T19:32:28.545Z",
-   "closedAt": "2026-11-06T21:49:51.299Z"
   },
   {
    "id": "pool-greenhouse-samsara-8305848",
@@ -13512,7 +13732,7 @@
     "why": "This is a hospitality bartending role in a different field from the candidate's data, reporting and engineering background, with no overlap in required skills.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:30.962Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.928Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5012871101",
@@ -13546,7 +13766,7 @@
     "why": "This is a hospitality front-desk host role requiring 3+ years of restaurant reception experience, OpenTable, and in-person duties; it is a different field from the candidate's data analytics and engineering background.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:30.960Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.811Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5008090101",
@@ -13563,7 +13783,7 @@
     "why": "This is a kitchen dishwasher/porter role in hospitality, a different field from the candidate's data analytics and software background, with no overlap in required skills.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.023Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.809Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5010143101",
@@ -13580,7 +13800,7 @@
     "why": "This is a hospitality kitchen dishwasher role, a different field from the candidate's data analytics and Oracle/Power BI background, with no overlapping technical skills required.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.030Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.804Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5009430101",
@@ -13597,7 +13817,27 @@
     "why": "Dishwasher/porter kitchen role is a different field entirely from data analytics and engineering; the only overlap is the candidate's stated NYC relocation, with no data or tech skills required.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.028Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.806Z"
+  },
+  {
+   "id": "pool-greenhouse-sohohouseco-5032734101",
+   "sourceId": "pool-greenhouse-sohohouseco",
+   "title": "Executive Assistant/Project Manager",
+   "location": "New York Support Office, 55 Water Street, Brooklyn, NY 11201",
+   "remote": false,
+   "url": "https://job-boards.eu.greenhouse.io/sohohouseco/jobs/5032734101",
+   "postedAt": "2026-11-10T11:59:29-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 125000,
+   "salaryMax": 125000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-11-10T19:48:37.904Z",
+   "match": {
+    "score": 1,
+    "why": "This is an executive assistant and hospitality project management role, a different field from the candidate's data analyst and engineering background, with no overlap in required skills like SQL, BI, or data engineering.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "pool-greenhouse-sohohouseco-5009124101",
@@ -13651,7 +13891,7 @@
     "why": "This is a professional pastry kitchen role requiring 3+ years of hands-on baking and plating experience; the candidate's background is in data analytics, software and IT, with no pastry experience.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.151Z"
+   "salaryCheckedAt": "2026-11-10T19:48:38.077Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5009439101",
@@ -13668,7 +13908,7 @@
     "why": "A hands-on pastry kitchen role in a different field from the candidate's data, BI, and engineering background; her only overlap is a vague 'recipes' and 'documentation' thread, and it asks for 3+ years of pastry experience she lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.156Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.921Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5016526101",
@@ -13702,7 +13942,7 @@
     "why": "A part-time food and beverage receiving job with physical lifting duties, far outside the candidate's data analyst, BI, and engineering background; the only overlap is inventory-type record-keeping.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.157Z"
+   "salaryCheckedAt": "2026-11-10T19:48:37.914Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5006513101",
@@ -13719,7 +13959,7 @@
     "why": "This is a hands-on food and beverage receiving and stockroom job, a different field from the candidate's data, Oracle, and BI background, with no analytics or technical duties.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.162Z"
+   "salaryCheckedAt": "2026-11-10T19:48:38.000Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5016520101",
@@ -13753,7 +13993,7 @@
     "why": "This is a restaurant server role, a different field from the candidate's data analyst and engineering background; the only overlap is POS entry, with no data or analytics work required.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:31.166Z"
+   "salaryCheckedAt": "2026-11-10T19:48:38.020Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5010273101",
@@ -13844,6 +14084,24 @@
    "match": {
     "score": 2,
     "why": "Her Python automation and OCI work overlap a little, but the role requires deep GKE/Kubernetes, Terraform, and CKA or GCP Architect credentials she does not have, and it is a DevOps role, not analytics.",
+    "p": "2f29e710"
+   }
+  },
+  {
+   "id": "pool-ashby-telus-digital-9e3045fc-6133-4131-979f-c8340b8a391d",
+   "sourceId": "pool-ashby-telus-digital",
+   "title": "Project Manager (Bilingual)",
+   "location": "Montreal, Québec; Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/telus-digital/9e3045fc-6133-4131-979f-c8340b8a391d",
+   "postedAt": "2026-11-10T15:59:03.510+00:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryCurrency": "CAD",
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Strong client-facing reporting and stakeholder experience, but the role requires proven project management, change-order and risk handling, and French fluency, none of which the profile states.",
     "p": "2f29e710"
    }
   },
@@ -14025,6 +14283,25 @@
    }
   },
   {
+   "id": "pool-ashby-telus-digital-214a8247-406b-4b30-a9ae-532fe755c30a",
+   "sourceId": "pool-ashby-telus-digital",
+   "title": "Roboticist (Embodied AI, Machine Learning, Computer Vision) ",
+   "location": "Remote, US",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/telus-digital/214a8247-406b-4b30-a9ae-532fe755c30a",
+   "postedAt": "2026-11-10T17:48:02.627+00:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 128000,
+   "salaryMax": 160000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "Robotics and computer vision is a different field from the candidate's data analytics and BI work; her Python and AI-tool exposure is a weak match, and she has no CV, sensor calibration, or PyTorch experience.",
+    "p": "2f29e710"
+   }
+  },
+  {
    "id": "pool-ashby-telus-digital-9b5b35ad-6037-4bfe-98ea-be263b413acb",
    "sourceId": "pool-ashby-telus-digital",
    "title": "PowerBuilder Developer",
@@ -14143,7 +14420,7 @@
     "why": "This is a packaging art direction role requiring 5+ years of design work and people management; the candidate is a data analyst and engineer with no design or creative background, a different field entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:32.847Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.322Z"
   },
   {
    "id": "pool-greenhouse-thrivemarket-4456732009",
@@ -14163,7 +14440,7 @@
     "why": "Strong SQL and Power BI analytics overlap, but the role needs demand planning leadership, hands-on Anaplan, S&OP experience, and team leadership at director level, none of which the profile shows.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:32.879Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.226Z"
   },
   {
    "id": "pool-greenhouse-thrivemarket-4463490009",
@@ -14183,7 +14460,7 @@
     "why": "This is a payroll and benefits supervisor role requiring 7+ years of payroll experience, which is a different field from the candidate's data analyst and engineering background, with no payroll experience listed in her profile.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:32.848Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.264Z"
   },
   {
    "id": "pool-greenhouse-thrivemarket-4444725009",
@@ -14203,7 +14480,7 @@
     "why": "Strength: has SQL and Power BI experience, a preferred qualification. Biggest gap: this is an accounting role needing GAAP, month-end close, and reconciliation experience, which the candidate lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:32.850Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.219Z"
   },
   {
    "id": "pool-greenhouse-thrivemarket-4469298009",
@@ -14223,7 +14500,7 @@
     "why": "Strong SQL, Power BI, and dashboard experience matches, but the role asks for 7+ years, an MBA, dbt, lifecycle/CRM marketing experience, and A/B testing, none of which the profile shows.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:32.904Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.285Z"
   },
   {
    "id": "pool-greenhouse-thrivemarket-4425026009",
@@ -14260,7 +14537,7 @@
     "why": "This is a senior consumer product management role requiring 5+ years of PM experience and owning a high-traffic consumer surface; the candidate's background is in data analytics and internal IT systems, with no product management history.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:32.917Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.282Z"
   },
   {
    "id": "pool-greenhouse-thrivemarket-4458409009",
@@ -14280,7 +14557,7 @@
     "why": "Her IT operations automation and monitoring-adjacent work is a partial match, but the role requires hands-on Kubernetes/EKS, Terraform, and AWS IAM, none of which her profile states.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:32.910Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.293Z"
   },
   {
    "id": "pool-greenhouse-via-8888054002",
@@ -14461,6 +14738,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-05T20:01:21.366Z"
+  },
+  {
+   "id": "pool-greenhouse-via-8936661002",
+   "sourceId": "pool-greenhouse-via",
+   "title": "Regulatory Operations Associate",
+   "location": "New York City",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/via/jobs/8936661002",
+   "postedAt": "2026-11-10T13:42:53-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 65000,
+   "salaryMax": 85000,
+   "salarySource": "description",
+   "salaryCheckedAt": "2026-11-10T19:48:39.454Z",
+   "match": {
+    "score": 2,
+    "why": "Strong overlap in data verification, audit-ready records, and stakeholder documentation, but the role is transit regulatory compliance coordination with no regulatory, FTA, or ADA experience in the profile.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "pool-greenhouse-via-8932111002",
@@ -14655,7 +14952,7 @@
    "url": "https://job-boards.greenhouse.io/wildalaskancompany/jobs/6226547004",
    "postedAt": "2026-10-16T10:07:54-04:00",
    "firstSeen": "2026-10-16T10:07:54-04:00",
-   "active": true,
+   "active": false,
    "salaryMin": 180000,
    "salaryMax": 200000,
    "salarySource": "description",
@@ -14664,7 +14961,8 @@
     "why": "Strong data and AI-tool overlap, but the role requires extensive product management and DTC commerce leadership, which the profile doesn't show, and it is a staff-level PM role.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:33.189Z"
+   "salaryCheckedAt": "2026-11-03T19:32:33.189Z",
+   "closedAt": "2026-11-10T19:48:08.496Z"
   },
   {
    "id": "pool-greenhouse-zocdoc-8324963",
@@ -14684,7 +14982,7 @@
     "why": "This is an enterprise sales role requiring 7-10+ years of quota-carrying health system sales; the candidate's background is data analytics and engineering with no sales experience, a different field entirely.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:33.352Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.645Z"
   },
   {
    "id": "pool-greenhouse-zocdoc-8346400",
@@ -14721,7 +15019,7 @@
     "why": "Strengths include stakeholder communication and healthcare operations, but the role is phone-first outbound sales and account management, with no sales experience in the profile.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:33.349Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.686Z"
   },
   {
    "id": "pool-greenhouse-zocdoc-8335345",
@@ -14801,7 +15099,7 @@
     "why": "Strong technical and analytics overlap (APIs, AI tools, measurement), but the role needs 10+ years of lifecycle or growth marketing and 5+ years of people management, and the candidate has neither.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:33.316Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.648Z"
   },
   {
    "id": "pool-greenhouse-zocdoc-8082077",
@@ -14861,7 +15159,7 @@
     "why": "Strength: healthcare-adjacent client work at Oracle Health. Biggest gap: this is a sales role, and the profile shows no sales experience or pipeline track record.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:33.364Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.689Z"
   },
   {
    "id": "pool-greenhouse-zocdoc-8353833",
@@ -14882,6 +15180,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-05T20:01:21.565Z"
+  },
+  {
+   "id": "pool-greenhouse-zocdoc-8371246",
+   "sourceId": "pool-greenhouse-zocdoc",
+   "title": "Senior Manager, Strategic Finance & Investor Relations ",
+   "location": "New York, NY",
+   "remote": false,
+   "url": "https://job-boards.greenhouse.io/zocdoc/jobs/8371246",
+   "postedAt": "2026-11-10T10:12:33-05:00",
+   "firstSeen": "2026-11-10T19:48:08.496Z",
+   "active": true,
+   "salaryMin": 175000,
+   "salaryMax": 235000,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-11-10T19:48:39.652Z",
+   "match": {
+    "score": 1,
+    "why": "This is a finance and investor relations role needing 8+ years, investment banking, and cap-table experience; the candidate's data analytics and engineering background has little overlap, and her only strength here is reporting and dashboar",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "pool-greenhouse-zocdoc-8360585",
@@ -14921,7 +15239,7 @@
     "why": "Her Python automation and IT operations work are a partial match, but the posting requires SRE, Kubernetes, AWS, Terraform, observability/SLO and 24/7 on-call experience, which her profile doesn't show.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:33.377Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.750Z"
   },
   {
    "id": "pool-greenhouse-zocdoc-8265706",
@@ -14941,7 +15259,7 @@
     "why": "Her Python, REST API, and Oracle engineering work is a partial match, but the role needs C#/.NET and AWS backend experience and staff-level ownership, which she lacks.",
     "p": "2f29e710"
    },
-   "salaryCheckedAt": "2026-11-03T19:32:33.448Z"
+   "salaryCheckedAt": "2026-11-10T19:48:39.751Z"
   }
  ]
 }
