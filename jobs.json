@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:58:03.462Z",
+ "generatedAt": "2026-11-24T01:15:17.830Z",
  "sources": [
   {
    "id": "duolingo",
@@ -9,7 +9,7 @@
    "url": "https://careers.duolingo.com/",
    "color": "#58A700",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 9
   },
@@ -21,7 +21,7 @@
    "url": "https://www.playlist.com/careers",
    "color": "#0A7EA4",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "error",
    "error": "HTTP 404 from boards-api.greenhouse.io",
    "count": 0
@@ -34,7 +34,7 @@
    "url": "https://jobs.ashbyhq.com/watershed",
    "color": "#1B5E8C",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 3
   },
@@ -47,7 +47,7 @@
    "color": "#B8860B",
    "fg": "#FFFFFF",
    "note": "Workday feed, untested until the first run",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "error",
    "error": "HTTP 429 from rockymountain.wd1.myworkdayjobs.com",
    "count": 3
@@ -61,7 +61,7 @@
    "color": "#E8590C",
    "fg": "#FFFFFF",
    "note": "Jobs are on separate search pages with no public feed found",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "link",
    "count": 0
   },
@@ -74,7 +74,7 @@
    "color": "#2B2B2B",
    "fg": "#FFFFFF",
    "note": "No feed found yet. Try scripts/probe.mjs to look for one",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 4
   },
@@ -87,7 +87,7 @@
    "color": "#E85B46",
    "fg": "#FFFFFF",
    "note": "Roles load by script, no feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 4
   },
@@ -100,7 +100,7 @@
    "color": "#111111",
    "fg": "#FFFFFF",
    "note": "No feed found yet",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 35
   },
@@ -113,7 +113,7 @@
    "color": "#C9A100",
    "fg": "#111111",
    "note": "No feed found yet. Try scripts/probe.mjs",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -126,7 +126,7 @@
    "color": "#2E7D32",
    "fg": "#FFFFFF",
    "note": "Phenom careers site with no public feed found. Link only.",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "link",
    "count": 0
   },
@@ -139,7 +139,7 @@
    "fg": "#FFFFFF",
    "note": "Hiring runs through TriNet Hire. No public feed, and no openings at last check.",
    "url": "https://app.trinethire.com/companies/33617-green-river-data-group-inc/jobs",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "link",
    "count": 0
   },
@@ -152,7 +152,7 @@
    "color": "#6D4AFF",
    "fg": "#FFFFFF",
    "note": "Tech job board for New York. No public feed, so search it directly",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "link",
    "count": 0
   },
@@ -165,7 +165,7 @@
    "color": "#D6336C",
    "fg": "#FFFFFF",
    "note": "Startup job board. No public feed, so search it directly",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "link",
    "count": 0
   },
@@ -178,7 +178,7 @@
    "color": "#2F9E44",
    "fg": "#FFFFFF",
    "note": "Mission-driven tech jobs. No public feed, so search it directly",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "link",
    "count": 0
   },
@@ -190,7 +190,7 @@
    "url": "https://www.sustainablebusiness.com/greendreamjobs/jobs/",
    "color": "#2E7D5B",
    "fg": "#FFFFFF",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -204,7 +204,7 @@
    "color": "#2d3d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -218,7 +218,7 @@
    "color": "#64762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -232,7 +232,7 @@
    "color": "#762d32",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -246,7 +246,21 @@
    "color": "#76312d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
+   "status": "live",
+   "count": 1
+  },
+  {
+   "id": "pool-ashby-ad-hoc",
+   "name": "Ad Hoc",
+   "kind": "company",
+   "pool": true,
+   "method": "ashby",
+   "url": "https://jobs.ashbyhq.com/ad-hoc",
+   "color": "#2d762e",
+   "fg": "#FFFFFF",
+   "note": "Found by company discovery",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -260,7 +274,7 @@
    "color": "#2d3876",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -274,7 +288,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -288,7 +302,7 @@
    "color": "#352d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 3
   },
@@ -302,7 +316,7 @@
    "color": "#2d3576",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -316,7 +330,7 @@
    "color": "#2d7650",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -330,7 +344,7 @@
    "color": "#762d2e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -344,7 +358,7 @@
    "color": "#762d6e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -358,7 +372,7 @@
    "color": "#5d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -372,7 +386,7 @@
    "color": "#76332d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 7
   },
@@ -386,7 +400,7 @@
    "color": "#2d7669",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -400,7 +414,7 @@
    "color": "#76382d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -414,7 +428,7 @@
    "color": "#2d3276",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -428,7 +442,7 @@
    "color": "#762d59",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 3
   },
@@ -442,7 +456,7 @@
    "color": "#762d54",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 5
   },
@@ -456,7 +470,7 @@
    "color": "#432d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 4
   },
@@ -470,7 +484,7 @@
    "color": "#766d2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 5
   },
@@ -484,7 +498,7 @@
    "color": "#712d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -498,7 +512,7 @@
    "color": "#3e762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -512,7 +526,7 @@
    "color": "#2d763e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -526,7 +540,7 @@
    "color": "#762d5b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 7
   },
@@ -540,7 +554,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 31
   },
@@ -554,7 +568,7 @@
    "color": "#35762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 5
   },
@@ -568,7 +582,7 @@
    "color": "#2d7649",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -582,7 +596,7 @@
    "color": "#3d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 4
   },
@@ -596,7 +610,7 @@
    "color": "#69762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -610,7 +624,7 @@
    "color": "#763c2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -624,7 +638,7 @@
    "color": "#60762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -638,7 +652,7 @@
    "color": "#2d5976",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -652,7 +666,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 10
   },
@@ -666,7 +680,7 @@
    "color": "#762d60",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -680,7 +694,7 @@
    "color": "#2d7659",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -694,7 +708,7 @@
    "color": "#2d7645",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 5
   },
@@ -708,7 +722,7 @@
    "color": "#2d7649",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -722,7 +736,7 @@
    "color": "#5b2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 5
   },
@@ -736,7 +750,7 @@
    "color": "#76712d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -750,7 +764,7 @@
    "color": "#442d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -764,7 +778,7 @@
    "color": "#763c2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -778,7 +792,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "error",
    "error": "HTTP 404 from api.ashbyhq.com",
    "count": 0
@@ -793,7 +807,7 @@
    "color": "#402d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 4
   },
@@ -807,7 +821,7 @@
    "color": "#2d7638",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -821,7 +835,7 @@
    "color": "#2d766d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -835,7 +849,7 @@
    "color": "#762d3e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 3
   },
@@ -849,7 +863,7 @@
    "color": "#2d764d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -863,7 +877,7 @@
    "color": "#766f2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -877,7 +891,7 @@
    "color": "#2d7673",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -891,7 +905,7 @@
    "color": "#372d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -905,7 +919,7 @@
    "color": "#762d6b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -919,7 +933,7 @@
    "color": "#2d7642",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -933,7 +947,7 @@
    "color": "#762d62",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -947,7 +961,7 @@
    "color": "#3e762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -961,7 +975,7 @@
    "color": "#2d4576",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -975,7 +989,7 @@
    "color": "#2d7658",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -989,7 +1003,7 @@
    "color": "#342d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -1003,7 +1017,7 @@
    "color": "#35762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1017,7 +1031,7 @@
    "color": "#762d6b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -1031,7 +1045,7 @@
    "color": "#2d7644",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1045,7 +1059,7 @@
    "color": "#762d59",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1059,7 +1073,7 @@
    "color": "#3a2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1073,7 +1087,7 @@
    "color": "#2d7664",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1087,7 +1101,7 @@
    "color": "#2d5376",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1101,7 +1115,7 @@
    "color": "#2d6276",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 8
   },
@@ -1115,7 +1129,7 @@
    "color": "#38762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1129,7 +1143,7 @@
    "color": "#372d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 24
   },
@@ -1143,7 +1157,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1157,7 +1171,7 @@
    "color": "#762d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 3
   },
@@ -1171,7 +1185,7 @@
    "color": "#2d3176",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1185,7 +1199,7 @@
    "color": "#2d7671",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1199,7 +1213,7 @@
    "color": "#2e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1213,7 +1227,7 @@
    "color": "#762d44",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1227,7 +1241,7 @@
    "color": "#742d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 5
   },
@@ -1241,9 +1255,9 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
-   "count": 51
+   "count": 52
   },
   {
    "id": "pool-greenhouse-glossgenius",
@@ -1255,7 +1269,7 @@
    "color": "#2d764b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "error",
    "error": "HTTP 404 from boards-api.greenhouse.io",
    "count": 0
@@ -1270,7 +1284,7 @@
    "color": "#2d5a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1284,7 +1298,7 @@
    "color": "#55762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 24
   },
@@ -1298,7 +1312,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 13
   },
@@ -1312,7 +1326,7 @@
    "color": "#2d763a",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1326,7 +1340,7 @@
    "color": "#76642d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 2
   },
@@ -1340,7 +1354,7 @@
    "color": "#762d4e",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1354,7 +1368,7 @@
    "color": "#5d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 18
   },
@@ -1368,7 +1382,7 @@
    "color": "#372d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 30
   },
@@ -1382,7 +1396,7 @@
    "color": "#4e2d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 13
   },
@@ -1396,7 +1410,7 @@
    "color": "#6d762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 55
   },
@@ -1410,7 +1424,7 @@
    "color": "#322d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 3
   },
@@ -1424,7 +1438,7 @@
    "color": "#76762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 64
   },
@@ -1438,7 +1452,7 @@
    "color": "#76482d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1452,7 +1466,7 @@
    "color": "#58762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 11
   },
@@ -1466,7 +1480,7 @@
    "color": "#552d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1480,7 +1494,7 @@
    "color": "#2d7642",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "error",
    "error": "HTTP 404 from boards-api.greenhouse.io",
    "count": 0
@@ -1495,7 +1509,7 @@
    "color": "#76312d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1509,7 +1523,7 @@
    "color": "#2d6876",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1523,7 +1537,7 @@
    "color": "#2d4a76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1537,7 +1551,7 @@
    "color": "#76492d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 12
   },
@@ -1551,7 +1565,7 @@
    "color": "#762d4b",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1565,7 +1579,7 @@
    "color": "#2d5f76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 1
   },
@@ -1579,7 +1593,7 @@
    "color": "#765b2d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 4
   },
@@ -1593,7 +1607,7 @@
    "color": "#39762d",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 8
   },
@@ -1607,7 +1621,7 @@
    "color": "#2d7663",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 0
   },
@@ -1621,7 +1635,7 @@
    "color": "#602d76",
    "fg": "#FFFFFF",
    "note": "Found by company discovery",
-   "lastChecked": "2026-11-23T23:58:03.462Z",
+   "lastChecked": "2026-11-24T01:15:17.830Z",
    "status": "live",
    "count": 14
   }
@@ -2144,12 +2158,12 @@
    "salaryMin": 80000,
    "salaryMax": 90000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-11-23T23:58:05.014Z",
    "match": {
     "score": 1,
     "why": "This is a paid social marketing role requiring Meta Ads and ad copy experience the candidate lacks; her strongest overlap is reporting analytics, which the role treats as secondary.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:05.014Z"
   },
   {
    "id": "nyt-4755127005",
@@ -2332,12 +2346,12 @@
    "postedAt": "2026-11-23T12:56:06-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:05.079Z",
    "match": {
     "score": 1,
     "why": "This is an advertising sales role requiring 4+ years of selling digital ad solutions; the candidate's background is data analytics and engineering with no sales experience, a different field entirely.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:05.079Z"
   },
   {
    "id": "nyt-4753630005",
@@ -3491,6 +3505,25 @@
    "salaryCheckedAt": "2026-11-20T20:27:10.225Z"
   },
   {
+   "id": "pool-ashby-ad-hoc-296aa6fc-21bc-4bc6-8c70-e140c7ab7a38",
+   "sourceId": "pool-ashby-ad-hoc",
+   "title": "Senior Quality Assurance Engineer",
+   "location": "Remote",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/ad-hoc/296aa6fc-21bc-4bc6-8c70-e140c7ab7a38",
+   "postedAt": "2026-11-18T21:46:56.341+00:00",
+   "firstSeen": "2026-11-18T21:46:56.341+00:00",
+   "active": true,
+   "salaryMin": 150000,
+   "salaryMax": 200000,
+   "salarySource": "feed",
+   "match": {
+    "score": 2,
+    "why": "Her Oracle APEX and Power BI work and dashboard experience are adjacent, but the profile shows no QA or test-suite experience, and the posting requires 7+ years versus her roughly 4-5.",
+    "p": "2f29e710"
+   }
+  },
+  {
    "id": "pool-greenhouse-afresh-6251981004",
    "sourceId": "pool-greenhouse-afresh",
    "title": "Senior Engineering Manager, DC Buying",
@@ -3712,12 +3745,12 @@
    "salaryMin": 85000,
    "salaryMax": 115000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-23T23:58:09.193Z",
    "match": {
     "score": 1,
     "why": "This is a PR and media relations role requiring 5+ years of gaming PR agency experience (non-negotiable), while the candidate's background is data analytics, BI, and Oracle engineering with no PR experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:09.193Z"
   },
   {
    "id": "pool-greenhouse-berlinrosen-8951926002",
@@ -4494,12 +4527,12 @@
    "postedAt": "2026-11-23T17:09:40-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:12.752Z",
    "match": {
     "score": 1,
     "why": "The role is partner management and sales, and the candidate has no partnerships, channel, or pipeline experience. Her data and Power BI work is only a loose match for the data-driven requirement.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:12.752Z"
   },
   {
    "id": "pool-greenhouse-branch-8207574003",
@@ -4718,12 +4751,12 @@
    "postedAt": "2026-11-23T10:24:06-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:12.956Z",
    "match": {
     "score": 1,
     "why": "Senior partner-ecosystem strategy role requiring 10+ years in alliances or channel, a different field from the candidate's data, BI and Oracle engineering background, with no partner-program experience stated.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:12.956Z"
   },
   {
    "id": "pool-greenhouse-braze-8399184",
@@ -4823,12 +4856,12 @@
    "postedAt": "2026-11-23T13:33:23-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:12.960Z",
    "match": {
     "score": 2,
     "why": "Strength: post-migration validation and Excel-level data review transfer. Biggest gap: no accounts payable, accounting, or P2P experience, and no accounting degree.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:12.960Z"
   },
   {
    "id": "pool-greenhouse-braze-8401624",
@@ -4840,12 +4873,12 @@
    "postedAt": "2026-11-23T16:25:41-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:12.995Z",
    "match": {
     "score": 2,
     "why": "Strong on SQL, Snowflake-adjacent modeling, and Power BI reporting, but the role centers on expert dbt work, senior mentoring, and B2B SaaS GTM domain experience that the profile doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:12.995Z"
   },
   {
    "id": "pool-greenhouse-braze-8394001",
@@ -4857,12 +4890,12 @@
    "postedAt": "2026-11-23T15:55:52-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:12.998Z",
    "match": {
     "score": 2,
     "why": "Strong on analytics and training for non-technical stakeholders, but the role centers on customer success and renewals, and the candidate has no account management or CS history.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:12.998Z"
   },
   {
    "id": "pool-greenhouse-braze-8332488",
@@ -5303,12 +5336,12 @@
    "salaryMin": 100000,
    "salaryMax": 120000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-23T23:58:13.230Z",
    "match": {
     "score": 1,
     "why": "This is a legal contract role requiring in-house contract review and negotiation experience, which the candidate's data and IT background does not cover. Her healthcare data work is only a weak connection.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:13.230Z"
   },
   {
    "id": "pool-greenhouse-butterflynetwork-8042166003",
@@ -5483,23 +5516,6 @@
    "salaryCheckedAt": "2026-11-18T20:37:40.448Z"
   },
   {
-   "id": "pool-greenhouse-celonis-8201393003",
-   "sourceId": "pool-greenhouse-celonis",
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
-   "location": "Remote, Finland",
-   "remote": true,
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/8201393003?gh_jid=8201393003",
-   "postedAt": "2026-11-11T09:51:35-05:00",
-   "firstSeen": "2026-11-11T19:39:44.965Z",
-   "active": true,
-   "match": {
-    "score": 2,
-    "why": "Strong Oracle and Power BI background and AI tooling experience, but the role needs 5+ years in pre-sales or consulting, pharma and finance/supply chain domain depth, and Denmark or Finland eligibility, none of which the profile shows.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-18T20:37:40.452Z"
-  },
-  {
    "id": "pool-greenhouse-celonis-8201403003",
    "sourceId": "pool-greenhouse-celonis",
    "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
@@ -5515,6 +5531,23 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-18T20:37:40.465Z"
+  },
+  {
+   "id": "pool-greenhouse-celonis-8201393003",
+   "sourceId": "pool-greenhouse-celonis",
+   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
+   "location": "Remote, Finland",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8201393003?gh_jid=8201393003",
+   "postedAt": "2026-11-11T09:51:35-05:00",
+   "firstSeen": "2026-11-11T19:39:44.965Z",
+   "active": true,
+   "match": {
+    "score": 2,
+    "why": "Strong Oracle and Power BI background and AI tooling experience, but the role needs 5+ years in pre-sales or consulting, pharma and finance/supply chain domain depth, and Denmark or Finland eligibility, none of which the profile shows.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-18T20:37:40.452Z"
   },
   {
    "id": "pool-greenhouse-celonis-8201885003",
@@ -5707,23 +5740,6 @@
    "closedAt": "2026-11-14T18:11:32.903Z"
   },
   {
-   "id": "pool-greenhouse-chargepoint-8933521002",
-   "sourceId": "pool-greenhouse-chargepoint",
-   "title": "Senior Director, NAM Channels Sales",
-   "location": "CA - Remote",
-   "remote": true,
-   "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8933521002",
-   "postedAt": "2026-11-06T12:43:11-05:00",
-   "firstSeen": "2026-11-06T19:27:57.243Z",
-   "active": true,
-   "match": {
-    "score": 1,
-    "why": "This is a channel sales leadership role needing 12-15 years of sales and people management; the candidate's background is data analytics and engineering with no sales experience, a different field entirely.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-20T20:27:24.120Z"
-  },
-  {
    "id": "pool-greenhouse-chargepoint-8928964002",
    "sourceId": "pool-greenhouse-chargepoint",
    "title": "Senior Director, NAM Channels Sales",
@@ -5742,6 +5758,23 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-17T20:59:29.406Z"
+  },
+  {
+   "id": "pool-greenhouse-chargepoint-8933521002",
+   "sourceId": "pool-greenhouse-chargepoint",
+   "title": "Senior Director, NAM Channels Sales",
+   "location": "CA - Remote",
+   "remote": true,
+   "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8933521002",
+   "postedAt": "2026-11-06T12:43:11-05:00",
+   "firstSeen": "2026-11-06T19:27:57.243Z",
+   "active": true,
+   "match": {
+    "score": 1,
+    "why": "This is a channel sales leadership role needing 12-15 years of sales and people management; the candidate's background is data analytics and engineering with no sales experience, a different field entirely.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-20T20:27:24.120Z"
   },
   {
    "id": "pool-greenhouse-chargepoint-8930115002",
@@ -5938,12 +5971,12 @@
    "postedAt": "2026-11-23T09:55:57-05:00",
    "firstSeen": "2026-11-23T09:55:57-05:00",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:14.258Z",
    "match": {
     "score": 2,
     "why": "Strong SQL and Power BI skills match, but the role needs statistical modeling, survey research, team management, and sales or proposal experience, which the profile doesn't show.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:14.258Z"
   },
   {
    "id": "pool-ashby-classdojo-60f8d84c-8cdf-4754-94a5-237337a0ae58",
@@ -6051,12 +6084,12 @@
    "salaryMin": 143884,
    "salaryMax": 176138,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-23T23:58:14.597Z",
    "match": {
     "score": 1,
     "why": "This is a product management role requiring 10+ years of PM experience, while the candidate is a data analyst and engineer with about 4-5 years and no PM background; the only overlap is some AI tooling work and data analysis.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:14.597Z"
   },
   {
    "id": "pool-greenhouse-codeforamerica-8334676",
@@ -7469,12 +7502,12 @@
    "salaryMin": 115200,
    "salaryMax": 165000,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-11-23T23:58:17.664Z",
    "match": {
     "score": 2,
     "why": "Strength: Python and PowerShell automation plus AI tooling and documentation experience. Biggest gap: no stated SIEM, incident response, forensics, or GCP/AWS security experience for a 24/7 security role.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:17.664Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8950794002",
@@ -7489,12 +7522,12 @@
    "salaryMin": 71200,
    "salaryMax": 121200,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-11-23T23:58:17.719Z",
    "match": {
     "score": 3,
     "why": "Strong match on reporting, triage of ticket-style requests, documentation, and training for non-technical users; the biggest gap is no recruiting or applicant tracking system experience, though the posting welcomes transferable operations b",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:17.719Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8931179002",
@@ -7632,6 +7665,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-19T20:43:09.462Z"
+  },
+  {
+   "id": "pool-greenhouse-gitlab-8955887002",
+   "sourceId": "pool-greenhouse-gitlab",
+   "title": "Principal Executive Recruiter, R&D",
+   "location": "Remote, United States",
+   "remote": true,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8955887002",
+   "postedAt": "2026-11-23T20:05:27-05:00",
+   "firstSeen": "2026-11-24T01:15:17.830Z",
+   "active": true,
+   "salaryMin": 184800,
+   "salaryMax": 314400,
+   "salarySource": "feed",
+   "salaryCheckedAt": "2026-11-24T01:15:27.988Z",
+   "match": {
+    "score": 1,
+    "why": "This is an executive recruiting role, a different field from the candidate's data analyst and BI engineering background, with no overlap in required skills. Her technical work doesn't transfer to searching for senior leaders.",
+    "p": "2f29e710"
+   }
   },
   {
    "id": "pool-greenhouse-gitlab-8935860002",
@@ -7820,12 +7873,12 @@
    "salaryMin": 95200,
    "salaryMax": 160800,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-11-23T23:58:17.723Z",
    "match": {
     "score": 1,
     "why": "Strength: some stakeholder communication and documentation experience. Biggest gap: this is an executive assistant role, a different field from the data and BI work in her profile.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:17.723Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8927560002",
@@ -7994,12 +8047,12 @@
    "salaryMin": 104800,
    "salaryMax": 176400,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-11-23T23:58:17.728Z",
    "match": {
     "score": 3,
     "why": "Strong overlap in Power BI dashboards for senior stakeholders, recurring report automation, and AI workflows; the biggest gaps are no recruiting or HR-tech background and no enterprise ATS experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:17.728Z"
   },
   {
    "id": "pool-greenhouse-gitlab-8928762002",
@@ -10471,12 +10524,12 @@
    "salaryMin": 145000,
    "salaryMax": 170000,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-23T23:58:19.103Z",
    "match": {
     "score": 2,
     "why": "Her healthcare-adjacent work (Oracle Health hospital IT, HIPAA) and analytics strengths match only loosely. The biggest gap is the lack of required strategic partnership or payer account-leadership experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.103Z"
   },
   {
    "id": "pool-greenhouse-mavenclinic-8932349002",
@@ -10807,26 +10860,6 @@
    "salaryCheckedAt": "2026-11-17T21:00:11.098Z"
   },
   {
-   "id": "pool-greenhouse-oscar-8412428",
-   "sourceId": "pool-greenhouse-oscar",
-   "title": "Associate, Payment Integrity",
-   "location": "Remote",
-   "remote": true,
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8412428",
-   "postedAt": "2026-11-23T16:17:02-05:00",
-   "firstSeen": "2026-11-23T23:58:03.462Z",
-   "active": true,
-   "salaryMin": 85199,
-   "salaryMax": 111823,
-   "salarySource": "description",
-   "salaryCheckedAt": "2026-11-23T23:58:19.245Z",
-   "match": {
-    "score": 2,
-    "why": "Strong Oracle SQL and data-validation skills match the role's SQL requirement, but the candidate has no claims processing, coding, or payment integrity experience, and the posting asks for 4+ years.",
-    "p": "2f29e710"
-   }
-  },
-  {
    "id": "pool-greenhouse-oscar-8394175",
    "sourceId": "pool-greenhouse-oscar",
    "title": "Associate, Payment Integrity",
@@ -10839,12 +10872,32 @@
    "salaryMin": 93719,
    "salaryMax": 123006,
    "salarySource": "description",
-   "salaryCheckedAt": "2026-11-23T23:58:19.247Z",
    "match": {
     "score": 2,
     "why": "Strong Oracle SQL and data-conversion skills match the SQL requirement, but she has no claims processing, coding, or reimbursement experience, which the posting requires.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.247Z"
+  },
+  {
+   "id": "pool-greenhouse-oscar-8412428",
+   "sourceId": "pool-greenhouse-oscar",
+   "title": "Associate, Payment Integrity",
+   "location": "Remote",
+   "remote": true,
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8412428",
+   "postedAt": "2026-11-23T16:17:02-05:00",
+   "firstSeen": "2026-11-23T23:58:03.462Z",
+   "active": true,
+   "salaryMin": 85199,
+   "salaryMax": 111823,
+   "salarySource": "description",
+   "match": {
+    "score": 2,
+    "why": "Strong Oracle SQL and data-validation skills match the role's SQL requirement, but the candidate has no claims processing, coding, or payment integrity experience, and the posting asks for 4+ years.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.245Z"
   },
   {
    "id": "pool-greenhouse-oscar-8374121",
@@ -11677,12 +11730,12 @@
    "postedAt": "2026-11-23T13:25:21-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:19.303Z",
    "match": {
     "score": 2,
     "why": "Her Python and automation work is a real match, but the internship requires current enrollment in a degree program with a 2027–2028 graduation, and she has no stated Java, C++, Go, or HTML5/JavaScript experience.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.303Z"
   },
   {
    "id": "pool-greenhouse-oscar-8386380",
@@ -12149,26 +12202,6 @@
    "salaryCheckedAt": "2026-11-17T21:00:19.448Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8325433",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Core Enterprise Account Executive Midwest",
-   "location": "Remote - OH; Remote - OK",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8325433?gh_jid=8325433",
-   "postedAt": "2026-10-26T15:12:42-04:00",
-   "firstSeen": "2026-10-26T15:12:42-04:00",
-   "active": true,
-   "salaryMin": 222400,
-   "salaryMax": 278000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records, which the candidate's data analytics and engineering background does not match at all.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-17T21:00:19.575Z"
-  },
-  {
    "id": "pool-greenhouse-samsara-8325434",
    "sourceId": "pool-greenhouse-samsara",
    "title": "Core Enterprise Account Executive Midwest",
@@ -12187,6 +12220,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-17T21:00:19.533Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8325433",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Core Enterprise Account Executive Midwest",
+   "location": "Remote - OH; Remote - OK",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8325433?gh_jid=8325433",
+   "postedAt": "2026-10-26T15:12:42-04:00",
+   "firstSeen": "2026-10-26T15:12:42-04:00",
+   "active": true,
+   "salaryMin": 222400,
+   "salaryMax": 278000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing experience and quota records, which the candidate's data analytics and engineering background does not match at all.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-17T21:00:19.575Z"
   },
   {
    "id": "pool-greenhouse-samsara-8325432",
@@ -12629,26 +12682,6 @@
    "salaryCheckedAt": "2026-11-20T20:27:44.551Z"
   },
   {
-   "id": "pool-greenhouse-samsara-8325481",
-   "sourceId": "pool-greenhouse-samsara",
-   "title": "Public Sector Major Account Executive",
-   "location": "Remote - AZ; Remote - CA; Remote - NY; Remote - TX",
-   "remote": true,
-   "url": "https://www.samsara.com/company/careers/roles/8325481?gh_jid=8325481",
-   "postedAt": "2026-10-26T15:26:36-04:00",
-   "firstSeen": "2026-10-26T15:26:36-04:00",
-   "active": true,
-   "salaryMin": 350000,
-   "salaryMax": 350000,
-   "salarySource": "feed",
-   "match": {
-    "score": 1,
-    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing SLED/government sales with a quota track record; the candidate is a data analyst with no sales experience, so the gap is in the core function.",
-    "p": "2f29e710"
-   },
-   "salaryCheckedAt": "2026-11-17T21:00:20.182Z"
-  },
-  {
    "id": "pool-greenhouse-samsara-8325483",
    "sourceId": "pool-greenhouse-samsara",
    "title": "Public Sector Major Account Executive",
@@ -12667,6 +12700,26 @@
     "p": "2f29e710"
    },
    "salaryCheckedAt": "2026-11-17T21:00:20.186Z"
+  },
+  {
+   "id": "pool-greenhouse-samsara-8325481",
+   "sourceId": "pool-greenhouse-samsara",
+   "title": "Public Sector Major Account Executive",
+   "location": "Remote - AZ; Remote - CA; Remote - NY; Remote - TX",
+   "remote": true,
+   "url": "https://www.samsara.com/company/careers/roles/8325481?gh_jid=8325481",
+   "postedAt": "2026-10-26T15:26:36-04:00",
+   "firstSeen": "2026-10-26T15:26:36-04:00",
+   "active": true,
+   "salaryMin": 350000,
+   "salaryMax": 350000,
+   "salarySource": "feed",
+   "match": {
+    "score": 1,
+    "why": "This is a full-cycle enterprise sales role requiring 5+ years of closing SLED/government sales with a quota track record; the candidate is a data analyst with no sales experience, so the gap is in the core function.",
+    "p": "2f29e710"
+   },
+   "salaryCheckedAt": "2026-11-17T21:00:20.182Z"
   },
   {
    "id": "pool-greenhouse-samsara-8353283",
@@ -12841,12 +12894,12 @@
    "salaryMin": 118160,
    "salaryMax": 189900,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-11-23T23:58:19.565Z",
    "match": {
     "score": 1,
     "why": "This is a senior supply chain and NPI planning leadership role needing 10+ years and managing teams, far from the candidate's data analyst and engineering background with 4-5 years and no people management.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.565Z"
   },
   {
    "id": "pool-greenhouse-samsara-8353132",
@@ -13152,7 +13205,7 @@
    "id": "pool-greenhouse-samsara-7985175",
    "sourceId": "pool-greenhouse-samsara",
    "title": "Sr. Software Engineer I",
-   "location": "Remote - Seattle",
+   "location": "Remote - US",
    "remote": true,
    "url": "https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175",
    "postedAt": "2026-11-03T15:11:23-05:00",
@@ -13238,12 +13291,12 @@
    "salaryMin": 111563,
    "salaryMax": 168750,
    "salarySource": "feed",
-   "salaryCheckedAt": "2026-11-23T23:58:19.562Z",
    "match": {
     "score": 2,
     "why": "Her Power BI dashboards and AI workflow automation match the posting's automation goals, but she has no supply chain, NPI, hardware, or sourcing experience, which are core requirements.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.562Z"
   },
   {
    "id": "pool-greenhouse-samsara-8327792",
@@ -13994,12 +14047,12 @@
    "postedAt": "2026-11-23T09:29:18-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:19.745Z",
    "match": {
     "score": 1,
     "why": "A restaurant busser role with physical duties and no tech or data work; the candidate's Oracle, Power BI and analytics background has no match here.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.745Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5012871101",
@@ -14082,12 +14135,12 @@
    "postedAt": "2026-11-23T14:08:24-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:19.739Z",
    "match": {
     "score": 1,
     "why": "This is a restaurant food runner role, a different field from the candidate's data, BI, and Oracle analytics background, with no data or technical duties in the posting.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.739Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5016520101",
@@ -14116,12 +14169,12 @@
    "postedAt": "2026-11-23T16:12:26-05:00",
    "firstSeen": "2026-11-23T23:58:03.462Z",
    "active": true,
-   "salaryCheckedAt": "2026-11-23T23:58:19.792Z",
    "match": {
     "score": 1,
     "why": "This is a restaurant server captain role, a different field from the candidate's data analytics and engineering background; her only overlap is general POS and customer-facing familiarity, not the work itself.",
     "p": "2f29e710"
-   }
+   },
+   "salaryCheckedAt": "2026-11-23T23:58:19.792Z"
   },
   {
    "id": "pool-greenhouse-sohohouseco-5026718101",
