@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T23:01:25.498Z",
+ "updatedAt": "2026-11-24T01:12:08.624Z",
  "entries": [
   {
    "name": "100Kin10",
@@ -10,7 +10,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -22,7 +22,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -34,7 +34,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -46,7 +46,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "greenhouse",
    "slug": "2u",
    "decided": "override",
@@ -61,7 +61,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -73,7 +73,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -85,7 +85,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -97,7 +97,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -121,7 +121,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Boards exist but did not look like this company: lever/abt",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -133,7 +133,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -145,7 +145,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -157,7 +157,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -169,7 +169,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Boards exist but did not look like this company: ashby/access",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -181,7 +181,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -193,7 +193,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -221,7 +221,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Boards exist but did not look like this company: greenhouse/aclu (\"ACLU - National Office\")",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -249,7 +249,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Boards exist but did not look like this company: greenhouse/action (\"Action Garage Doors\")",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -261,7 +261,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Boards exist but did not look like this company: greenhouse/action (\"Action Garage Doors\")",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -283,14 +283,18 @@
   {
    "name": "Ad Hoc",
    "key": "adhoc",
-   "status": "notfound",
+   "status": "matched",
    "sources": [
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
-   "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
-   "resolver": 2
+   "reason": "Company is named in 1 of 1 sampled postings",
+   "lastTried": "2026-11-24T01:12:08.624Z",
+   "resolver": 2,
+   "method": "ashby",
+   "slug": "ad-hoc",
+   "boardName": "",
+   "jobCount": 1
   },
   {
    "name": "Advocacy Institute",
@@ -300,8 +304,8 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
-   "reason": "Boards exist but did not look like this company: greenhouse/advocacy (\"Doctolib - Advocacy\")",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -325,7 +329,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -354,7 +358,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -366,7 +370,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -394,7 +398,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -406,7 +410,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -418,17 +422,20 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
    "name": "Alexandria, VA",
    "key": "alexandriava",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-11-16T23:01:25.498Z"
+   "firstFound": "2026-11-16T23:01:25.498Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-11-24T01:12:08.624Z",
+   "resolver": 2
   },
   {
    "name": "Alfred P. Sloan Foundation",
@@ -439,7 +446,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -451,7 +458,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -463,7 +470,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -487,7 +494,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -499,7 +506,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -511,7 +518,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -569,7 +576,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -581,7 +588,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -605,8 +612,17 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
+  },
+  {
+   "name": "Amarillo, TX",
+   "key": "amarillotx",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "Amazon Watch",
@@ -617,7 +633,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -645,7 +661,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -657,7 +673,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -669,17 +685,20 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
    "name": "American Civil Liberties Union",
    "key": "americancivillibertiesunion",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-11-16T23:01:25.498Z"
+   "firstFound": "2026-11-16T23:01:25.498Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-11-24T01:12:08.624Z",
+   "resolver": 2
   },
   {
    "name": "American Efficient",
@@ -690,7 +709,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -702,7 +721,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -714,7 +733,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -726,7 +745,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -738,7 +757,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -750,7 +769,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -762,7 +781,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -774,7 +793,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -786,7 +805,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -798,7 +817,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -810,7 +829,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -822,7 +841,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -850,7 +869,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -862,7 +881,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -890,7 +909,7 @@
    ],
    "firstFound": "2026-10-26T19:34:12.412Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -902,7 +921,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -914,7 +933,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -926,7 +945,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Boards exist but did not look like this company: ashby/arbor",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -958,6 +977,15 @@
    "resolver": 2
   },
   {
+   "name": "Archive",
+   "key": "archive",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "Arnold Ventures",
    "key": "arnoldventures",
    "status": "notfound",
@@ -966,8 +994,17 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
+  },
+  {
+   "name": "Array Behavioral Care",
+   "key": "arraybehavioralcare",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "Art Lifting",
@@ -978,7 +1015,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1005,7 +1042,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1017,7 +1054,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Boards exist but did not look like this company: lever/ashoka",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1029,7 +1066,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1041,7 +1078,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1053,7 +1090,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1065,7 +1102,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1093,7 +1130,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1105,7 +1142,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1117,7 +1154,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:47:25.800Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1157,7 +1194,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1181,7 +1218,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1193,7 +1230,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1205,7 +1242,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1217,7 +1254,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1229,17 +1266,20 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
    "name": "Baltimore City",
    "key": "baltimorecity",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-11-16T23:01:25.498Z"
+   "firstFound": "2026-11-16T23:01:25.498Z",
+   "reason": "No board found on Greenhouse, Ashby or Lever",
+   "lastTried": "2026-11-24T01:12:08.624Z",
+   "resolver": 2
   },
   {
    "name": "Baltimore Office of Performance & Innovation",
@@ -1250,7 +1290,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1262,7 +1302,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
@@ -1274,17 +1314,20 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "No board found on Greenhouse, Ashby or Lever",
-   "lastTried": "2026-10-27T00:54:41.603Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "resolver": 2
   },
   {
    "name": "Bay Area Air Quality Management District",
    "key": "bayareaairqualitymanagementdistrict",
-   "status": "pending",
+   "status": "notfound",
    "sources": [
     "Tech Jobs for Good"
    ],
-   "firstFound": "2026-11-16T23:01:25.498Z"
+   "firstFound": "2026-11-16T23:01:25.498Z",
+   "reason": "Boards exist but did not look like this company: ashby/bay",
+   "lastTried": "2026-11-24T01:12:08.624Z",
+   "resolver": 2
   },
   {
    "name": "Beeck Center for Social Impact + Innovation",
@@ -1483,7 +1526,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "greenhouse",
    "slug": "day1academies",
    "decided": "override",
@@ -2962,6 +3005,15 @@
    "resolver": 2
   },
   {
+   "name": "City of Harrisonburg, VA - Government",
+   "key": "cityofharrisonburgvagovernment",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "City of Long Beach",
    "key": "cityoflongbeach",
    "status": "notfound",
@@ -2972,6 +3024,15 @@
    "reason": "No board found on Greenhouse, Ashby or Lever",
    "lastTried": "2026-11-16T23:01:25.498Z",
    "resolver": 2
+  },
+  {
+   "name": "City of Los Angeles",
+   "key": "cityoflosangeles",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "City of Madison",
@@ -3041,6 +3102,15 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-11-16T23:01:25.498Z"
+  },
+  {
+   "name": "City of Riverside",
+   "key": "cityofriverside",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "City of Sacramento",
@@ -4367,6 +4437,15 @@
    "resolver": 2
   },
   {
+   "name": "Digital Harbor Foundation",
+   "key": "digitalharborfoundation",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "Digital Promise",
    "key": "digitalpromise",
    "status": "notfound",
@@ -5303,7 +5382,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "lever",
    "slug": "exygy",
    "decided": "override",
@@ -5792,6 +5871,15 @@
    "firstFound": "2026-10-26T23:23:03.151Z"
   },
   {
+   "name": "Friends From The City",
+   "key": "friendsfromthecity",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "Full Circle Fund",
    "key": "fullcirclefund",
    "status": "pending",
@@ -5911,6 +5999,15 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z"
+  },
+  {
+   "name": "Gifted Savings",
+   "key": "giftedsavings",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "Giga (the UN initiative for connectivity)",
@@ -6107,7 +6204,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "greenhouse",
    "slug": "glossgenius",
    "decided": "override",
@@ -6664,6 +6761,15 @@
    "firstFound": "2026-10-26T23:23:03.151Z"
   },
   {
+   "name": "Honolulu",
+   "key": "honolulu",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "Honor",
    "key": "honor",
    "status": "pending",
@@ -7164,6 +7270,15 @@
    "firstFound": "2026-11-16T23:01:25.498Z"
   },
   {
+   "name": "Judicial Council of California",
+   "key": "judicialcouncilofcalifornia",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "Jupiter Intelligence",
    "key": "jupiterintelligence",
    "status": "pending",
@@ -7263,6 +7378,15 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-11-16T23:01:25.498Z"
+  },
+  {
+   "name": "King County, WA",
+   "key": "kingcountywa",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "Kinvolved",
@@ -8168,6 +8292,15 @@
    "firstFound": "2026-10-26T23:23:03.151Z"
   },
   {
+   "name": "National Forest Foundation",
+   "key": "nationalforestfoundation",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "National Geographic Society",
    "key": "nationalgeographicsociety",
    "status": "pending",
@@ -8175,6 +8308,15 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z"
+  },
+  {
+   "name": "National MS Society",
+   "key": "nationalmssociety",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "National Network for Safe Commnities",
@@ -8767,7 +8909,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "greenhouse",
    "slug": "oscar",
    "decided": "override",
@@ -8871,6 +9013,15 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z"
+  },
+  {
+   "name": "ParentsTogether Foundation",
+   "key": "parentstogetherfoundation",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "Participatory Culture Foundation",
@@ -9547,6 +9698,15 @@
    "firstFound": "2026-10-26T23:23:03.151Z"
   },
   {
+   "name": "ReadWorks",
+   "key": "readworks",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
+  },
+  {
    "name": "Reboot",
    "key": "reboot",
    "status": "pending",
@@ -10207,7 +10367,7 @@
    ],
    "firstFound": "2026-10-22T17:32:09.774Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "greenhouse",
    "slug": "sohohouseco",
    "decided": "override",
@@ -10340,7 +10500,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "greenhouse",
    "slug": "springhealth66",
    "decided": "override",
@@ -10436,6 +10596,15 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z"
+  },
+  {
+   "name": "Sugar Land, Texas",
+   "key": "sugarlandtexas",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "Summer",
@@ -10546,7 +10715,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "lever",
    "slug": "goswift",
    "decided": "override",
@@ -11349,7 +11518,7 @@
    ],
    "firstFound": "2026-10-26T23:23:03.151Z",
    "reason": "Pinned in pool-overrides.json",
-   "lastTried": "2026-11-16T23:01:25.498Z",
+   "lastTried": "2026-11-24T01:12:08.624Z",
    "method": "lever",
    "slug": "thetrevorproject",
    "decided": "override",
@@ -11813,6 +11982,15 @@
     "Tech Jobs for Good"
    ],
    "firstFound": "2026-10-26T23:23:03.151Z"
+  },
+  {
+   "name": "University of Georgia",
+   "key": "universityofgeorgia",
+   "status": "pending",
+   "sources": [
+    "Tech Jobs for Good"
+   ],
+   "firstFound": "2026-11-24T01:12:08.624Z"
   },
   {
    "name": "University of Tennessee Foundation, Inc (UTFI)",
